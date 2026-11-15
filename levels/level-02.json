@@ -1,0 +1,55 @@
+{
+  "id": 2,
+  "title": "Desafio 02",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 49,
+  "categories": [
+    {
+      "name": "Movimentos literários",
+      "words": [
+        "Barroco",
+        "Arcadismo",
+        "Romantismo"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Rivais paulistas",
+      "words": [
+        "Palmeiras",
+        "São Paulo",
+        "Santos"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Títulos do Corinthians",
+      "words": [
+        "Libertadores 2012",
+        "Mundial 2000",
+        "Mundial 2012"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Copas do Mundo",
+      "words": [
+        "México 1970",
+        "Espanha 1982",
+        "Estados Unidos 1994"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Técnicos campeões pelo Corinthians",
+      "words": [
+        "Oswaldo Brandão",
+        "Tite",
+        "Fábio Carille"
+      ],
+      "icone": "ball"
+    }
+  ],
+  "hiddenCategories": 1
+}
