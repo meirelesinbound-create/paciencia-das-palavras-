@@ -9,19 +9,19 @@
     "moves": 49,
     "categories": [
       {
-        "name": "Frutas",
+        "name": "Biomas brasileiros",
         "words": [
-          "Banana",
-          "Laranja",
-          "Mamão"
+          "Caatinga",
+          "Cerrado",
+          "Pantanal"
         ]
       },
       {
-        "name": "Comidas brasileiras",
+        "name": "Filmes de Christopher Nolan",
         "words": [
-          "Feijoada",
-          "Acarajé",
-          "Pamonha"
+          "Amnésia",
+          "O Grande Truque",
+          "A Origem"
         ]
       }
     ]
@@ -36,19 +36,19 @@
     "moves": 52,
     "categories": [
       {
-        "name": "Países",
+        "name": "Movimentos literários",
         "words": [
-          "Brasil",
-          "Canadá",
-          "Japão"
+          "Barroco",
+          "Arcadismo",
+          "Romantismo"
         ]
       },
       {
-        "name": "Vegetais",
+        "name": "Rivais paulistas",
         "words": [
-          "Cenoura",
-          "Abobrinha",
-          "Beterraba"
+          "Palmeiras",
+          "São Paulo",
+          "Santos"
         ]
       }
     ]
@@ -63,19 +63,19 @@
     "moves": 55,
     "categories": [
       {
-        "name": "Instrumentos musicais",
+        "name": "Termos da astronomia",
         "words": [
-          "Violão",
-          "Flauta",
-          "Pandeiro"
+          "Periélio",
+          "Afélio",
+          "Eclíptica"
         ]
       },
       {
-        "name": "Oceanos e mares",
+        "name": "Posições do futebol",
         "words": [
-          "Atlântico",
-          "Pacífico",
-          "Mediterrâneo"
+          "Goleiro",
+          "Zagueiro",
+          "Lateral"
         ]
       }
     ]
@@ -90,19 +90,19 @@
     "moves": 59,
     "categories": [
       {
-        "name": "Meios de transporte",
+        "name": "Unidades de medida",
         "words": [
-          "Bicicleta",
-          "Metrô",
-          "Navio"
+          "Pascal",
+          "Joule",
+          "Newton"
         ]
       },
       {
-        "name": "Partes do corpo",
+        "name": "Personagens de Game of Thrones",
         "words": [
-          "Cotovelo",
-          "Pulso",
-          "Calcanhar"
+          "Jon Snow",
+          "Daenerys Targaryen",
+          "Tyrion Lannister"
         ]
       }
     ]
@@ -117,19 +117,19 @@
     "moves": 62,
     "categories": [
       {
-        "name": "Aves",
+        "name": "Fenômenos ópticos",
         "words": [
-          "Arara",
-          "Tucano",
-          "Pinguim"
+          "Refração",
+          "Difração",
+          "Dispersão"
         ]
       },
       {
-        "name": "Fenômenos naturais",
+        "name": "Filmes de animação da Pixar",
         "words": [
-          "Tornado",
-          "Eclipse",
-          "Aurora"
+          "Ratatouille",
+          "WALL-E",
+          "Viva"
         ]
       }
     ]
@@ -144,19 +144,19 @@
     "moves": 65,
     "categories": [
       {
-        "name": "Ferramentas",
+        "name": "Termos da astronomia",
         "words": [
-          "Martelo",
-          "Alicate",
-          "Serrote"
+          "Periélio",
+          "Afélio",
+          "Eclíptica"
         ]
       },
       {
-        "name": "Flores",
+        "name": "Títulos do Corinthians",
         "words": [
-          "Girassol",
-          "Orquídea",
-          "Hibisco"
+          "Libertadores 2012",
+          "Mundial 2000",
+          "Mundial 2012"
         ]
       }
     ]
@@ -171,27 +171,27 @@
     "moves": 73,
     "categories": [
       {
-        "name": "Materiais",
+        "name": "Unidades de medida",
         "words": [
-          "Madeira",
-          "Cerâmica",
-          "Alumínio"
+          "Pascal",
+          "Joule",
+          "Newton"
         ]
       },
       {
-        "name": "Astros",
+        "name": "Copas do Mundo",
         "words": [
-          "Cometa",
-          "Nebulosa",
-          "Galáxia"
+          "México 1970",
+          "Espanha 1982",
+          "Estados Unidos 1994"
         ]
       },
       {
-        "name": "Profissões",
+        "name": "Técnicos campeões pelo Corinthians",
         "words": [
-          "Médica",
-          "Bombeiro",
-          "Arquiteta"
+          "Oswaldo Brandão",
+          "Tite",
+          "Fábio Carille"
         ]
       }
     ]
@@ -206,27 +206,27 @@
     "moves": 76,
     "categories": [
       {
-        "name": "Objetos escolares",
+        "name": "Fenômenos ópticos",
         "words": [
-          "Caderno",
-          "Compasso",
-          "Estojo"
+          "Refração",
+          "Difração",
+          "Dispersão"
         ]
       },
       {
-        "name": "Animais",
+        "name": "Personagens de The Office",
         "words": [
-          "Onça",
-          "Capivara",
-          "Tamanduá"
+          "Michael Scott",
+          "Dwight Schrute",
+          "Jim Halpert"
         ]
       },
       {
-        "name": "Esportes",
+        "name": "Goleiros históricos",
         "words": [
-          "Natação",
-          "Judô",
-          "Vôlei"
+          "Taffarel",
+          "Dida",
+          "Marcos"
         ]
       }
     ]
@@ -241,27 +241,27 @@
     "moves": 79,
     "categories": [
       {
-        "name": "Frutas",
+        "name": "Cordilheiras",
         "words": [
-          "Banana",
-          "Laranja",
-          "Mamão"
+          "Andes",
+          "Himalaia",
+          "Alpes"
         ]
       },
       {
-        "name": "Comidas brasileiras",
+        "name": "Cinema brasileiro",
         "words": [
-          "Feijoada",
-          "Acarajé",
-          "Pamonha"
+          "Central do Brasil",
+          "O Auto da Compadecida",
+          "Cidade de Deus"
         ]
       },
       {
-        "name": "Cores",
+        "name": "Personagens de The Simpsons",
         "words": [
-          "Violeta",
-          "Turquesa",
-          "Escarlate"
+          "Homer Simpson",
+          "Marge Simpson",
+          "Bart Simpson"
         ]
       }
     ]
@@ -276,27 +276,30 @@
     "moves": 82,
     "categories": [
       {
-        "name": "Países",
+        "name": "Gêneros musicais brasileiros",
         "words": [
-          "Brasil",
-          "Canadá",
-          "Japão"
+          "Choro",
+          "Maracatu",
+          "Frevo",
+          "Samba-reggae"
         ]
       },
       {
-        "name": "Vegetais",
+        "name": "Personagens da Democracia Corinthiana",
         "words": [
-          "Cenoura",
-          "Abobrinha",
-          "Beterraba"
+          "Sócrates",
+          "Wladimir",
+          "Casagrande",
+          "Zenon"
         ]
       },
       {
-        "name": "Bebidas",
+        "name": "Filmes vencedores da Palma de Ouro",
         "words": [
-          "Guaraná",
-          "Chimarrão",
-          "Café"
+          "Pulp Fiction",
+          "Parasita",
+          "Anatomia de uma Queda",
+          "Triângulo da Tristeza"
         ]
       }
     ]
@@ -311,27 +314,27 @@
     "moves": 86,
     "categories": [
       {
-        "name": "Instrumentos musicais",
+        "name": "Fenômenos ópticos",
         "words": [
-          "Violão",
-          "Flauta",
-          "Pandeiro"
+          "Refração",
+          "Difração",
+          "Dispersão"
         ]
       },
       {
-        "name": "Oceanos e mares",
+        "name": "Goleiros históricos",
         "words": [
-          "Atlântico",
-          "Pacífico",
-          "Mediterrâneo"
+          "Taffarel",
+          "Dida",
+          "Marcos"
         ]
       },
       {
-        "name": "Doces",
+        "name": "Atacantes históricos do Corinthians",
         "words": [
-          "Brigadeiro",
-          "Quindim",
-          "Paçoca"
+          "Cláudio Christóvam",
+          "Baltazar",
+          "Luizão"
         ]
       }
     ]
@@ -346,27 +349,30 @@
     "moves": 89,
     "categories": [
       {
-        "name": "Meios de transporte",
+        "name": "Cordilheiras",
         "words": [
-          "Bicicleta",
-          "Metrô",
-          "Navio"
+          "Andes",
+          "Himalaia",
+          "Alpes",
+          "Atlas"
         ]
       },
       {
-        "name": "Partes do corpo",
+        "name": "Personagens de The Simpsons",
         "words": [
-          "Cotovelo",
-          "Pulso",
-          "Calcanhar"
+          "Homer Simpson",
+          "Marge Simpson",
+          "Bart Simpson",
+          "Lisa Simpson"
         ]
       },
       {
-        "name": "Lugares da cidade",
+        "name": "Seleções campeãs do mundo",
         "words": [
-          "Biblioteca",
-          "Farmácia",
-          "Padaria"
+          "Brasil",
+          "Alemanha",
+          "Itália",
+          "Argentina"
         ]
       }
     ]
@@ -381,35 +387,35 @@
     "moves": 96,
     "categories": [
       {
-        "name": "Aves",
+        "name": "Gêneros musicais brasileiros",
         "words": [
-          "Arara",
-          "Tucano",
-          "Pinguim"
+          "Choro",
+          "Maracatu",
+          "Frevo"
         ]
       },
       {
-        "name": "Fenômenos naturais",
+        "name": "Filmes vencedores da Palma de Ouro",
         "words": [
-          "Tornado",
-          "Eclipse",
-          "Aurora"
+          "Pulp Fiction",
+          "Parasita",
+          "Anatomia de uma Queda"
         ]
       },
       {
-        "name": "Climas",
+        "name": "Personagens de Breaking Bad",
         "words": [
-          "Tropical",
-          "Polar",
-          "Desértico"
+          "Walter White",
+          "Jesse Pinkman",
+          "Saul Goodman"
         ]
       },
       {
-        "name": "Países",
+        "name": "Competições de clubes",
         "words": [
-          "Brasil",
-          "Canadá",
-          "Japão"
+          "Libertadores",
+          "Sul-Americana",
+          "Champions League"
         ]
       }
     ]
@@ -424,35 +430,39 @@
     "moves": 100,
     "categories": [
       {
-        "name": "Ferramentas",
+        "name": "Tipos de rocha",
         "words": [
-          "Martelo",
-          "Alicate",
-          "Serrote"
+          "Ígnea",
+          "Sedimentar",
+          "Metamórfica",
+          "Vulcânica"
         ]
       },
       {
-        "name": "Flores",
+        "name": "Apelidos e símbolos da torcida",
         "words": [
-          "Girassol",
-          "Orquídea",
-          "Hibisco"
+          "Fiel",
+          "Bando de Loucos",
+          "Gaviões da Fiel",
+          "Mosqueteiro"
         ]
       },
       {
-        "name": "Planetas",
+        "name": "Filmes de ficção científica",
         "words": [
-          "Mercúrio",
-          "Marte",
-          "Saturno"
+          "Blade Runner",
+          "Gattaca",
+          "Distrito 9",
+          "Ex Machina"
         ]
       },
       {
-        "name": "Instrumentos musicais",
+        "name": "Personagens de Friends",
         "words": [
-          "Violão",
-          "Flauta",
-          "Pandeiro"
+          "Rachel Green",
+          "Ross Geller",
+          "Phoebe Buffay",
+          "Chandler Bing"
         ]
       }
     ]
@@ -467,35 +477,35 @@
     "moves": 103,
     "categories": [
       {
-        "name": "Materiais",
+        "name": "Elementos químicos",
         "words": [
-          "Madeira",
-          "Cerâmica",
-          "Alumínio"
+          "Gálio",
+          "Bromo",
+          "Cobalto"
         ]
       },
       {
-        "name": "Astros",
+        "name": "Fundamentos do futebol",
         "words": [
-          "Cometa",
-          "Nebulosa",
-          "Galáxia"
+          "Drible",
+          "Cabeceio",
+          "Desarme"
         ]
       },
       {
-        "name": "Profissões",
+        "name": "Ídolos do Corinthians",
         "words": [
-          "Médica",
-          "Bombeiro",
-          "Arquiteta"
+          "Sócrates",
+          "Rivellino",
+          "Marcelinho Carioca"
         ]
       },
       {
-        "name": "Meios de transporte",
+        "name": "Filmes de Martin Scorsese",
         "words": [
-          "Bicicleta",
-          "Metrô",
-          "Navio"
+          "Taxi Driver",
+          "Os Bons Companheiros",
+          "Os Infiltrados"
         ]
       }
     ]
@@ -510,35 +520,39 @@
     "moves": 106,
     "categories": [
       {
-        "name": "Objetos escolares",
+        "name": "Gêneros musicais brasileiros",
         "words": [
-          "Caderno",
-          "Compasso",
-          "Estojo"
+          "Choro",
+          "Maracatu",
+          "Frevo",
+          "Samba-reggae"
         ]
       },
       {
-        "name": "Animais",
+        "name": "Personagens de Breaking Bad",
         "words": [
-          "Onça",
-          "Capivara",
-          "Tamanduá"
+          "Walter White",
+          "Jesse Pinkman",
+          "Saul Goodman",
+          "Hank Schrader"
         ]
       },
       {
-        "name": "Esportes",
+        "name": "Competições de clubes",
         "words": [
-          "Natação",
-          "Judô",
-          "Vôlei"
+          "Libertadores",
+          "Sul-Americana",
+          "Champions League",
+          "Mundial de Clubes"
         ]
       },
       {
-        "name": "Aves",
+        "name": "Personagens da Democracia Corinthiana",
         "words": [
-          "Arara",
-          "Tucano",
-          "Pinguim"
+          "Sócrates",
+          "Wladimir",
+          "Casagrande",
+          "Zenon"
         ]
       }
     ]
@@ -553,35 +567,35 @@
     "moves": 109,
     "categories": [
       {
-        "name": "Frutas",
+        "name": "Tipos de rocha",
         "words": [
-          "Banana",
-          "Laranja",
-          "Mamão"
+          "Ígnea",
+          "Sedimentar",
+          "Metamórfica"
         ]
       },
       {
-        "name": "Comidas brasileiras",
+        "name": "Filmes de ficção científica",
         "words": [
-          "Feijoada",
-          "Acarajé",
-          "Pamonha"
+          "Blade Runner",
+          "Gattaca",
+          "Distrito 9"
         ]
       },
       {
-        "name": "Cores",
+        "name": "Personagens de Friends",
         "words": [
-          "Violeta",
-          "Turquesa",
-          "Escarlate"
+          "Rachel Green",
+          "Ross Geller",
+          "Phoebe Buffay"
         ]
       },
       {
-        "name": "Ferramentas",
+        "name": "Grandes camisas 10",
         "words": [
-          "Martelo",
-          "Alicate",
-          "Serrote"
+          "Pelé",
+          "Zico",
+          "Maradona"
         ]
       }
     ]
@@ -596,35 +610,39 @@
     "moves": 112,
     "categories": [
       {
-        "name": "Países",
+        "name": "Elementos químicos",
         "words": [
-          "Brasil",
-          "Canadá",
-          "Japão"
+          "Gálio",
+          "Bromo",
+          "Cobalto",
+          "Xenônio"
         ]
       },
       {
-        "name": "Vegetais",
+        "name": "Ídolos do Corinthians",
         "words": [
-          "Cenoura",
-          "Abobrinha",
-          "Beterraba"
+          "Sócrates",
+          "Rivellino",
+          "Marcelinho Carioca",
+          "Neto"
         ]
       },
       {
-        "name": "Bebidas",
+        "name": "Filmes de Martin Scorsese",
         "words": [
-          "Guaraná",
-          "Chimarrão",
-          "Café"
+          "Taxi Driver",
+          "Os Bons Companheiros",
+          "Os Infiltrados",
+          "O Irlandês"
         ]
       },
       {
-        "name": "Materiais",
+        "name": "Personagens de The Last of Us",
         "words": [
-          "Madeira",
-          "Cerâmica",
-          "Alumínio"
+          "Joel Miller",
+          "Ellie Williams",
+          "Tommy Miller",
+          "Abby Anderson"
         ]
       }
     ]
@@ -639,39 +657,39 @@
     "moves": 122,
     "categories": [
       {
-        "name": "Instrumentos musicais",
+        "name": "Escolas filosóficas",
         "words": [
-          "Violão",
-          "Flauta",
-          "Pandeiro",
-          "Atabaque"
+          "Estoicismo",
+          "Epicurismo",
+          "Ceticismo",
+          "Existencialismo"
         ]
       },
       {
-        "name": "Oceanos e mares",
+        "name": "Termos de arbitragem",
         "words": [
-          "Atlântico",
-          "Pacífico",
-          "Mediterrâneo",
-          "Índico"
+          "Impedimento",
+          "Vantagem",
+          "Cartão amarelo",
+          "Cartão vermelho"
         ]
       },
       {
-        "name": "Doces",
+        "name": "Locais ligados ao Corinthians",
         "words": [
-          "Brigadeiro",
-          "Quindim",
-          "Paçoca",
-          "Pé de moleque"
+          "Neo Química Arena",
+          "Parque São Jorge",
+          "Fazendinha",
+          "Ponte Grande"
         ]
       },
       {
-        "name": "Objetos escolares",
+        "name": "Filmes do universo Star Wars",
         "words": [
-          "Caderno",
-          "Compasso",
-          "Estojo",
-          "Régua"
+          "Uma Nova Esperança",
+          "O Império Contra-Ataca",
+          "O Retorno de Jedi",
+          "Rogue One"
         ]
       }
     ]
@@ -686,39 +704,39 @@
     "moves": 125,
     "categories": [
       {
-        "name": "Meios de transporte",
+        "name": "Biomas brasileiros",
         "words": [
-          "Bicicleta",
-          "Metrô",
-          "Navio",
-          "Avião"
+          "Caatinga",
+          "Cerrado",
+          "Pantanal",
+          "Pampa"
         ]
       },
       {
-        "name": "Partes do corpo",
+        "name": "Personagens de Stranger Things",
         "words": [
-          "Cotovelo",
-          "Pulso",
-          "Calcanhar",
-          "Clavícula"
+          "Eleven",
+          "Dustin Henderson",
+          "Jim Hopper",
+          "Max Mayfield"
         ]
       },
       {
-        "name": "Lugares da cidade",
+        "name": "Estádios brasileiros",
         "words": [
-          "Biblioteca",
-          "Farmácia",
-          "Padaria",
-          "Museu"
+          "Maracanã",
+          "Mineirão",
+          "Arena Fonte Nova",
+          "Beira-Rio"
         ]
       },
       {
-        "name": "Frutas",
+        "name": "Finais marcantes do Corinthians",
         "words": [
-          "Banana",
-          "Laranja",
-          "Mamão",
-          "Manga"
+          "Mundial 2000",
+          "Libertadores 2012",
+          "Paulistão 1977",
+          "Copa do Brasil 2009"
         ]
       }
     ]
@@ -733,39 +751,39 @@
     "moves": 128,
     "categories": [
       {
-        "name": "Aves",
+        "name": "Elementos químicos",
         "words": [
-          "Arara",
-          "Tucano",
-          "Pinguim",
-          "Sabiá"
+          "Gálio",
+          "Bromo",
+          "Cobalto",
+          "Xenônio"
         ]
       },
       {
-        "name": "Fenômenos naturais",
+        "name": "Filmes de Martin Scorsese",
         "words": [
-          "Tornado",
-          "Eclipse",
-          "Aurora",
-          "Tsunami"
+          "Taxi Driver",
+          "Os Bons Companheiros",
+          "Os Infiltrados",
+          "O Irlandês"
         ]
       },
       {
-        "name": "Climas",
+        "name": "Personagens de The Last of Us",
         "words": [
-          "Tropical",
-          "Polar",
-          "Desértico",
-          "Temperado"
+          "Joel Miller",
+          "Ellie Williams",
+          "Tommy Miller",
+          "Abby Anderson"
         ]
       },
       {
-        "name": "Países",
+        "name": "Fundamentos do futebol",
         "words": [
-          "Brasil",
-          "Canadá",
-          "Japão",
-          "Portugal"
+          "Drible",
+          "Cabeceio",
+          "Desarme",
+          "Cruzamento"
         ]
       }
     ]
@@ -780,39 +798,39 @@
     "moves": 131,
     "categories": [
       {
-        "name": "Ferramentas",
+        "name": "Escolas filosóficas",
         "words": [
-          "Martelo",
-          "Alicate",
-          "Serrote",
-          "Chave de fenda"
+          "Estoicismo",
+          "Epicurismo",
+          "Ceticismo",
+          "Existencialismo"
         ]
       },
       {
-        "name": "Flores",
+        "name": "Locais ligados ao Corinthians",
         "words": [
-          "Girassol",
-          "Orquídea",
-          "Hibisco",
-          "Margarida"
+          "Neo Química Arena",
+          "Parque São Jorge",
+          "Fazendinha",
+          "Ponte Grande"
         ]
       },
       {
-        "name": "Planetas",
+        "name": "Filmes do universo Star Wars",
         "words": [
-          "Mercúrio",
-          "Marte",
-          "Saturno",
-          "Netuno"
+          "Uma Nova Esperança",
+          "O Império Contra-Ataca",
+          "O Retorno de Jedi",
+          "Rogue One"
         ]
       },
       {
-        "name": "Instrumentos musicais",
+        "name": "Séries de ficção científica",
         "words": [
-          "Violão",
-          "Flauta",
-          "Pandeiro",
-          "Atabaque"
+          "Black Mirror",
+          "Dark",
+          "Westworld",
+          "Fringe"
         ]
       }
     ]
@@ -827,39 +845,39 @@
     "moves": 134,
     "categories": [
       {
-        "name": "Materiais",
+        "name": "Biomas brasileiros",
         "words": [
-          "Madeira",
-          "Cerâmica",
-          "Alumínio",
-          "Vidro"
+          "Caatinga",
+          "Cerrado",
+          "Pantanal",
+          "Pampa"
         ]
       },
       {
-        "name": "Astros",
+        "name": "Estádios brasileiros",
         "words": [
-          "Cometa",
-          "Nebulosa",
-          "Galáxia",
-          "Estrela"
+          "Maracanã",
+          "Mineirão",
+          "Arena Fonte Nova",
+          "Beira-Rio"
         ]
       },
       {
-        "name": "Profissões",
+        "name": "Finais marcantes do Corinthians",
         "words": [
-          "Médica",
-          "Bombeiro",
-          "Arquiteta",
-          "Padeiro"
+          "Mundial 2000",
+          "Libertadores 2012",
+          "Paulistão 1977",
+          "Copa do Brasil 2009"
         ]
       },
       {
-        "name": "Meios de transporte",
+        "name": "Filmes de Christopher Nolan",
         "words": [
-          "Bicicleta",
-          "Metrô",
-          "Navio",
-          "Avião"
+          "Amnésia",
+          "O Grande Truque",
+          "A Origem",
+          "Interestelar"
         ]
       }
     ]
@@ -874,39 +892,39 @@
     "moves": 138,
     "categories": [
       {
-        "name": "Objetos escolares",
+        "name": "Movimentos literários",
         "words": [
-          "Caderno",
-          "Compasso",
-          "Estojo",
-          "Régua"
+          "Barroco",
+          "Arcadismo",
+          "Romantismo",
+          "Modernismo"
         ]
       },
       {
-        "name": "Animais",
+        "name": "Personagens de The Sopranos",
         "words": [
-          "Onça",
-          "Capivara",
-          "Tamanduá",
-          "Lobo-guará"
+          "Tony Soprano",
+          "Carmela Soprano",
+          "Christopher Moltisanti",
+          "Paulie Gualtieri"
         ]
       },
       {
-        "name": "Esportes",
+        "name": "Clubes campeões da Libertadores",
         "words": [
-          "Natação",
-          "Judô",
-          "Vôlei",
-          "Basquete"
+          "Boca Juniors",
+          "River Plate",
+          "Peñarol",
+          "Nacional"
         ]
       },
       {
-        "name": "Aves",
+        "name": "Rivais paulistas",
         "words": [
-          "Arara",
-          "Tucano",
-          "Pinguim",
-          "Sabiá"
+          "Palmeiras",
+          "São Paulo",
+          "Santos",
+          "Portuguesa"
         ]
       }
     ]
@@ -921,48 +939,48 @@
     "moves": 147,
     "categories": [
       {
-        "name": "Diretores brasileiros",
+        "name": "Termos da astronomia",
         "words": [
-          "Walter Salles",
-          "Anna Muylaert",
-          "Fernando Meirelles",
-          "José Padilha"
+          "Periélio",
+          "Afélio",
+          "Eclíptica",
+          "Zênite"
         ]
       },
       {
-        "name": "Filmes premiados",
+        "name": "Filmes da franquia Alien",
         "words": [
-          "Ainda Estou Aqui",
-          "Central do Brasil",
-          "Cidade de Deus",
-          "O Pagador de Promessas"
+          "Alien: O Oitavo Passageiro",
+          "Aliens",
+          "Alien 3",
+          "Prometheus"
         ]
       },
       {
-        "name": "Frutas",
+        "name": "Personagens de Lost",
         "words": [
-          "Banana",
-          "Laranja",
-          "Mamão",
-          "Manga"
+          "Jack Shephard",
+          "Kate Austen",
+          "Sawyer",
+          "John Locke"
         ]
       },
       {
-        "name": "Astros",
+        "name": "Posições do futebol",
         "words": [
-          "Cometa",
-          "Nebulosa",
-          "Galáxia",
-          "Estrela"
+          "Goleiro",
+          "Zagueiro",
+          "Lateral",
+          "Volante"
         ]
       },
       {
-        "name": "Esportes",
+        "name": "Títulos do Corinthians",
         "words": [
-          "Natação",
-          "Judô",
-          "Vôlei",
-          "Basquete"
+          "Libertadores 2012",
+          "Mundial 2000",
+          "Mundial 2012",
+          "Brasileirão 2015"
         ]
       }
     ]
@@ -977,48 +995,48 @@
     "moves": 150,
     "categories": [
       {
-        "name": "Diretores internacionais",
+        "name": "Biomas brasileiros",
         "words": [
-          "Christopher Nolan",
-          "Greta Gerwig",
-          "Hayao Miyazaki",
-          "Alfonso Cuarón"
+          "Caatinga",
+          "Cerrado",
+          "Pantanal",
+          "Pampa"
         ]
       },
       {
-        "name": "Gêneros de cinema",
+        "name": "Finais marcantes do Corinthians",
         "words": [
-          "Faroeste",
-          "Musical",
-          "Suspense",
-          "Animação"
+          "Mundial 2000",
+          "Libertadores 2012",
+          "Paulistão 1977",
+          "Copa do Brasil 2009"
         ]
       },
       {
-        "name": "Cores",
+        "name": "Filmes de Christopher Nolan",
         "words": [
-          "Violeta",
-          "Turquesa",
-          "Escarlate",
-          "Ocre"
+          "Amnésia",
+          "O Grande Truque",
+          "A Origem",
+          "Interestelar"
         ]
       },
       {
-        "name": "Ferramentas",
+        "name": "Personagens de Stranger Things",
         "words": [
-          "Martelo",
-          "Alicate",
-          "Serrote",
-          "Chave de fenda"
+          "Eleven",
+          "Dustin Henderson",
+          "Jim Hopper",
+          "Max Mayfield"
         ]
       },
       {
-        "name": "Vegetais",
+        "name": "Estádios brasileiros",
         "words": [
-          "Cenoura",
-          "Abobrinha",
-          "Beterraba",
-          "Chuchu"
+          "Maracanã",
+          "Mineirão",
+          "Arena Fonte Nova",
+          "Beira-Rio"
         ]
       }
     ]
@@ -1033,48 +1051,48 @@
     "moves": 153,
     "categories": [
       {
-        "name": "Filmes de Christopher Nolan",
+        "name": "Movimentos literários",
         "words": [
-          "A Origem",
-          "Interestelar",
-          "Amnésia",
-          "Oppenheimer"
+          "Barroco",
+          "Arcadismo",
+          "Romantismo",
+          "Modernismo"
         ]
       },
       {
-        "name": "Franquias de cinema",
+        "name": "Clubes campeões da Libertadores",
         "words": [
-          "Toy Story",
-          "Jurassic Park",
-          "Missão Impossível",
-          "Avatar"
+          "Boca Juniors",
+          "River Plate",
+          "Peñarol",
+          "Nacional"
         ]
       },
       {
-        "name": "Países",
+        "name": "Rivais paulistas",
         "words": [
-          "Brasil",
-          "Canadá",
-          "Japão",
-          "Portugal"
+          "Palmeiras",
+          "São Paulo",
+          "Santos",
+          "Portuguesa"
         ]
       },
       {
-        "name": "Flores",
+        "name": "Filmes de terror",
         "words": [
-          "Girassol",
-          "Orquídea",
-          "Hibisco",
-          "Margarida"
+          "Hereditário",
+          "O Iluminado",
+          "Corra!",
+          "A Bruxa"
         ]
       },
       {
-        "name": "Oceanos e mares",
+        "name": "Personagens de The Sopranos",
         "words": [
-          "Atlântico",
-          "Pacífico",
-          "Mediterrâneo",
-          "Índico"
+          "Tony Soprano",
+          "Carmela Soprano",
+          "Christopher Moltisanti",
+          "Paulie Gualtieri"
         ]
       }
     ]
@@ -1089,48 +1107,48 @@
     "moves": 156,
     "categories": [
       {
-        "name": "Atores e atrizes",
+        "name": "Termos da astronomia",
         "words": [
-          "Fernanda Torres",
-          "Wagner Moura",
-          "Sônia Braga",
-          "Fernanda Montenegro"
+          "Periélio",
+          "Afélio",
+          "Eclíptica",
+          "Zênite"
         ]
       },
       {
-        "name": "Filmes vencedores do Oscar",
+        "name": "Personagens de Lost",
         "words": [
-          "O Poderoso Chefão",
-          "Parasita",
-          "Moonlight",
-          "Tudo em Todo o Lugar ao Mesmo Tempo"
+          "Jack Shephard",
+          "Kate Austen",
+          "Sawyer",
+          "John Locke"
         ]
       },
       {
-        "name": "Doces",
+        "name": "Posições do futebol",
         "words": [
-          "Brigadeiro",
-          "Quindim",
-          "Paçoca",
-          "Pé de moleque"
+          "Goleiro",
+          "Zagueiro",
+          "Lateral",
+          "Volante"
         ]
       },
       {
-        "name": "Materiais",
+        "name": "Títulos do Corinthians",
         "words": [
-          "Madeira",
-          "Cerâmica",
-          "Alumínio",
-          "Vidro"
+          "Libertadores 2012",
+          "Mundial 2000",
+          "Mundial 2012",
+          "Brasileirão 2015"
         ]
       },
       {
-        "name": "Partes do corpo",
+        "name": "Filmes da franquia Alien",
         "words": [
-          "Cotovelo",
-          "Pulso",
-          "Calcanhar",
-          "Clavícula"
+          "Alien: O Oitavo Passageiro",
+          "Aliens",
+          "Alien 3",
+          "Prometheus"
         ]
       }
     ]
@@ -1145,16 +1163,25 @@
     "moves": 160,
     "categories": [
       {
-        "name": "Breaking Bad",
+        "name": "Unidades de medida",
         "words": [
-          "Walter White",
-          "Jesse Pinkman",
-          "Saul Goodman",
-          "Hank Schrader"
+          "Pascal",
+          "Joule",
+          "Newton",
+          "Watt"
         ]
       },
       {
-        "name": "Game of Thrones",
+        "name": "Filmes com viagem no tempo",
+        "words": [
+          "De Volta para o Futuro",
+          "12 Macacos",
+          "Primer",
+          "Looper"
+        ]
+      },
+      {
+        "name": "Personagens de Game of Thrones",
         "words": [
           "Jon Snow",
           "Daenerys Targaryen",
@@ -1163,30 +1190,21 @@
         ]
       },
       {
-        "name": "Planetas",
+        "name": "Copas do Mundo",
         "words": [
-          "Mercúrio",
-          "Marte",
-          "Saturno",
-          "Netuno"
+          "México 1970",
+          "Espanha 1982",
+          "Estados Unidos 1994",
+          "Coreia-Japão 2002"
         ]
       },
       {
-        "name": "Aves",
+        "name": "Técnicos campeões pelo Corinthians",
         "words": [
-          "Arara",
-          "Tucano",
-          "Pinguim",
-          "Sabiá"
-        ]
-      },
-      {
-        "name": "Bebidas",
-        "words": [
-          "Guaraná",
-          "Chimarrão",
-          "Café",
-          "Mate"
+          "Oswaldo Brandão",
+          "Tite",
+          "Fábio Carille",
+          "Mano Menezes"
         ]
       }
     ]
@@ -1201,48 +1219,48 @@
     "moves": 163,
     "categories": [
       {
-        "name": "Stranger Things",
+        "name": "Fenômenos ópticos",
         "words": [
-          "Eleven",
-          "Dustin Henderson",
-          "Jim Hopper",
-          "Max Mayfield"
+          "Refração",
+          "Difração",
+          "Dispersão",
+          "Polarização"
         ]
       },
       {
-        "name": "Friends",
+        "name": "Atacantes históricos do Corinthians",
         "words": [
-          "Rachel Green",
-          "Ross Geller",
-          "Phoebe Buffay",
-          "Chandler Bing"
+          "Cláudio Christóvam",
+          "Baltazar",
+          "Luizão",
+          "Jô"
         ]
       },
       {
-        "name": "Ferramentas",
+        "name": "Filmes de animação da Pixar",
         "words": [
-          "Martelo",
-          "Alicate",
-          "Serrote",
-          "Chave de fenda"
+          "Ratatouille",
+          "WALL-E",
+          "Viva",
+          "Divertida Mente"
         ]
       },
       {
-        "name": "Animais",
+        "name": "Personagens de The Office",
         "words": [
-          "Onça",
-          "Capivara",
-          "Tamanduá",
-          "Lobo-guará"
+          "Michael Scott",
+          "Dwight Schrute",
+          "Jim Halpert",
+          "Pam Beesly"
         ]
       },
       {
-        "name": "Climas",
+        "name": "Goleiros históricos",
         "words": [
-          "Tropical",
-          "Polar",
-          "Desértico",
-          "Temperado"
+          "Taffarel",
+          "Dida",
+          "Marcos",
+          "Rogério Ceni"
         ]
       }
     ]
@@ -1257,48 +1275,48 @@
     "moves": 166,
     "categories": [
       {
-        "name": "La Casa de Papel",
+        "name": "Termos da astronomia",
         "words": [
-          "Professor",
-          "Tóquio",
-          "Berlim",
-          "Nairóbi"
+          "Periélio",
+          "Afélio",
+          "Eclíptica",
+          "Zênite"
         ]
       },
       {
-        "name": "Round 6",
+        "name": "Posições do futebol",
         "words": [
-          "Gi-hun",
-          "Sang-woo",
-          "Saebyeok",
-          "Il-nam"
+          "Goleiro",
+          "Zagueiro",
+          "Lateral",
+          "Volante"
         ]
       },
       {
-        "name": "Bebidas",
+        "name": "Títulos do Corinthians",
         "words": [
-          "Guaraná",
-          "Chimarrão",
-          "Café",
-          "Mate"
+          "Libertadores 2012",
+          "Mundial 2000",
+          "Mundial 2012",
+          "Brasileirão 2015"
         ]
       },
       {
-        "name": "Objetos escolares",
+        "name": "Filmes da franquia Alien",
         "words": [
-          "Caderno",
-          "Compasso",
-          "Estojo",
-          "Régua"
+          "Alien: O Oitavo Passageiro",
+          "Aliens",
+          "Alien 3",
+          "Prometheus"
         ]
       },
       {
-        "name": "Flores",
+        "name": "Personagens de Lost",
         "words": [
-          "Girassol",
-          "Orquídea",
-          "Hibisco",
-          "Margarida"
+          "Jack Shephard",
+          "Kate Austen",
+          "Sawyer",
+          "John Locke"
         ]
       }
     ]
@@ -1313,48 +1331,48 @@
     "moves": 169,
     "categories": [
       {
-        "name": "The Office",
+        "name": "Unidades de medida",
         "words": [
-          "Michael Scott",
-          "Dwight Schrute",
-          "Jim Halpert",
-          "Pam Beesly"
+          "Pascal",
+          "Joule",
+          "Newton",
+          "Watt"
         ]
       },
       {
-        "name": "Locais e organizações de séries",
+        "name": "Personagens de Game of Thrones",
         "words": [
-          "Hawkins",
-          "Winterfell",
-          "Dunder Mifflin",
-          "King's Landing"
+          "Jon Snow",
+          "Daenerys Targaryen",
+          "Tyrion Lannister",
+          "Arya Stark"
         ]
       },
       {
-        "name": "Flores",
+        "name": "Copas do Mundo",
         "words": [
-          "Girassol",
-          "Orquídea",
-          "Hibisco",
-          "Margarida"
+          "México 1970",
+          "Espanha 1982",
+          "Estados Unidos 1994",
+          "Coreia-Japão 2002"
         ]
       },
       {
-        "name": "Profissões",
+        "name": "Técnicos campeões pelo Corinthians",
         "words": [
-          "Médica",
-          "Bombeiro",
-          "Arquiteta",
-          "Padeiro"
+          "Oswaldo Brandão",
+          "Tite",
+          "Fábio Carille",
+          "Mano Menezes"
         ]
       },
       {
-        "name": "Comidas brasileiras",
+        "name": "Filmes com viagem no tempo",
         "words": [
-          "Feijoada",
-          "Acarajé",
-          "Pamonha",
-          "Moqueca"
+          "De Volta para o Futuro",
+          "12 Macacos",
+          "Primer",
+          "Looper"
         ]
       }
     ]
@@ -1369,48 +1387,48 @@
     "moves": 172,
     "categories": [
       {
-        "name": "Personagens que confundem",
+        "name": "Fenômenos ópticos",
         "words": [
-          "Robin",
-          "Eddie",
-          "Alex",
-          "Steve"
+          "Refração",
+          "Difração",
+          "Dispersão",
+          "Polarização"
         ]
       },
       {
-        "name": "Séries de suspense",
+        "name": "Filmes de animação da Pixar",
         "words": [
-          "Breaking Bad",
-          "Round 6",
-          "La Casa de Papel",
-          "Dark"
+          "Ratatouille",
+          "WALL-E",
+          "Viva",
+          "Divertida Mente"
         ]
       },
       {
-        "name": "Meios de transporte",
+        "name": "Personagens de The Office",
         "words": [
-          "Bicicleta",
-          "Metrô",
-          "Navio",
-          "Avião"
+          "Michael Scott",
+          "Dwight Schrute",
+          "Jim Halpert",
+          "Pam Beesly"
         ]
       },
       {
-        "name": "Planetas",
+        "name": "Goleiros históricos",
         "words": [
-          "Mercúrio",
-          "Marte",
-          "Saturno",
-          "Netuno"
+          "Taffarel",
+          "Dida",
+          "Marcos",
+          "Rogério Ceni"
         ]
       },
       {
-        "name": "Materiais",
+        "name": "Atacantes históricos do Corinthians",
         "words": [
-          "Madeira",
-          "Cerâmica",
-          "Alumínio",
-          "Vidro"
+          "Cláudio Christóvam",
+          "Baltazar",
+          "Luizão",
+          "Jô"
         ]
       }
     ]
@@ -1425,48 +1443,48 @@
     "moves": 176,
     "categories": [
       {
-        "name": "Seleção brasileira",
+        "name": "Cordilheiras",
         "words": [
-          "Pelé",
-          "Ronaldo Fenômeno",
-          "Marta",
-          "Zico"
+          "Andes",
+          "Himalaia",
+          "Alpes",
+          "Atlas"
         ]
       },
       {
-        "name": "Clubes brasileiros",
+        "name": "Goleiros marcantes do Corinthians",
         "words": [
-          "Flamengo",
-          "Palmeiras",
-          "Santos",
-          "Corinthians"
+          "Cássio",
+          "Ronaldo Giovanelli",
+          "Dida",
+          "Gylmar"
         ]
       },
       {
-        "name": "Doces",
+        "name": "Cinema brasileiro",
         "words": [
-          "Brigadeiro",
-          "Quindim",
-          "Paçoca",
-          "Pé de moleque"
+          "Central do Brasil",
+          "O Auto da Compadecida",
+          "Cidade de Deus",
+          "Que Horas Ela Volta?"
         ]
       },
       {
-        "name": "Vegetais",
+        "name": "Personagens de The Simpsons",
         "words": [
-          "Cenoura",
-          "Abobrinha",
-          "Beterraba",
-          "Chuchu"
+          "Homer Simpson",
+          "Marge Simpson",
+          "Bart Simpson",
+          "Lisa Simpson"
         ]
       },
       {
-        "name": "Flores",
+        "name": "Seleções campeãs do mundo",
         "words": [
-          "Girassol",
-          "Orquídea",
-          "Hibisco",
-          "Margarida"
+          "Brasil",
+          "Alemanha",
+          "Itália",
+          "Argentina"
         ]
       }
     ]
@@ -1481,48 +1499,48 @@
     "moves": 179,
     "categories": [
       {
-        "name": "Copas do Mundo",
+        "name": "Gêneros musicais brasileiros",
         "words": [
-          "México 1970",
-          "Estados Unidos 1994",
-          "Coreia-Japão 2002",
-          "Catar 2022"
+          "Choro",
+          "Maracatu",
+          "Frevo",
+          "Samba-reggae"
         ]
       },
       {
-        "name": "Posições do futebol",
+        "name": "Competições de clubes",
         "words": [
-          "Goleiro",
-          "Zagueiro",
-          "Atacante",
-          "Lateral"
+          "Libertadores",
+          "Sul-Americana",
+          "Champions League",
+          "Mundial de Clubes"
         ]
       },
       {
-        "name": "Animais",
+        "name": "Personagens da Democracia Corinthiana",
         "words": [
-          "Onça",
-          "Capivara",
-          "Tamanduá",
-          "Lobo-guará"
+          "Sócrates",
+          "Wladimir",
+          "Casagrande",
+          "Zenon"
         ]
       },
       {
-        "name": "Países",
+        "name": "Filmes vencedores da Palma de Ouro",
         "words": [
-          "Brasil",
-          "Canadá",
-          "Japão",
-          "Portugal"
+          "Pulp Fiction",
+          "Parasita",
+          "Anatomia de uma Queda",
+          "Triângulo da Tristeza"
         ]
       },
       {
-        "name": "Cores",
+        "name": "Personagens de Breaking Bad",
         "words": [
-          "Violeta",
-          "Turquesa",
-          "Escarlate",
-          "Ocre"
+          "Walter White",
+          "Jesse Pinkman",
+          "Saul Goodman",
+          "Hank Schrader"
         ]
       }
     ]
@@ -1537,48 +1555,48 @@
     "moves": 182,
     "categories": [
       {
-        "name": "Termos de futebol",
+        "name": "Fenômenos ópticos",
         "words": [
-          "Impedimento",
-          "Escanteio",
-          "Pênalti",
-          "Tiro de meta"
+          "Refração",
+          "Difração",
+          "Dispersão",
+          "Polarização"
         ]
       },
       {
-        "name": "Estádios brasileiros",
+        "name": "Personagens de The Office",
         "words": [
-          "Maracanã",
-          "Mineirão",
-          "MorumBIS",
-          "Arena Fonte Nova"
+          "Michael Scott",
+          "Dwight Schrute",
+          "Jim Halpert",
+          "Pam Beesly"
         ]
       },
       {
-        "name": "Profissões",
+        "name": "Goleiros históricos",
         "words": [
-          "Médica",
-          "Bombeiro",
-          "Arquiteta",
-          "Padeiro"
+          "Taffarel",
+          "Dida",
+          "Marcos",
+          "Rogério Ceni"
         ]
       },
       {
-        "name": "Materiais",
+        "name": "Atacantes históricos do Corinthians",
         "words": [
-          "Madeira",
-          "Cerâmica",
-          "Alumínio",
-          "Vidro"
+          "Cláudio Christóvam",
+          "Baltazar",
+          "Luizão",
+          "Jô"
         ]
       },
       {
-        "name": "Bebidas",
+        "name": "Filmes de animação da Pixar",
         "words": [
-          "Guaraná",
-          "Chimarrão",
-          "Café",
-          "Mate"
+          "Ratatouille",
+          "WALL-E",
+          "Viva",
+          "Divertida Mente"
         ]
       }
     ]
@@ -1593,48 +1611,48 @@
     "moves": 185,
     "categories": [
       {
-        "name": "Craques brasileiros",
+        "name": "Cordilheiras",
         "words": [
-          "Zico",
-          "Romário",
-          "Ronaldinho Gaúcho",
-          "Neymar"
+          "Andes",
+          "Himalaia",
+          "Alpes",
+          "Atlas"
         ]
       },
       {
-        "name": "Competições",
+        "name": "Cinema brasileiro",
         "words": [
-          "Libertadores",
-          "Copa do Brasil",
-          "Brasileirão",
-          "Sul-Americana"
+          "Central do Brasil",
+          "O Auto da Compadecida",
+          "Cidade de Deus",
+          "Que Horas Ela Volta?"
         ]
       },
       {
-        "name": "Frutas",
+        "name": "Personagens de The Simpsons",
         "words": [
-          "Banana",
-          "Laranja",
-          "Mamão",
-          "Manga"
+          "Homer Simpson",
+          "Marge Simpson",
+          "Bart Simpson",
+          "Lisa Simpson"
         ]
       },
       {
-        "name": "Instrumentos musicais",
+        "name": "Seleções campeãs do mundo",
         "words": [
-          "Violão",
-          "Flauta",
-          "Pandeiro",
-          "Atabaque"
+          "Brasil",
+          "Alemanha",
+          "Itália",
+          "Argentina"
         ]
       },
       {
-        "name": "Aves",
+        "name": "Goleiros marcantes do Corinthians",
         "words": [
-          "Arara",
-          "Tucano",
-          "Pinguim",
-          "Sabiá"
+          "Cássio",
+          "Ronaldo Giovanelli",
+          "Dida",
+          "Gylmar"
         ]
       }
     ]
@@ -1649,48 +1667,48 @@
     "moves": 188,
     "categories": [
       {
-        "name": "Ídolos corintianos",
+        "name": "Gêneros musicais brasileiros",
+        "words": [
+          "Choro",
+          "Maracatu",
+          "Frevo",
+          "Samba-reggae"
+        ]
+      },
+      {
+        "name": "Personagens da Democracia Corinthiana",
         "words": [
           "Sócrates",
-          "Rivellino",
-          "Marcelinho Carioca",
-          "Neto"
-        ]
-      },
-      {
-        "name": "Outros ídolos do Corinthians",
-        "words": [
-          "Cássio",
-          "Ronaldo Fenômeno",
           "Wladimir",
-          "Basílio"
+          "Casagrande",
+          "Zenon"
         ]
       },
       {
-        "name": "Frutas",
+        "name": "Filmes vencedores da Palma de Ouro",
         "words": [
-          "Banana",
-          "Laranja",
-          "Mamão",
-          "Manga"
+          "Pulp Fiction",
+          "Parasita",
+          "Anatomia de uma Queda",
+          "Triângulo da Tristeza"
         ]
       },
       {
-        "name": "Planetas",
+        "name": "Personagens de Breaking Bad",
         "words": [
-          "Mercúrio",
-          "Marte",
-          "Saturno",
-          "Netuno"
+          "Walter White",
+          "Jesse Pinkman",
+          "Saul Goodman",
+          "Hank Schrader"
         ]
       },
       {
-        "name": "Aves",
+        "name": "Competições de clubes",
         "words": [
-          "Arara",
-          "Tucano",
-          "Pinguim",
-          "Sabiá"
+          "Libertadores",
+          "Sul-Americana",
+          "Champions League",
+          "Mundial de Clubes"
         ]
       }
     ]
@@ -1705,48 +1723,48 @@
     "moves": 190,
     "categories": [
       {
-        "name": "Títulos do Corinthians",
+        "name": "Tipos de rocha",
         "words": [
-          "Libertadores 2012",
-          "Mundial 2012",
-          "Brasileirão 2015",
-          "Copa do Brasil 2009"
+          "Ígnea",
+          "Sedimentar",
+          "Metamórfica",
+          "Vulcânica"
         ]
       },
       {
-        "name": "Locais e torcida",
+        "name": "Grandes camisas 10",
         "words": [
-          "Neo Química Arena",
-          "Parque São Jorge",
+          "Pelé",
+          "Zico",
+          "Maradona",
+          "Ronaldinho Gaúcho"
+        ]
+      },
+      {
+        "name": "Apelidos e símbolos da torcida",
+        "words": [
+          "Fiel",
+          "Bando de Loucos",
           "Gaviões da Fiel",
-          "Fiel Torcida"
+          "Mosqueteiro"
         ]
       },
       {
-        "name": "Doces",
+        "name": "Filmes de ficção científica",
         "words": [
-          "Brigadeiro",
-          "Quindim",
-          "Paçoca",
-          "Pé de moleque"
+          "Blade Runner",
+          "Gattaca",
+          "Distrito 9",
+          "Ex Machina"
         ]
       },
       {
-        "name": "Materiais",
+        "name": "Personagens de Friends",
         "words": [
-          "Madeira",
-          "Cerâmica",
-          "Alumínio",
-          "Vidro"
-        ]
-      },
-      {
-        "name": "Profissões",
-        "words": [
-          "Médica",
-          "Bombeiro",
-          "Arquiteta",
-          "Padeiro"
+          "Rachel Green",
+          "Ross Geller",
+          "Phoebe Buffay",
+          "Chandler Bing"
         ]
       }
     ]
@@ -1761,48 +1779,48 @@
     "moves": 190,
     "categories": [
       {
-        "name": "Clubes rivais paulistas",
+        "name": "Elementos químicos",
         "words": [
-          "Palmeiras",
-          "São Paulo",
-          "Santos",
-          "Portuguesa"
+          "Gálio",
+          "Bromo",
+          "Cobalto",
+          "Xenônio"
         ]
       },
       {
-        "name": "Símbolos e momentos marcantes",
+        "name": "Personagens de The Last of Us",
         "words": [
-          "Invasão corintiana",
-          "Democracia Corinthiana",
-          "Mundial de Clubes",
-          "Bando de Loucos"
+          "Joel Miller",
+          "Ellie Williams",
+          "Tommy Miller",
+          "Abby Anderson"
         ]
       },
       {
-        "name": "Oceanos e mares",
+        "name": "Fundamentos do futebol",
         "words": [
-          "Atlântico",
-          "Pacífico",
-          "Mediterrâneo",
-          "Índico"
+          "Drible",
+          "Cabeceio",
+          "Desarme",
+          "Cruzamento"
         ]
       },
       {
-        "name": "Flores",
+        "name": "Ídolos do Corinthians",
         "words": [
-          "Girassol",
-          "Orquídea",
-          "Hibisco",
-          "Margarida"
+          "Sócrates",
+          "Rivellino",
+          "Marcelinho Carioca",
+          "Neto"
         ]
       },
       {
-        "name": "Objetos escolares",
+        "name": "Filmes de Martin Scorsese",
         "words": [
-          "Caderno",
-          "Compasso",
-          "Estojo",
-          "Régua"
+          "Taxi Driver",
+          "Os Bons Companheiros",
+          "Os Infiltrados",
+          "O Irlandês"
         ]
       }
     ]
