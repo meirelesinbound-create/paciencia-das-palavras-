@@ -1,0 +1,55 @@
+{
+  "id": 3,
+  "title": "Desafio 03",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 48,
+  "categories": [
+    {
+      "name": "Termos da astronomia",
+      "words": [
+        "Periélio",
+        "Afélio",
+        "Eclíptica"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Posições do futebol",
+      "words": [
+        "Goleiro",
+        "Zagueiro",
+        "Lateral"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Personagens de The Simpsons",
+      "words": [
+        "Homer Simpson",
+        "Marge Simpson",
+        "Bart Simpson"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Gêneros musicais brasileiros",
+      "words": [
+        "Choro",
+        "Maracatu",
+        "Frevo"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Personagens da Democracia Corinthiana",
+      "words": [
+        "Sócrates",
+        "Wladimir",
+        "Casagrande"
+      ],
+      "icone": "clapper"
+    }
+  ],
+  "hiddenCategories": 0
+}
