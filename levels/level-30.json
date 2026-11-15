@@ -1,0 +1,60 @@
+{
+  "id": 30,
+  "title": "Desafio 30",
+  "pack": "series",
+  "packName": "Séries de TV",
+  "moves": 47,
+  "categories": [
+    {
+      "name": "Fenômenos ópticos",
+      "words": [
+        "Refração",
+        "Difração",
+        "Dispersão",
+        "Polarização"
+      ],
+      "icone": "eye"
+    },
+    {
+      "name": "Atacantes históricos do Corinthians",
+      "words": [
+        "Cláudio Christóvam",
+        "Baltazar",
+        "Luizão",
+        "Jô"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Filmes de animação da Pixar",
+      "words": [
+        "Ratatouille",
+        "WALL-E",
+        "Viva",
+        "Divertida Mente"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Personagens de The Office",
+      "words": [
+        "Michael Scott",
+        "Dwight Schrute",
+        "Jim Halpert",
+        "Pam Beesly"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Goleiros históricos",
+      "words": [
+        "Taffarel",
+        "Dida",
+        "Marcos",
+        "Rogério Ceni"
+      ],
+      "icone": "glove"
+    }
+  ],
+  "hiddenCategories": 2
+}
