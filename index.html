@@ -19,7 +19,27 @@
 <div class="veil" id="veil"><div class="dialog"><div class="stamp" id="seal">ROTEIRO APROVADO</div><h2 id="dialogTitle">Perfeito!</h2><p id="dialogText">Todas as categorias concluídas.</p><div class="reward" id="reward">+50 🪙</div><div class="btnrow"><button class="btn primary" id="continue">Continuar</button><button class="btn" id="menuReturn">Menu</button></div></div></div>
 </main>
 <script>
-const $=s=>document.querySelector(s);let phases=[],phasesReady=false,phase=+(localStorage.crPhase||1),coins=+(localStorage.crCoins||0),unlocked=+(localStorage.crUnlocked||1),sound=localStorage.crSound!=='false',selected=null,history=[],state=null,activePack='todos';
+const $=s=>document.querySelector(s);
+const localStorage=(()=>{
+  let backend=null;
+  const memory={};
+  try{
+    backend=window.localStorage;
+    const probe='__cr_storage_probe__';
+    backend.setItem(probe,'1');
+    backend.removeItem(probe);
+  }catch{backend=null}
+  return new Proxy({},{
+    get(_,key){
+      if(key==='removeItem')return k=>{try{if(backend)backend.removeItem(k)}catch{}delete memory[k]};
+      if(key==='getItem')return k=>{try{const v=backend?.getItem(k);return v??memory[k]??null}catch{return memory[k]??null}};
+      if(key==='setItem')return (k,v)=>{memory[k]=String(v);try{backend?.setItem(k,String(v))}catch{}};
+      try{const v=backend?.getItem(String(key));return v??memory[key]}catch{return memory[key]}
+    },
+    set(_,key,value){memory[key]=String(value);try{if(backend)backend.setItem(String(key),String(value))}catch{}return true}
+  });
+})();
+let phases=[],phasesReady=false,phase=+(localStorage.crPhase||1),coins=+(localStorage.crCoins||0),unlocked=+(localStorage.crUnlocked||1),sound=localStorage.crSound!=='false',selected=null,history=[],state=null,activePack='todos';
 const save=()=>{localStorage.crCoins=coins;localStorage.crUnlocked=unlocked;localStorage.crPhase=phase;localStorage.crGame=JSON.stringify(state);$('#coins').textContent=coins};
 function show(id){document.querySelectorAll('.screen').forEach(x=>x.classList.toggle('active',x.id===id));}
 function beep(freq=660){if(!sound)return;try{let c=new(window.AudioContext||window.webkitAudioContext)(),o=c.createOscillator(),g=c.createGain();o.frequency.value=freq;g.gain.value=.04;o.connect(g);g.connect(c.destination);o.start();o.stop(c.currentTime+.08)}catch{}}
