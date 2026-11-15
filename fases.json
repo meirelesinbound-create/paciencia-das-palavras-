@@ -23,25 +23,6 @@
           "O Grande Truque",
           "A Origem"
         ]
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "title": "Desafio 02",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 52,
-    "categories": [
-      {
-        "name": "Movimentos literários",
-        "words": [
-          "Barroco",
-          "Arcadismo",
-          "Romantismo"
-        ]
       },
       {
         "name": "Rivais paulistas",
@@ -50,18 +31,7 @@
           "São Paulo",
           "Santos"
         ]
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "title": "Desafio 03",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 55,
-    "categories": [
+      },
       {
         "name": "Termos da astronomia",
         "words": [
@@ -81,13 +51,115 @@
     ]
   },
   {
+    "id": 2,
+    "title": "Desafio 02",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 49,
+    "categories": [
+      {
+        "name": "Movimentos literários",
+        "words": [
+          "Barroco",
+          "Arcadismo",
+          "Romantismo"
+        ]
+      },
+      {
+        "name": "Rivais paulistas",
+        "words": [
+          "Palmeiras",
+          "São Paulo",
+          "Santos"
+        ]
+      },
+      {
+        "name": "Títulos do Corinthians",
+        "words": [
+          "Libertadores 2012",
+          "Mundial 2000",
+          "Mundial 2012"
+        ]
+      },
+      {
+        "name": "Copas do Mundo",
+        "words": [
+          "México 1970",
+          "Espanha 1982",
+          "Estados Unidos 1994"
+        ]
+      },
+      {
+        "name": "Técnicos campeões pelo Corinthians",
+        "words": [
+          "Oswaldo Brandão",
+          "Tite",
+          "Fábio Carille"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Desafio 03",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 48,
+    "categories": [
+      {
+        "name": "Termos da astronomia",
+        "words": [
+          "Periélio",
+          "Afélio",
+          "Eclíptica"
+        ]
+      },
+      {
+        "name": "Posições do futebol",
+        "words": [
+          "Goleiro",
+          "Zagueiro",
+          "Lateral"
+        ]
+      },
+      {
+        "name": "Personagens de The Simpsons",
+        "words": [
+          "Homer Simpson",
+          "Marge Simpson",
+          "Bart Simpson"
+        ]
+      },
+      {
+        "name": "Gêneros musicais brasileiros",
+        "words": [
+          "Choro",
+          "Maracatu",
+          "Frevo"
+        ]
+      },
+      {
+        "name": "Personagens da Democracia Corinthiana",
+        "words": [
+          "Sócrates",
+          "Wladimir",
+          "Casagrande"
+        ]
+      }
+    ]
+  },
+  {
     "id": 4,
     "title": "Desafio 04",
     "pack": "geral",
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 59,
+    "moves": 48,
     "categories": [
       {
         "name": "Unidades de medida",
@@ -104,6 +176,30 @@
           "Daenerys Targaryen",
           "Tyrion Lannister"
         ]
+      },
+      {
+        "name": "Competições de clubes",
+        "words": [
+          "Libertadores",
+          "Sul-Americana",
+          "Champions League"
+        ]
+      },
+      {
+        "name": "Tipos de rocha",
+        "words": [
+          "Ígnea",
+          "Sedimentar",
+          "Metamórfica"
+        ]
+      },
+      {
+        "name": "Apelidos e símbolos da torcida",
+        "words": [
+          "Fiel",
+          "Bando de Loucos",
+          "Gaviões da Fiel"
+        ]
       }
     ]
   },
@@ -114,7 +210,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 62,
+    "moves": 47,
     "categories": [
       {
         "name": "Fenômenos ópticos",
@@ -131,6 +227,30 @@
           "WALL-E",
           "Viva"
         ]
+      },
+      {
+        "name": "Ídolos do Corinthians",
+        "words": [
+          "Sócrates",
+          "Rivellino",
+          "Marcelinho Carioca"
+        ]
+      },
+      {
+        "name": "Filmes de Martin Scorsese",
+        "words": [
+          "Taxi Driver",
+          "Os Bons Companheiros",
+          "Os Infiltrados"
+        ]
+      },
+      {
+        "name": "Grandes camisas 10",
+        "words": [
+          "Pelé",
+          "Zico",
+          "Maradona"
+        ]
       }
     ]
   },
@@ -141,7 +261,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 65,
+    "moves": 47,
     "categories": [
       {
         "name": "Termos da astronomia",
@@ -158,6 +278,30 @@
           "Mundial 2000",
           "Mundial 2012"
         ]
+      },
+      {
+        "name": "Filmes do universo Star Wars",
+        "words": [
+          "Uma Nova Esperança",
+          "O Império Contra-Ataca",
+          "O Retorno de Jedi"
+        ]
+      },
+      {
+        "name": "Personagens de Stranger Things",
+        "words": [
+          "Eleven",
+          "Dustin Henderson",
+          "Jim Hopper"
+        ]
+      },
+      {
+        "name": "Estádios brasileiros",
+        "words": [
+          "Maracanã",
+          "Mineirão",
+          "Arena Fonte Nova"
+        ]
       }
     ]
   },
@@ -168,7 +312,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 73,
+    "moves": 46,
     "categories": [
       {
         "name": "Unidades de medida",
@@ -193,6 +337,22 @@
           "Tite",
           "Fábio Carille"
         ]
+      },
+      {
+        "name": "Filmes da franquia Alien",
+        "words": [
+          "Alien: O Oitavo Passageiro",
+          "Aliens",
+          "Alien 3"
+        ]
+      },
+      {
+        "name": "Personagens de Lost",
+        "words": [
+          "Jack Shephard",
+          "Kate Austen",
+          "Sawyer"
+        ]
       }
     ]
   },
@@ -203,7 +363,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 76,
+    "moves": 46,
     "categories": [
       {
         "name": "Fenômenos ópticos",
@@ -228,6 +388,22 @@
           "Dida",
           "Marcos"
         ]
+      },
+      {
+        "name": "Movimentos literários",
+        "words": [
+          "Barroco",
+          "Arcadismo",
+          "Romantismo"
+        ]
+      },
+      {
+        "name": "Rivais paulistas",
+        "words": [
+          "Palmeiras",
+          "São Paulo",
+          "Santos"
+        ]
       }
     ]
   },
@@ -238,7 +414,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 79,
+    "moves": 46,
     "categories": [
       {
         "name": "Cordilheiras",
@@ -263,6 +439,22 @@
           "Marge Simpson",
           "Bart Simpson"
         ]
+      },
+      {
+        "name": "Filmes de animação da Pixar",
+        "words": [
+          "Ratatouille",
+          "WALL-E",
+          "Viva"
+        ]
+      },
+      {
+        "name": "Títulos do Corinthians",
+        "words": [
+          "Libertadores 2012",
+          "Mundial 2000",
+          "Mundial 2012"
+        ]
       }
     ]
   },
@@ -273,15 +465,14 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 82,
+    "moves": 45,
     "categories": [
       {
         "name": "Gêneros musicais brasileiros",
         "words": [
           "Choro",
           "Maracatu",
-          "Frevo",
-          "Samba-reggae"
+          "Frevo"
         ]
       },
       {
@@ -289,8 +480,7 @@
         "words": [
           "Sócrates",
           "Wladimir",
-          "Casagrande",
-          "Zenon"
+          "Casagrande"
         ]
       },
       {
@@ -298,8 +488,23 @@
         "words": [
           "Pulp Fiction",
           "Parasita",
-          "Anatomia de uma Queda",
-          "Triângulo da Tristeza"
+          "Anatomia de uma Queda"
+        ]
+      },
+      {
+        "name": "Cinema brasileiro",
+        "words": [
+          "Central do Brasil",
+          "O Auto da Compadecida",
+          "Cidade de Deus"
+        ]
+      },
+      {
+        "name": "Personagens de The Simpsons",
+        "words": [
+          "Homer Simpson",
+          "Marge Simpson",
+          "Bart Simpson"
         ]
       }
     ]
@@ -311,7 +516,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 86,
+    "moves": 45,
     "categories": [
       {
         "name": "Fenômenos ópticos",
@@ -336,6 +541,22 @@
           "Baltazar",
           "Luizão"
         ]
+      },
+      {
+        "name": "Personagens de Breaking Bad",
+        "words": [
+          "Walter White",
+          "Jesse Pinkman",
+          "Saul Goodman"
+        ]
+      },
+      {
+        "name": "Competições de clubes",
+        "words": [
+          "Libertadores",
+          "Sul-Americana",
+          "Champions League"
+        ]
       }
     ]
   },
@@ -346,7 +567,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 89,
+    "moves": 48,
     "categories": [
       {
         "name": "Cordilheiras",
@@ -371,8 +592,23 @@
         "words": [
           "Brasil",
           "Alemanha",
-          "Itália",
-          "Argentina"
+          "Itália"
+        ]
+      },
+      {
+        "name": "Fundamentos do futebol",
+        "words": [
+          "Drible",
+          "Cabeceio",
+          "Desarme"
+        ]
+      },
+      {
+        "name": "Ídolos do Corinthians",
+        "words": [
+          "Sócrates",
+          "Rivellino",
+          "Marcelinho Carioca"
         ]
       }
     ]
@@ -384,7 +620,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 96,
+    "moves": 44,
     "categories": [
       {
         "name": "Gêneros musicais brasileiros",
@@ -417,6 +653,14 @@
           "Sul-Americana",
           "Champions League"
         ]
+      },
+      {
+        "name": "Locais ligados ao Corinthians",
+        "words": [
+          "Neo Química Arena",
+          "Parque São Jorge",
+          "Fazendinha"
+        ]
       }
     ]
   },
@@ -427,7 +671,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 100,
+    "moves": 52,
     "categories": [
       {
         "name": "Tipos de rocha",
@@ -464,6 +708,14 @@
           "Phoebe Buffay",
           "Chandler Bing"
         ]
+      },
+      {
+        "name": "Clubes campeões da Libertadores",
+        "words": [
+          "Boca Juniors",
+          "River Plate",
+          "Peñarol"
+        ]
       }
     ]
   },
@@ -474,7 +726,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 103,
+    "moves": 43,
     "categories": [
       {
         "name": "Elementos químicos",
@@ -507,6 +759,14 @@
           "Os Bons Companheiros",
           "Os Infiltrados"
         ]
+      },
+      {
+        "name": "Filmes de Christopher Nolan",
+        "words": [
+          "Amnésia",
+          "O Grande Truque",
+          "A Origem"
+        ]
       }
     ]
   },
@@ -517,7 +777,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 106,
+    "moves": 51,
     "categories": [
       {
         "name": "Gêneros musicais brasileiros",
@@ -554,6 +814,14 @@
           "Casagrande",
           "Zenon"
         ]
+      },
+      {
+        "name": "Fenômenos ópticos",
+        "words": [
+          "Refração",
+          "Difração",
+          "Dispersão"
+        ]
       }
     ]
   },
@@ -564,7 +832,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 109,
+    "moves": 42,
     "categories": [
       {
         "name": "Tipos de rocha",
@@ -597,6 +865,14 @@
           "Zico",
           "Maradona"
         ]
+      },
+      {
+        "name": "Cordilheiras",
+        "words": [
+          "Andes",
+          "Himalaia",
+          "Alpes"
+        ]
       }
     ]
   },
@@ -607,7 +883,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 112,
+    "moves": 52,
     "categories": [
       {
         "name": "Elementos químicos",
@@ -644,6 +920,15 @@
           "Tommy Miller",
           "Abby Anderson"
         ]
+      },
+      {
+        "name": "Seleções campeãs do mundo",
+        "words": [
+          "Brasil",
+          "Alemanha",
+          "Itália",
+          "Argentina"
+        ]
       }
     ]
   },
@@ -654,7 +939,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 122,
+    "moves": 49,
     "categories": [
       {
         "name": "Escolas filosóficas",
@@ -691,6 +976,14 @@
           "O Retorno de Jedi",
           "Rogue One"
         ]
+      },
+      {
+        "name": "Elementos químicos",
+        "words": [
+          "Gálio",
+          "Bromo",
+          "Cobalto"
+        ]
       }
     ]
   },
@@ -701,7 +994,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 125,
+    "moves": 51,
     "categories": [
       {
         "name": "Biomas brasileiros",
@@ -738,6 +1031,15 @@
           "Paulistão 1977",
           "Copa do Brasil 2009"
         ]
+      },
+      {
+        "name": "Termos de arbitragem",
+        "words": [
+          "Impedimento",
+          "Vantagem",
+          "Cartão amarelo",
+          "Cartão vermelho"
+        ]
       }
     ]
   },
@@ -748,7 +1050,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 128,
+    "moves": 51,
     "categories": [
       {
         "name": "Elementos químicos",
@@ -785,6 +1087,15 @@
           "Desarme",
           "Cruzamento"
         ]
+      },
+      {
+        "name": "Personagens de The Sopranos",
+        "words": [
+          "Tony Soprano",
+          "Carmela Soprano",
+          "Christopher Moltisanti",
+          "Paulie Gualtieri"
+        ]
       }
     ]
   },
@@ -795,7 +1106,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 131,
+    "moves": 48,
     "categories": [
       {
         "name": "Escolas filosóficas",
@@ -832,6 +1143,14 @@
           "Westworld",
           "Fringe"
         ]
+      },
+      {
+        "name": "Biomas brasileiros",
+        "words": [
+          "Caatinga",
+          "Cerrado",
+          "Pantanal"
+        ]
       }
     ]
   },
@@ -842,7 +1161,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 134,
+    "moves": 48,
     "categories": [
       {
         "name": "Biomas brasileiros",
@@ -879,6 +1198,14 @@
           "A Origem",
           "Interestelar"
         ]
+      },
+      {
+        "name": "Personagens de Game of Thrones",
+        "words": [
+          "Jon Snow",
+          "Daenerys Targaryen",
+          "Tyrion Lannister"
+        ]
       }
     ]
   },
@@ -889,7 +1216,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 138,
+    "moves": 47,
     "categories": [
       {
         "name": "Movimentos literários",
@@ -926,6 +1253,14 @@
           "Santos",
           "Portuguesa"
         ]
+      },
+      {
+        "name": "Goleiros históricos",
+        "words": [
+          "Taffarel",
+          "Dida",
+          "Marcos"
+        ]
       }
     ]
   },
@@ -936,7 +1271,7 @@
     "packName": "Cinema",
     "icon": "🎬",
     "color": "#b95d3d",
-    "moves": 147,
+    "moves": 49,
     "categories": [
       {
         "name": "Termos da astronomia",
@@ -992,7 +1327,7 @@
     "packName": "Cinema",
     "icon": "🎬",
     "color": "#b95d3d",
-    "moves": 150,
+    "moves": 49,
     "categories": [
       {
         "name": "Biomas brasileiros",
@@ -1048,7 +1383,7 @@
     "packName": "Cinema",
     "icon": "🎬",
     "color": "#b95d3d",
-    "moves": 153,
+    "moves": 48,
     "categories": [
       {
         "name": "Movimentos literários",
@@ -1104,7 +1439,7 @@
     "packName": "Cinema",
     "icon": "🎬",
     "color": "#b95d3d",
-    "moves": 156,
+    "moves": 48,
     "categories": [
       {
         "name": "Termos da astronomia",
@@ -1160,7 +1495,7 @@
     "packName": "Séries de TV",
     "icon": "📺",
     "color": "#6d5bd0",
-    "moves": 160,
+    "moves": 47,
     "categories": [
       {
         "name": "Unidades de medida",
@@ -1216,7 +1551,7 @@
     "packName": "Séries de TV",
     "icon": "📺",
     "color": "#6d5bd0",
-    "moves": 163,
+    "moves": 47,
     "categories": [
       {
         "name": "Fenômenos ópticos",
@@ -1272,7 +1607,7 @@
     "packName": "Séries de TV",
     "icon": "📺",
     "color": "#6d5bd0",
-    "moves": 166,
+    "moves": 46,
     "categories": [
       {
         "name": "Termos da astronomia",
@@ -1328,7 +1663,7 @@
     "packName": "Séries de TV",
     "icon": "📺",
     "color": "#6d5bd0",
-    "moves": 169,
+    "moves": 46,
     "categories": [
       {
         "name": "Unidades de medida",
@@ -1384,7 +1719,7 @@
     "packName": "Séries de TV",
     "icon": "📺",
     "color": "#6d5bd0",
-    "moves": 172,
+    "moves": 46,
     "categories": [
       {
         "name": "Fenômenos ópticos",
@@ -1440,7 +1775,7 @@
     "packName": "Futebol",
     "icon": "⚽",
     "color": "#21865b",
-    "moves": 176,
+    "moves": 45,
     "categories": [
       {
         "name": "Cordilheiras",
@@ -1496,7 +1831,7 @@
     "packName": "Futebol",
     "icon": "⚽",
     "color": "#21865b",
-    "moves": 179,
+    "moves": 45,
     "categories": [
       {
         "name": "Gêneros musicais brasileiros",
@@ -1552,7 +1887,7 @@
     "packName": "Futebol",
     "icon": "⚽",
     "color": "#21865b",
-    "moves": 182,
+    "moves": 44,
     "categories": [
       {
         "name": "Fenômenos ópticos",
@@ -1608,7 +1943,7 @@
     "packName": "Futebol",
     "icon": "⚽",
     "color": "#21865b",
-    "moves": 185,
+    "moves": 44,
     "categories": [
       {
         "name": "Cordilheiras",
@@ -1664,7 +1999,7 @@
     "packName": "Corinthians",
     "icon": "⚫",
     "color": "#252525",
-    "moves": 188,
+    "moves": 43,
     "categories": [
       {
         "name": "Gêneros musicais brasileiros",
@@ -1720,7 +2055,7 @@
     "packName": "Corinthians",
     "icon": "⚫",
     "color": "#252525",
-    "moves": 190,
+    "moves": 43,
     "categories": [
       {
         "name": "Tipos de rocha",
@@ -1776,7 +2111,7 @@
     "packName": "Corinthians",
     "icon": "⚫",
     "color": "#252525",
-    "moves": 190,
+    "moves": 43,
     "categories": [
       {
         "name": "Elementos químicos",
