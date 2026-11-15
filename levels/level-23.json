@@ -1,0 +1,60 @@
+{
+  "id": 23,
+  "title": "Desafio 23",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 50,
+  "categories": [
+    {
+      "name": "Personagens de Succession",
+      "words": [
+        "Logan Roy",
+        "Kendall Roy",
+        "Shiv Roy",
+        "Roman Roy"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Tipos de dança de salão",
+      "words": [
+        "Samba de gafieira",
+        "Bolero",
+        "Forró",
+        "Tango"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Finais marcantes do Corinthians",
+      "words": [
+        "Mundial 2000",
+        "Libertadores 2012",
+        "Paulistão 1977",
+        "Copa do Brasil 2009"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Personagens de videogames",
+      "words": [
+        "Lara Croft",
+        "Sonic",
+        "Kratos",
+        "Master Chief"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Personagens de Game of Thrones",
+      "words": [
+        "Jon Snow",
+        "Daenerys Targaryen",
+        "Tyrion Lannister",
+        "Arya Stark"
+      ],
+      "icone": "clapper"
+    }
+  ],
+  "hiddenCategories": 1
+}

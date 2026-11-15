@@ -1,0 +1,60 @@
+{
+  "id": 38,
+  "title": "Desafio 38",
+  "pack": "corinthians",
+  "packName": "Corinthians",
+  "moves": 43,
+  "categories": [
+    {
+      "name": "Gêneros musicais brasileiros",
+      "words": [
+        "Choro",
+        "Maracatu",
+        "Frevo",
+        "Samba-reggae"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Personagens da Democracia Corinthiana",
+      "words": [
+        "Sócrates",
+        "Wladimir",
+        "Casagrande",
+        "Zenon"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Filmes vencedores da Palma de Ouro",
+      "words": [
+        "Pulp Fiction",
+        "Parasita",
+        "Anatomia de uma Queda",
+        "Triângulo da Tristeza"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Personagens de Breaking Bad",
+      "words": [
+        "Walter White",
+        "Jesse Pinkman",
+        "Saul Goodman",
+        "Hank Schrader"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Competições de clubes",
+      "words": [
+        "Libertadores",
+        "Sul-Americana",
+        "Champions League",
+        "Mundial de Clubes"
+      ],
+      "icone": "ball"
+    }
+  ],
+  "hiddenCategories": 2
+}

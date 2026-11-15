@@ -1,0 +1,56 @@
+{
+  "id": 9,
+  "title": "Desafio 09",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 46,
+  "categories": [
+    {
+      "name": "Cordilheiras",
+      "words": [
+        "Andes",
+        "Himalaia",
+        "Alpes"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Cinema brasileiro",
+      "words": [
+        "Central do Brasil",
+        "O Auto da Compadecida",
+        "Cidade de Deus"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Personagens de The Simpsons",
+      "words": [
+        "Homer Simpson",
+        "Marge Simpson",
+        "Bart Simpson"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Filmes de animação da Pixar",
+      "words": [
+        "Ratatouille",
+        "WALL-E",
+        "Viva"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Tipos de nuvens",
+      "words": [
+        "Cirrus",
+        "Cumulus",
+        "Stratus",
+        "Cumulonimbus"
+      ],
+      "icone": "globe"
+    }
+  ],
+  "hiddenCategories": 0
+}

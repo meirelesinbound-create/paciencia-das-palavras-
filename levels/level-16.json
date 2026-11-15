@@ -1,0 +1,60 @@
+{
+  "id": 16,
+  "title": "Desafio 16",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 53,
+  "categories": [
+    {
+      "name": "Filmes do Studio Ghibli",
+      "words": [
+        "A Viagem de Chihiro",
+        "Meu Amigo Totoro",
+        "Princesa Mononoke",
+        "O Castelo Animado"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Personagens de The Bear",
+      "words": [
+        "Carmy Berzatto",
+        "Sydney Adamu",
+        "Richie Jerimovich",
+        "Tina Marrero"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Jogos da FromSoftware",
+      "words": [
+        "Dark Souls",
+        "Bloodborne",
+        "Sekiro",
+        "Elden Ring"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Consoles clássicos",
+      "words": [
+        "Super Nintendo",
+        "Mega Drive",
+        "PlayStation 2",
+        "Dreamcast"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Modalidades olímpicas de combate",
+      "words": [
+        "Judô",
+        "Esgrima",
+        "Taekwondo",
+        "Boxe"
+      ],
+      "icone": "clapper"
+    }
+  ],
+  "hiddenCategories": 1
+}

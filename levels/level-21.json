@@ -1,0 +1,60 @@
+{
+  "id": 21,
+  "title": "Desafio 21",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 51,
+  "categories": [
+    {
+      "name": "Filmes da franquia Matrix",
+      "words": [
+        "Matrix",
+        "Matrix Reloaded",
+        "Matrix Revolutions",
+        "Matrix Resurrections"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Semifinalistas da Copa de 2022",
+      "words": [
+        "Argentina",
+        "França",
+        "Croácia",
+        "Marrocos"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Personagens de The Last of Us",
+      "words": [
+        "Joel Miller",
+        "Ellie Williams",
+        "Tommy Miller",
+        "Abby Anderson"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Frutas cítricas",
+      "words": [
+        "Limão",
+        "Laranja",
+        "Tangerina",
+        "Toranja"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Personagens de The Sopranos",
+      "words": [
+        "Tony Soprano",
+        "Carmela Soprano",
+        "Christopher Moltisanti",
+        "Paulie Gualtieri"
+      ],
+      "icone": "clapper"
+    }
+  ],
+  "hiddenCategories": 1
+}

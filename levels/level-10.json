@@ -1,0 +1,56 @@
+{
+  "id": 10,
+  "title": "Desafio 10",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 45,
+  "categories": [
+    {
+      "name": "Gêneros musicais brasileiros",
+      "words": [
+        "Choro",
+        "Maracatu",
+        "Frevo"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Personagens da Democracia Corinthiana",
+      "words": [
+        "Sócrates",
+        "Wladimir",
+        "Casagrande"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Filmes vencedores da Palma de Ouro",
+      "words": [
+        "Pulp Fiction",
+        "Parasita",
+        "Anatomia de uma Queda"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Cinema brasileiro",
+      "words": [
+        "Central do Brasil",
+        "O Auto da Compadecida",
+        "Cidade de Deus"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Países nórdicos",
+      "words": [
+        "Noruega",
+        "Suécia",
+        "Dinamarca",
+        "Finlândia"
+      ],
+      "icone": "globe"
+    }
+  ],
+  "hiddenCategories": 1
+}

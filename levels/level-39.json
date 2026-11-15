@@ -1,0 +1,60 @@
+{
+  "id": 39,
+  "title": "Desafio 39",
+  "pack": "corinthians",
+  "packName": "Corinthians",
+  "moves": 43,
+  "categories": [
+    {
+      "name": "Tipos de rocha",
+      "words": [
+        "Ígnea",
+        "Sedimentar",
+        "Metamórfica",
+        "Vulcânica"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Grandes camisas 10",
+      "words": [
+        "Pelé",
+        "Zico",
+        "Maradona",
+        "Ronaldinho Gaúcho"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Apelidos e símbolos da torcida",
+      "words": [
+        "Fiel",
+        "Bando de Loucos",
+        "Gaviões da Fiel",
+        "Mosqueteiro"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Filmes de ficção científica",
+      "words": [
+        "Blade Runner",
+        "Gattaca",
+        "Distrito 9",
+        "Ex Machina"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Personagens de Friends",
+      "words": [
+        "Rachel Green",
+        "Ross Geller",
+        "Phoebe Buffay",
+        "Chandler Bing"
+      ],
+      "icone": "clapper"
+    }
+  ],
+  "hiddenCategories": 1
+}

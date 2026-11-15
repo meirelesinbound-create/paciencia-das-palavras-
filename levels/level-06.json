@@ -1,0 +1,56 @@
+{
+  "id": 6,
+  "title": "Desafio 06",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 47,
+  "categories": [
+    {
+      "name": "Capitais sul-americanas",
+      "words": [
+        "Buenos Aires",
+        "Lima",
+        "Quito",
+        "Santiago"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Títulos do Corinthians",
+      "words": [
+        "Libertadores 2012",
+        "Mundial 2000",
+        "Mundial 2012"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Filmes do universo Star Wars",
+      "words": [
+        "Uma Nova Esperança",
+        "O Império Contra-Ataca",
+        "O Retorno de Jedi"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Personagens de Stranger Things",
+      "words": [
+        "Eleven",
+        "Dustin Henderson",
+        "Jim Hopper"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Estádios brasileiros",
+      "words": [
+        "Maracanã",
+        "Mineirão",
+        "Arena Fonte Nova"
+      ],
+      "icone": "ball"
+    }
+  ],
+  "hiddenCategories": 1
+}

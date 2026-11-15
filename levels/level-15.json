@@ -1,0 +1,60 @@
+{
+  "id": 15,
+  "title": "Desafio 15",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 53,
+  "categories": [
+    {
+      "name": "Elementos químicos",
+      "words": [
+        "Gálio",
+        "Bromo",
+        "Cobalto",
+        "Xenônio"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Fundamentos do futebol",
+      "words": [
+        "Drible",
+        "Cabeceio",
+        "Desarme",
+        "Cruzamento"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Personagens de Arcane",
+      "words": [
+        "Vi",
+        "Jinx",
+        "Caitlyn",
+        "Jayce"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Filmes de Martin Scorsese",
+      "words": [
+        "Taxi Driver",
+        "Os Bons Companheiros",
+        "Os Infiltrados",
+        "O Irlandês"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Filmes de Christopher Nolan",
+      "words": [
+        "Amnésia",
+        "O Grande Truque",
+        "A Origem",
+        "Interestelar"
+      ],
+      "icone": "film"
+    }
+  ],
+  "hiddenCategories": 2
+}

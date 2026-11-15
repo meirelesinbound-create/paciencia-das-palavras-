@@ -1,0 +1,57 @@
+{
+  "id": 12,
+  "title": "Desafio 12",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 48,
+  "categories": [
+    {
+      "name": "Cordilheiras",
+      "words": [
+        "Andes",
+        "Himalaia",
+        "Alpes",
+        "Atlas"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Correntes filosóficas",
+      "words": [
+        "Estoicismo",
+        "Epicurismo",
+        "Existencialismo",
+        "Niilismo"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Seleções campeãs do mundo",
+      "words": [
+        "Brasil",
+        "Alemanha",
+        "Itália"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Fundamentos do futebol",
+      "words": [
+        "Drible",
+        "Cabeceio",
+        "Desarme"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Ídolos do Corinthians",
+      "words": [
+        "Sócrates",
+        "Rivellino",
+        "Marcelinho Carioca"
+      ],
+      "icone": "ball"
+    }
+  ],
+  "hiddenCategories": 2
+}

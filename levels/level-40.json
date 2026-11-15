@@ -1,0 +1,60 @@
+{
+  "id": 40,
+  "title": "Desafio 40",
+  "pack": "corinthians",
+  "packName": "Corinthians",
+  "moves": 43,
+  "categories": [
+    {
+      "name": "Elementos químicos",
+      "words": [
+        "Gálio",
+        "Bromo",
+        "Cobalto",
+        "Xenônio"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Personagens de The Last of Us",
+      "words": [
+        "Joel Miller",
+        "Ellie Williams",
+        "Tommy Miller",
+        "Abby Anderson"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Fundamentos do futebol",
+      "words": [
+        "Drible",
+        "Cabeceio",
+        "Desarme",
+        "Cruzamento"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Ídolos do Corinthians",
+      "words": [
+        "Sócrates",
+        "Rivellino",
+        "Marcelinho Carioca",
+        "Neto"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Filmes de Martin Scorsese",
+      "words": [
+        "Taxi Driver",
+        "Os Bons Companheiros",
+        "Os Infiltrados",
+        "O Irlandês"
+      ],
+      "icone": "film"
+    }
+  ],
+  "hiddenCategories": 2
+}

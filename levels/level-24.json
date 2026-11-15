@@ -1,0 +1,60 @@
+{
+  "id": 24,
+  "title": "Desafio 24",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 49,
+  "categories": [
+    {
+      "name": "Navegadores históricos",
+      "words": [
+        "Vasco da Gama",
+        "Fernão de Magalhães",
+        "Bartolomeu Dias",
+        "James Cook"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Personagens de The Sopranos",
+      "words": [
+        "Tony Soprano",
+        "Carmela Soprano",
+        "Christopher Moltisanti",
+        "Paulie Gualtieri"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Clubes campeões da Libertadores",
+      "words": [
+        "Boca Juniors",
+        "River Plate",
+        "Peñarol",
+        "Nacional"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Rivais paulistas",
+      "words": [
+        "Palmeiras",
+        "São Paulo",
+        "Santos",
+        "Portuguesa"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Goleiros históricos",
+      "words": [
+        "Taffarel",
+        "Dida",
+        "Marcos",
+        "Rogério Ceni"
+      ],
+      "icone": "glove"
+    }
+  ],
+  "hiddenCategories": 0
+}

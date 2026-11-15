@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "hintCost": 10,
+  "miniGame": {
+    "seconds": 45,
+    "rounds": 10,
+    "rewards": [
+      {
+        "max": 4,
+        "moves": 3
+      },
+      {
+        "max": 7,
+        "moves": 6
+      },
+      {
+        "max": 10,
+        "moves": 10
+      }
+    ]
+  },
+  "rewards": {
+    "sceneWin": 50,
+    "daily": 100
+  },
+  "stars": {
+    "three": 0.7,
+    "two": 0.9
+  },
+  "tutorial": true
+}
