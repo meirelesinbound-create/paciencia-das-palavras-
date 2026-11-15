@@ -1,0 +1,60 @@
+{
+  "id": 37,
+  "title": "Desafio 37",
+  "pack": "futebol",
+  "packName": "Futebol",
+  "moves": 44,
+  "categories": [
+    {
+      "name": "Cordilheiras",
+      "words": [
+        "Andes",
+        "Himalaia",
+        "Alpes",
+        "Atlas"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Cinema brasileiro",
+      "words": [
+        "Central do Brasil",
+        "O Auto da Compadecida",
+        "Cidade de Deus",
+        "Que Horas Ela Volta?"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Personagens de The Simpsons",
+      "words": [
+        "Homer Simpson",
+        "Marge Simpson",
+        "Bart Simpson",
+        "Lisa Simpson"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Seleções campeãs do mundo",
+      "words": [
+        "Brasil",
+        "Alemanha",
+        "Itália",
+        "Argentina"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Goleiros marcantes do Corinthians",
+      "words": [
+        "Cássio",
+        "Ronaldo Giovanelli",
+        "Dida",
+        "Gylmar"
+      ],
+      "icone": "glove"
+    }
+  ],
+  "hiddenCategories": 1
+}
