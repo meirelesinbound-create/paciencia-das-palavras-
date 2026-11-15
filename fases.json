@@ -2,26 +2,50 @@
   {
     "id": 1,
     "title": "Desafio 01",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 49,
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 76,
     "categories": [
       {
-        "name": "Frutas",
+        "name": "Filmes de Christopher Nolan",
         "words": [
-          "Banana",
-          "Laranja",
-          "Mamão"
+          "Amnésia",
+          "O Grande Truque",
+          "A Origem"
         ]
       },
       {
-        "name": "Comidas brasileiras",
+        "name": "Personagens de Stranger Things",
         "words": [
-          "Feijoada",
-          "Acarajé",
-          "Pamonha"
+          "Eleven",
+          "Dustin Henderson",
+          "Jim Hopper"
+        ]
+      },
+      {
+        "name": "Estádios brasileiros",
+        "words": [
+          "Maracanã",
+          "Mineirão",
+          "Arena Fonte Nova"
+        ]
+      },
+      {
+        "name": "Finais marcantes do Corinthians",
+        "words": [
+          "Mundial 2000",
+          "Libertadores 2012",
+          "Paulistão 1977"
+        ]
+      },
+      {
+        "name": "Biomas brasileiros",
+        "words": [
+          "Caatinga",
+          "Cerrado",
+          "Pantanal"
         ]
       }
     ]
@@ -29,26 +53,50 @@
   {
     "id": 2,
     "title": "Desafio 02",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 52,
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 78,
     "categories": [
       {
-        "name": "Países",
+        "name": "Filmes de terror",
         "words": [
-          "Brasil",
-          "Canadá",
-          "Japão"
+          "Hereditário",
+          "O Iluminado",
+          "Corra!"
         ]
       },
       {
-        "name": "Vegetais",
+        "name": "Personagens de The Sopranos",
         "words": [
-          "Cenoura",
-          "Abobrinha",
-          "Beterraba"
+          "Tony Soprano",
+          "Carmela Soprano",
+          "Christopher Moltisanti"
+        ]
+      },
+      {
+        "name": "Clubes campeões da Libertadores",
+        "words": [
+          "Boca Juniors",
+          "River Plate",
+          "Peñarol"
+        ]
+      },
+      {
+        "name": "Rivais paulistas",
+        "words": [
+          "Palmeiras",
+          "São Paulo",
+          "Santos"
+        ]
+      },
+      {
+        "name": "Movimentos literários",
+        "words": [
+          "Barroco",
+          "Arcadismo",
+          "Romantismo"
         ]
       }
     ]
@@ -56,26 +104,50 @@
   {
     "id": 3,
     "title": "Desafio 03",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 55,
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 80,
     "categories": [
       {
-        "name": "Instrumentos musicais",
+        "name": "Filmes da franquia Alien",
         "words": [
-          "Violão",
-          "Flauta",
-          "Pandeiro"
+          "Alien: O Oitavo Passageiro",
+          "Aliens",
+          "Alien 3"
         ]
       },
       {
-        "name": "Oceanos e mares",
+        "name": "Personagens de Lost",
         "words": [
-          "Atlântico",
-          "Pacífico",
-          "Mediterrâneo"
+          "Jack Shephard",
+          "Kate Austen",
+          "Sawyer"
+        ]
+      },
+      {
+        "name": "Posições do futebol",
+        "words": [
+          "Goleiro",
+          "Zagueiro",
+          "Lateral"
+        ]
+      },
+      {
+        "name": "Títulos do Corinthians",
+        "words": [
+          "Libertadores 2012",
+          "Mundial 2000",
+          "Mundial 2012"
+        ]
+      },
+      {
+        "name": "Termos da astronomia",
+        "words": [
+          "Periélio",
+          "Afélio",
+          "Eclíptica"
         ]
       }
     ]
@@ -83,26 +155,50 @@
   {
     "id": 4,
     "title": "Desafio 04",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 59,
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 82,
     "categories": [
       {
-        "name": "Meios de transporte",
+        "name": "Filmes com viagem no tempo",
         "words": [
-          "Bicicleta",
-          "Metrô",
-          "Navio"
+          "De Volta para o Futuro",
+          "12 Macacos",
+          "Primer"
         ]
       },
       {
-        "name": "Partes do corpo",
+        "name": "Personagens de Game of Thrones",
         "words": [
-          "Cotovelo",
-          "Pulso",
-          "Calcanhar"
+          "Jon Snow",
+          "Daenerys Targaryen",
+          "Tyrion Lannister"
+        ]
+      },
+      {
+        "name": "Copas do Mundo",
+        "words": [
+          "México 1970",
+          "Espanha 1982",
+          "Estados Unidos 1994"
+        ]
+      },
+      {
+        "name": "Técnicos campeões pelo Corinthians",
+        "words": [
+          "Oswaldo Brandão",
+          "Tite",
+          "Fábio Carille"
+        ]
+      },
+      {
+        "name": "Unidades de medida",
+        "words": [
+          "Pascal",
+          "Joule",
+          "Newton"
         ]
       }
     ]
@@ -110,26 +206,50 @@
   {
     "id": 5,
     "title": "Desafio 05",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 62,
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 84,
     "categories": [
       {
-        "name": "Aves",
+        "name": "Filmes de animação da Pixar",
         "words": [
-          "Arara",
-          "Tucano",
-          "Pinguim"
+          "Ratatouille",
+          "WALL-E",
+          "Viva"
         ]
       },
       {
-        "name": "Fenômenos naturais",
+        "name": "Personagens de The Office",
         "words": [
-          "Tornado",
-          "Eclipse",
-          "Aurora"
+          "Michael Scott",
+          "Dwight Schrute",
+          "Jim Halpert"
+        ]
+      },
+      {
+        "name": "Goleiros históricos",
+        "words": [
+          "Taffarel",
+          "Dida",
+          "Marcos"
+        ]
+      },
+      {
+        "name": "Atacantes históricos do Corinthians",
+        "words": [
+          "Cláudio Christóvam",
+          "Baltazar",
+          "Luizão"
+        ]
+      },
+      {
+        "name": "Fenômenos ópticos",
+        "words": [
+          "Refração",
+          "Difração",
+          "Dispersão"
         ]
       }
     ]
@@ -137,26 +257,50 @@
   {
     "id": 6,
     "title": "Desafio 06",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 65,
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 86,
     "categories": [
       {
-        "name": "Ferramentas",
+        "name": "Filmes da franquia Alien",
         "words": [
-          "Martelo",
-          "Alicate",
-          "Serrote"
+          "Alien: O Oitavo Passageiro",
+          "Aliens",
+          "Alien 3"
         ]
       },
       {
-        "name": "Flores",
+        "name": "Personagens de Lost",
         "words": [
-          "Girassol",
-          "Orquídea",
-          "Hibisco"
+          "Jack Shephard",
+          "Kate Austen",
+          "Sawyer"
+        ]
+      },
+      {
+        "name": "Posições do futebol",
+        "words": [
+          "Goleiro",
+          "Zagueiro",
+          "Lateral"
+        ]
+      },
+      {
+        "name": "Títulos do Corinthians",
+        "words": [
+          "Libertadores 2012",
+          "Mundial 2000",
+          "Mundial 2012"
+        ]
+      },
+      {
+        "name": "Termos da astronomia",
+        "words": [
+          "Periélio",
+          "Afélio",
+          "Eclíptica"
         ]
       }
     ]
@@ -164,34 +308,50 @@
   {
     "id": 7,
     "title": "Desafio 07",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 73,
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 88,
     "categories": [
       {
-        "name": "Materiais",
+        "name": "Filmes com viagem no tempo",
         "words": [
-          "Madeira",
-          "Cerâmica",
-          "Alumínio"
+          "De Volta para o Futuro",
+          "12 Macacos",
+          "Primer"
         ]
       },
       {
-        "name": "Astros",
+        "name": "Personagens de Game of Thrones",
         "words": [
-          "Cometa",
-          "Nebulosa",
-          "Galáxia"
+          "Jon Snow",
+          "Daenerys Targaryen",
+          "Tyrion Lannister"
         ]
       },
       {
-        "name": "Profissões",
+        "name": "Copas do Mundo",
         "words": [
-          "Médica",
-          "Bombeiro",
-          "Arquiteta"
+          "México 1970",
+          "Espanha 1982",
+          "Estados Unidos 1994"
+        ]
+      },
+      {
+        "name": "Técnicos campeões pelo Corinthians",
+        "words": [
+          "Oswaldo Brandão",
+          "Tite",
+          "Fábio Carille"
+        ]
+      },
+      {
+        "name": "Unidades de medida",
+        "words": [
+          "Pascal",
+          "Joule",
+          "Newton"
         ]
       }
     ]
@@ -199,34 +359,50 @@
   {
     "id": 8,
     "title": "Desafio 08",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 76,
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 90,
     "categories": [
       {
-        "name": "Objetos escolares",
+        "name": "Filmes de animação da Pixar",
         "words": [
-          "Caderno",
-          "Compasso",
-          "Estojo"
+          "Ratatouille",
+          "WALL-E",
+          "Viva"
         ]
       },
       {
-        "name": "Animais",
+        "name": "Personagens de The Office",
         "words": [
-          "Onça",
-          "Capivara",
-          "Tamanduá"
+          "Michael Scott",
+          "Dwight Schrute",
+          "Jim Halpert"
         ]
       },
       {
-        "name": "Esportes",
+        "name": "Goleiros históricos",
         "words": [
-          "Natação",
-          "Judô",
-          "Vôlei"
+          "Taffarel",
+          "Dida",
+          "Marcos"
+        ]
+      },
+      {
+        "name": "Atacantes históricos do Corinthians",
+        "words": [
+          "Cláudio Christóvam",
+          "Baltazar",
+          "Luizão"
+        ]
+      },
+      {
+        "name": "Fenômenos ópticos",
+        "words": [
+          "Refração",
+          "Difração",
+          "Dispersão"
         ]
       }
     ]
@@ -234,34 +410,50 @@
   {
     "id": 9,
     "title": "Desafio 09",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 79,
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 92,
     "categories": [
       {
-        "name": "Frutas",
+        "name": "Cinema brasileiro",
         "words": [
-          "Banana",
-          "Laranja",
-          "Mamão"
+          "Central do Brasil",
+          "O Auto da Compadecida",
+          "Cidade de Deus"
         ]
       },
       {
-        "name": "Comidas brasileiras",
+        "name": "Personagens de The Simpsons",
         "words": [
-          "Feijoada",
-          "Acarajé",
-          "Pamonha"
+          "Homer Simpson",
+          "Marge Simpson",
+          "Bart Simpson"
         ]
       },
       {
-        "name": "Cores",
+        "name": "Seleções campeãs do mundo",
         "words": [
-          "Violeta",
-          "Turquesa",
-          "Escarlate"
+          "Brasil",
+          "Alemanha",
+          "Itália"
+        ]
+      },
+      {
+        "name": "Goleiros marcantes do Corinthians",
+        "words": [
+          "Cássio",
+          "Ronaldo Giovanelli",
+          "Dida"
+        ]
+      },
+      {
+        "name": "Cordilheiras",
+        "words": [
+          "Andes",
+          "Himalaia",
+          "Alpes"
         ]
       }
     ]
@@ -269,883 +461,23 @@
   {
     "id": 10,
     "title": "Desafio 10",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 82,
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 95,
     "categories": [
       {
-        "name": "Países",
+        "name": "Filmes vencedores da Palma de Ouro",
         "words": [
-          "Brasil",
-          "Canadá",
-          "Japão"
-        ]
-      },
-      {
-        "name": "Vegetais",
-        "words": [
-          "Cenoura",
-          "Abobrinha",
-          "Beterraba"
-        ]
-      },
-      {
-        "name": "Bebidas",
-        "words": [
-          "Guaraná",
-          "Chimarrão",
-          "Café"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "title": "Desafio 11",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 86,
-    "categories": [
-      {
-        "name": "Instrumentos musicais",
-        "words": [
-          "Violão",
-          "Flauta",
-          "Pandeiro"
-        ]
-      },
-      {
-        "name": "Oceanos e mares",
-        "words": [
-          "Atlântico",
-          "Pacífico",
-          "Mediterrâneo"
-        ]
-      },
-      {
-        "name": "Doces",
-        "words": [
-          "Brigadeiro",
-          "Quindim",
-          "Paçoca"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "title": "Desafio 12",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 89,
-    "categories": [
-      {
-        "name": "Meios de transporte",
-        "words": [
-          "Bicicleta",
-          "Metrô",
-          "Navio"
-        ]
-      },
-      {
-        "name": "Partes do corpo",
-        "words": [
-          "Cotovelo",
-          "Pulso",
-          "Calcanhar"
-        ]
-      },
-      {
-        "name": "Lugares da cidade",
-        "words": [
-          "Biblioteca",
-          "Farmácia",
-          "Padaria"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "title": "Desafio 13",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 96,
-    "categories": [
-      {
-        "name": "Aves",
-        "words": [
-          "Arara",
-          "Tucano",
-          "Pinguim"
-        ]
-      },
-      {
-        "name": "Fenômenos naturais",
-        "words": [
-          "Tornado",
-          "Eclipse",
-          "Aurora"
-        ]
-      },
-      {
-        "name": "Climas",
-        "words": [
-          "Tropical",
-          "Polar",
-          "Desértico"
-        ]
-      },
-      {
-        "name": "Países",
-        "words": [
-          "Brasil",
-          "Canadá",
-          "Japão"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "title": "Desafio 14",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 100,
-    "categories": [
-      {
-        "name": "Ferramentas",
-        "words": [
-          "Martelo",
-          "Alicate",
-          "Serrote"
-        ]
-      },
-      {
-        "name": "Flores",
-        "words": [
-          "Girassol",
-          "Orquídea",
-          "Hibisco"
-        ]
-      },
-      {
-        "name": "Planetas",
-        "words": [
-          "Mercúrio",
-          "Marte",
-          "Saturno"
-        ]
-      },
-      {
-        "name": "Instrumentos musicais",
-        "words": [
-          "Violão",
-          "Flauta",
-          "Pandeiro"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "title": "Desafio 15",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 103,
-    "categories": [
-      {
-        "name": "Materiais",
-        "words": [
-          "Madeira",
-          "Cerâmica",
-          "Alumínio"
-        ]
-      },
-      {
-        "name": "Astros",
-        "words": [
-          "Cometa",
-          "Nebulosa",
-          "Galáxia"
-        ]
-      },
-      {
-        "name": "Profissões",
-        "words": [
-          "Médica",
-          "Bombeiro",
-          "Arquiteta"
-        ]
-      },
-      {
-        "name": "Meios de transporte",
-        "words": [
-          "Bicicleta",
-          "Metrô",
-          "Navio"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "title": "Desafio 16",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 106,
-    "categories": [
-      {
-        "name": "Objetos escolares",
-        "words": [
-          "Caderno",
-          "Compasso",
-          "Estojo"
-        ]
-      },
-      {
-        "name": "Animais",
-        "words": [
-          "Onça",
-          "Capivara",
-          "Tamanduá"
-        ]
-      },
-      {
-        "name": "Esportes",
-        "words": [
-          "Natação",
-          "Judô",
-          "Vôlei"
-        ]
-      },
-      {
-        "name": "Aves",
-        "words": [
-          "Arara",
-          "Tucano",
-          "Pinguim"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "title": "Desafio 17",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 109,
-    "categories": [
-      {
-        "name": "Frutas",
-        "words": [
-          "Banana",
-          "Laranja",
-          "Mamão"
-        ]
-      },
-      {
-        "name": "Comidas brasileiras",
-        "words": [
-          "Feijoada",
-          "Acarajé",
-          "Pamonha"
-        ]
-      },
-      {
-        "name": "Cores",
-        "words": [
-          "Violeta",
-          "Turquesa",
-          "Escarlate"
-        ]
-      },
-      {
-        "name": "Ferramentas",
-        "words": [
-          "Martelo",
-          "Alicate",
-          "Serrote"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "title": "Desafio 18",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 112,
-    "categories": [
-      {
-        "name": "Países",
-        "words": [
-          "Brasil",
-          "Canadá",
-          "Japão"
-        ]
-      },
-      {
-        "name": "Vegetais",
-        "words": [
-          "Cenoura",
-          "Abobrinha",
-          "Beterraba"
-        ]
-      },
-      {
-        "name": "Bebidas",
-        "words": [
-          "Guaraná",
-          "Chimarrão",
-          "Café"
-        ]
-      },
-      {
-        "name": "Materiais",
-        "words": [
-          "Madeira",
-          "Cerâmica",
-          "Alumínio"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "title": "Desafio 19",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 122,
-    "categories": [
-      {
-        "name": "Instrumentos musicais",
-        "words": [
-          "Violão",
-          "Flauta",
-          "Pandeiro",
-          "Atabaque"
-        ]
-      },
-      {
-        "name": "Oceanos e mares",
-        "words": [
-          "Atlântico",
-          "Pacífico",
-          "Mediterrâneo",
-          "Índico"
-        ]
-      },
-      {
-        "name": "Doces",
-        "words": [
-          "Brigadeiro",
-          "Quindim",
-          "Paçoca",
-          "Pé de moleque"
-        ]
-      },
-      {
-        "name": "Objetos escolares",
-        "words": [
-          "Caderno",
-          "Compasso",
-          "Estojo",
-          "Régua"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "title": "Desafio 20",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 125,
-    "categories": [
-      {
-        "name": "Meios de transporte",
-        "words": [
-          "Bicicleta",
-          "Metrô",
-          "Navio",
-          "Avião"
-        ]
-      },
-      {
-        "name": "Partes do corpo",
-        "words": [
-          "Cotovelo",
-          "Pulso",
-          "Calcanhar",
-          "Clavícula"
-        ]
-      },
-      {
-        "name": "Lugares da cidade",
-        "words": [
-          "Biblioteca",
-          "Farmácia",
-          "Padaria",
-          "Museu"
-        ]
-      },
-      {
-        "name": "Frutas",
-        "words": [
-          "Banana",
-          "Laranja",
-          "Mamão",
-          "Manga"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "title": "Desafio 21",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 128,
-    "categories": [
-      {
-        "name": "Aves",
-        "words": [
-          "Arara",
-          "Tucano",
-          "Pinguim",
-          "Sabiá"
-        ]
-      },
-      {
-        "name": "Fenômenos naturais",
-        "words": [
-          "Tornado",
-          "Eclipse",
-          "Aurora",
-          "Tsunami"
-        ]
-      },
-      {
-        "name": "Climas",
-        "words": [
-          "Tropical",
-          "Polar",
-          "Desértico",
-          "Temperado"
-        ]
-      },
-      {
-        "name": "Países",
-        "words": [
-          "Brasil",
-          "Canadá",
-          "Japão",
-          "Portugal"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "title": "Desafio 22",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 131,
-    "categories": [
-      {
-        "name": "Ferramentas",
-        "words": [
-          "Martelo",
-          "Alicate",
-          "Serrote",
-          "Chave de fenda"
-        ]
-      },
-      {
-        "name": "Flores",
-        "words": [
-          "Girassol",
-          "Orquídea",
-          "Hibisco",
-          "Margarida"
-        ]
-      },
-      {
-        "name": "Planetas",
-        "words": [
-          "Mercúrio",
-          "Marte",
-          "Saturno",
-          "Netuno"
-        ]
-      },
-      {
-        "name": "Instrumentos musicais",
-        "words": [
-          "Violão",
-          "Flauta",
-          "Pandeiro",
-          "Atabaque"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 23,
-    "title": "Desafio 23",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 134,
-    "categories": [
-      {
-        "name": "Materiais",
-        "words": [
-          "Madeira",
-          "Cerâmica",
-          "Alumínio",
-          "Vidro"
-        ]
-      },
-      {
-        "name": "Astros",
-        "words": [
-          "Cometa",
-          "Nebulosa",
-          "Galáxia",
-          "Estrela"
-        ]
-      },
-      {
-        "name": "Profissões",
-        "words": [
-          "Médica",
-          "Bombeiro",
-          "Arquiteta",
-          "Padeiro"
-        ]
-      },
-      {
-        "name": "Meios de transporte",
-        "words": [
-          "Bicicleta",
-          "Metrô",
-          "Navio",
-          "Avião"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 24,
-    "title": "Desafio 24",
-    "pack": "geral",
-    "packName": "Clássicos",
-    "icon": "🧩",
-    "color": "#5b8def",
-    "moves": 138,
-    "categories": [
-      {
-        "name": "Objetos escolares",
-        "words": [
-          "Caderno",
-          "Compasso",
-          "Estojo",
-          "Régua"
-        ]
-      },
-      {
-        "name": "Animais",
-        "words": [
-          "Onça",
-          "Capivara",
-          "Tamanduá",
-          "Lobo-guará"
-        ]
-      },
-      {
-        "name": "Esportes",
-        "words": [
-          "Natação",
-          "Judô",
-          "Vôlei",
-          "Basquete"
-        ]
-      },
-      {
-        "name": "Aves",
-        "words": [
-          "Arara",
-          "Tucano",
-          "Pinguim",
-          "Sabiá"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 25,
-    "title": "Desafio 25",
-    "pack": "cinema",
-    "packName": "Cinema",
-    "icon": "🎬",
-    "color": "#b95d3d",
-    "moves": 147,
-    "categories": [
-      {
-        "name": "Diretores brasileiros",
-        "words": [
-          "Walter Salles",
-          "Anna Muylaert",
-          "Fernando Meirelles",
-          "José Padilha"
-        ]
-      },
-      {
-        "name": "Filmes premiados",
-        "words": [
-          "Ainda Estou Aqui",
-          "Central do Brasil",
-          "Cidade de Deus",
-          "O Pagador de Promessas"
-        ]
-      },
-      {
-        "name": "Frutas",
-        "words": [
-          "Banana",
-          "Laranja",
-          "Mamão",
-          "Manga"
-        ]
-      },
-      {
-        "name": "Astros",
-        "words": [
-          "Cometa",
-          "Nebulosa",
-          "Galáxia",
-          "Estrela"
-        ]
-      },
-      {
-        "name": "Esportes",
-        "words": [
-          "Natação",
-          "Judô",
-          "Vôlei",
-          "Basquete"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 26,
-    "title": "Desafio 26",
-    "pack": "cinema",
-    "packName": "Cinema",
-    "icon": "🎬",
-    "color": "#b95d3d",
-    "moves": 150,
-    "categories": [
-      {
-        "name": "Diretores internacionais",
-        "words": [
-          "Christopher Nolan",
-          "Greta Gerwig",
-          "Hayao Miyazaki",
-          "Alfonso Cuarón"
-        ]
-      },
-      {
-        "name": "Gêneros de cinema",
-        "words": [
-          "Faroeste",
-          "Musical",
-          "Suspense",
-          "Animação"
-        ]
-      },
-      {
-        "name": "Cores",
-        "words": [
-          "Violeta",
-          "Turquesa",
-          "Escarlate",
-          "Ocre"
-        ]
-      },
-      {
-        "name": "Ferramentas",
-        "words": [
-          "Martelo",
-          "Alicate",
-          "Serrote",
-          "Chave de fenda"
-        ]
-      },
-      {
-        "name": "Vegetais",
-        "words": [
-          "Cenoura",
-          "Abobrinha",
-          "Beterraba",
-          "Chuchu"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 27,
-    "title": "Desafio 27",
-    "pack": "cinema",
-    "packName": "Cinema",
-    "icon": "🎬",
-    "color": "#b95d3d",
-    "moves": 153,
-    "categories": [
-      {
-        "name": "Filmes de Christopher Nolan",
-        "words": [
-          "A Origem",
-          "Interestelar",
-          "Amnésia",
-          "Oppenheimer"
-        ]
-      },
-      {
-        "name": "Franquias de cinema",
-        "words": [
-          "Toy Story",
-          "Jurassic Park",
-          "Missão Impossível",
-          "Avatar"
-        ]
-      },
-      {
-        "name": "Países",
-        "words": [
-          "Brasil",
-          "Canadá",
-          "Japão",
-          "Portugal"
-        ]
-      },
-      {
-        "name": "Flores",
-        "words": [
-          "Girassol",
-          "Orquídea",
-          "Hibisco",
-          "Margarida"
-        ]
-      },
-      {
-        "name": "Oceanos e mares",
-        "words": [
-          "Atlântico",
-          "Pacífico",
-          "Mediterrâneo",
-          "Índico"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 28,
-    "title": "Desafio 28",
-    "pack": "cinema",
-    "packName": "Cinema",
-    "icon": "🎬",
-    "color": "#b95d3d",
-    "moves": 156,
-    "categories": [
-      {
-        "name": "Atores e atrizes",
-        "words": [
-          "Fernanda Torres",
-          "Wagner Moura",
-          "Sônia Braga",
-          "Fernanda Montenegro"
-        ]
-      },
-      {
-        "name": "Filmes vencedores do Oscar",
-        "words": [
-          "O Poderoso Chefão",
+          "Pulp Fiction",
           "Parasita",
-          "Moonlight",
-          "Tudo em Todo o Lugar ao Mesmo Tempo"
+          "Anatomia de uma Queda",
+          "Triângulo da Tristeza"
         ]
       },
       {
-        "name": "Doces",
-        "words": [
-          "Brigadeiro",
-          "Quindim",
-          "Paçoca",
-          "Pé de moleque"
-        ]
-      },
-      {
-        "name": "Materiais",
-        "words": [
-          "Madeira",
-          "Cerâmica",
-          "Alumínio",
-          "Vidro"
-        ]
-      },
-      {
-        "name": "Partes do corpo",
-        "words": [
-          "Cotovelo",
-          "Pulso",
-          "Calcanhar",
-          "Clavícula"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 29,
-    "title": "Desafio 29",
-    "pack": "series",
-    "packName": "Séries de TV",
-    "icon": "📺",
-    "color": "#6d5bd0",
-    "moves": 160,
-    "categories": [
-      {
-        "name": "Breaking Bad",
+        "name": "Personagens de Breaking Bad",
         "words": [
           "Walter White",
           "Jesse Pinkman",
@@ -1154,502 +486,582 @@
         ]
       },
       {
-        "name": "Game of Thrones",
+        "name": "Competições de clubes",
         "words": [
-          "Jon Snow",
-          "Daenerys Targaryen",
-          "Tyrion Lannister",
-          "Arya Stark"
+          "Libertadores",
+          "Sul-Americana",
+          "Champions League",
+          "Mundial de Clubes"
         ]
       },
       {
-        "name": "Planetas",
+        "name": "Personagens da Democracia Corinthiana",
         "words": [
-          "Mercúrio",
-          "Marte",
-          "Saturno",
-          "Netuno"
+          "Sócrates",
+          "Wladimir",
+          "Casagrande",
+          "Zenon"
         ]
       },
       {
-        "name": "Aves",
+        "name": "Gêneros musicais brasileiros",
         "words": [
-          "Arara",
-          "Tucano",
-          "Pinguim",
-          "Sabiá"
-        ]
-      },
-      {
-        "name": "Bebidas",
-        "words": [
-          "Guaraná",
-          "Chimarrão",
-          "Café",
-          "Mate"
+          "Choro",
+          "Maracatu",
+          "Frevo",
+          "Samba-reggae"
         ]
       }
     ]
   },
   {
-    "id": 30,
-    "title": "Desafio 30",
-    "pack": "series",
-    "packName": "Séries de TV",
-    "icon": "📺",
-    "color": "#6d5bd0",
-    "moves": 163,
+    "id": 11,
+    "title": "Desafio 11",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 98,
     "categories": [
       {
-        "name": "Stranger Things",
+        "name": "Filmes de animação da Pixar",
         "words": [
-          "Eleven",
-          "Dustin Henderson",
-          "Jim Hopper",
-          "Max Mayfield"
+          "WALL-E",
+          "Viva",
+          "Divertida Mente"
         ]
       },
       {
-        "name": "Friends",
+        "name": "Personagens de The Office",
         "words": [
-          "Rachel Green",
-          "Ross Geller",
-          "Phoebe Buffay",
-          "Chandler Bing"
-        ]
-      },
-      {
-        "name": "Ferramentas",
-        "words": [
-          "Martelo",
-          "Alicate",
-          "Serrote",
-          "Chave de fenda"
-        ]
-      },
-      {
-        "name": "Animais",
-        "words": [
-          "Onça",
-          "Capivara",
-          "Tamanduá",
-          "Lobo-guará"
-        ]
-      },
-      {
-        "name": "Climas",
-        "words": [
-          "Tropical",
-          "Polar",
-          "Desértico",
-          "Temperado"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 31,
-    "title": "Desafio 31",
-    "pack": "series",
-    "packName": "Séries de TV",
-    "icon": "📺",
-    "color": "#6d5bd0",
-    "moves": 166,
-    "categories": [
-      {
-        "name": "La Casa de Papel",
-        "words": [
-          "Professor",
-          "Tóquio",
-          "Berlim",
-          "Nairóbi"
-        ]
-      },
-      {
-        "name": "Round 6",
-        "words": [
-          "Gi-hun",
-          "Sang-woo",
-          "Saebyeok",
-          "Il-nam"
-        ]
-      },
-      {
-        "name": "Bebidas",
-        "words": [
-          "Guaraná",
-          "Chimarrão",
-          "Café",
-          "Mate"
-        ]
-      },
-      {
-        "name": "Objetos escolares",
-        "words": [
-          "Caderno",
-          "Compasso",
-          "Estojo",
-          "Régua"
-        ]
-      },
-      {
-        "name": "Flores",
-        "words": [
-          "Girassol",
-          "Orquídea",
-          "Hibisco",
-          "Margarida"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 32,
-    "title": "Desafio 32",
-    "pack": "series",
-    "packName": "Séries de TV",
-    "icon": "📺",
-    "color": "#6d5bd0",
-    "moves": 169,
-    "categories": [
-      {
-        "name": "The Office",
-        "words": [
-          "Michael Scott",
           "Dwight Schrute",
           "Jim Halpert",
           "Pam Beesly"
         ]
       },
       {
-        "name": "Locais e organizações de séries",
+        "name": "Goleiros históricos",
         "words": [
-          "Hawkins",
-          "Winterfell",
-          "Dunder Mifflin",
-          "King's Landing"
+          "Dida",
+          "Marcos",
+          "Rogério Ceni"
         ]
       },
       {
-        "name": "Flores",
+        "name": "Atacantes históricos do Corinthians",
         "words": [
-          "Girassol",
-          "Orquídea",
-          "Hibisco",
-          "Margarida"
+          "Baltazar",
+          "Luizão",
+          "Jô"
         ]
       },
       {
-        "name": "Profissões",
+        "name": "Fenômenos ópticos",
         "words": [
-          "Médica",
-          "Bombeiro",
-          "Arquiteta",
-          "Padeiro"
-        ]
-      },
-      {
-        "name": "Comidas brasileiras",
-        "words": [
-          "Feijoada",
-          "Acarajé",
-          "Pamonha",
-          "Moqueca"
+          "Difração",
+          "Dispersão",
+          "Polarização"
         ]
       }
     ]
   },
   {
-    "id": 33,
-    "title": "Desafio 33",
-    "pack": "series",
-    "packName": "Séries de TV",
-    "icon": "📺",
-    "color": "#6d5bd0",
-    "moves": 172,
+    "id": 12,
+    "title": "Desafio 12",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 101,
     "categories": [
       {
-        "name": "Personagens que confundem",
+        "name": "Cinema brasileiro",
         "words": [
-          "Robin",
-          "Eddie",
-          "Alex",
-          "Steve"
+          "O Auto da Compadecida",
+          "Cidade de Deus",
+          "Que Horas Ela Volta?"
         ]
       },
       {
-        "name": "Séries de suspense",
+        "name": "Personagens de The Simpsons",
         "words": [
-          "Breaking Bad",
-          "Round 6",
-          "La Casa de Papel",
-          "Dark"
+          "Marge Simpson",
+          "Bart Simpson",
+          "Lisa Simpson"
         ]
       },
       {
-        "name": "Meios de transporte",
+        "name": "Seleções campeãs do mundo",
         "words": [
-          "Bicicleta",
-          "Metrô",
-          "Navio",
-          "Avião"
+          "Alemanha",
+          "Itália",
+          "Argentina"
         ]
       },
       {
-        "name": "Planetas",
+        "name": "Goleiros marcantes do Corinthians",
         "words": [
-          "Mercúrio",
-          "Marte",
-          "Saturno",
-          "Netuno"
+          "Ronaldo Giovanelli",
+          "Dida",
+          "Gylmar"
         ]
       },
       {
-        "name": "Materiais",
+        "name": "Cordilheiras",
         "words": [
-          "Madeira",
-          "Cerâmica",
-          "Alumínio",
-          "Vidro"
+          "Himalaia",
+          "Alpes",
+          "Atlas"
         ]
       }
     ]
   },
   {
-    "id": 34,
-    "title": "Desafio 34",
-    "pack": "futebol",
-    "packName": "Futebol",
-    "icon": "⚽",
-    "color": "#21865b",
-    "moves": 176,
+    "id": 13,
+    "title": "Desafio 13",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 104,
     "categories": [
       {
-        "name": "Seleção brasileira",
+        "name": "Filmes vencedores da Palma de Ouro",
         "words": [
-          "Pelé",
-          "Ronaldo Fenômeno",
-          "Marta",
-          "Zico"
+          "Parasita",
+          "Anatomia de uma Queda",
+          "Triângulo da Tristeza"
         ]
       },
       {
-        "name": "Clubes brasileiros",
+        "name": "Personagens de Breaking Bad",
         "words": [
-          "Flamengo",
-          "Palmeiras",
-          "Santos",
-          "Corinthians"
+          "Jesse Pinkman",
+          "Saul Goodman",
+          "Hank Schrader"
         ]
       },
       {
-        "name": "Doces",
+        "name": "Competições de clubes",
         "words": [
-          "Brigadeiro",
-          "Quindim",
-          "Paçoca",
-          "Pé de moleque"
+          "Sul-Americana",
+          "Champions League",
+          "Mundial de Clubes"
         ]
       },
       {
-        "name": "Vegetais",
+        "name": "Personagens da Democracia Corinthiana",
         "words": [
-          "Cenoura",
-          "Abobrinha",
-          "Beterraba",
-          "Chuchu"
+          "Wladimir",
+          "Casagrande",
+          "Zenon"
         ]
       },
       {
-        "name": "Flores",
+        "name": "Gêneros musicais brasileiros",
         "words": [
-          "Girassol",
-          "Orquídea",
-          "Hibisco",
-          "Margarida"
+          "Maracatu",
+          "Frevo",
+          "Samba-reggae"
         ]
       }
     ]
   },
   {
-    "id": 35,
-    "title": "Desafio 35",
-    "pack": "futebol",
-    "packName": "Futebol",
-    "icon": "⚽",
-    "color": "#21865b",
-    "moves": 179,
+    "id": 14,
+    "title": "Desafio 14",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 107,
     "categories": [
       {
-        "name": "Copas do Mundo",
+        "name": "Filmes de ficção científica",
         "words": [
-          "México 1970",
-          "Estados Unidos 1994",
-          "Coreia-Japão 2002",
-          "Catar 2022"
+          "Gattaca",
+          "Distrito 9",
+          "Ex Machina"
         ]
       },
       {
-        "name": "Posições do futebol",
+        "name": "Personagens de Friends",
         "words": [
-          "Goleiro",
-          "Zagueiro",
-          "Atacante",
-          "Lateral"
+          "Ross Geller",
+          "Phoebe Buffay",
+          "Chandler Bing"
         ]
       },
       {
-        "name": "Animais",
+        "name": "Grandes camisas 10",
         "words": [
-          "Onça",
-          "Capivara",
-          "Tamanduá",
-          "Lobo-guará"
+          "Zico",
+          "Maradona",
+          "Ronaldinho Gaúcho"
         ]
       },
       {
-        "name": "Países",
+        "name": "Apelidos e símbolos da torcida",
         "words": [
-          "Brasil",
-          "Canadá",
-          "Japão",
-          "Portugal"
+          "Bando de Loucos",
+          "Gaviões da Fiel",
+          "Mosqueteiro"
         ]
       },
       {
-        "name": "Cores",
+        "name": "Tipos de rocha",
         "words": [
-          "Violeta",
-          "Turquesa",
-          "Escarlate",
-          "Ocre"
+          "Sedimentar",
+          "Metamórfica",
+          "Vulcânica"
         ]
       }
     ]
   },
   {
-    "id": 36,
-    "title": "Desafio 36",
-    "pack": "futebol",
-    "packName": "Futebol",
-    "icon": "⚽",
-    "color": "#21865b",
-    "moves": 182,
+    "id": 15,
+    "title": "Desafio 15",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 110,
     "categories": [
       {
-        "name": "Termos de futebol",
+        "name": "Filmes de Martin Scorsese",
         "words": [
-          "Impedimento",
-          "Escanteio",
-          "Pênalti",
-          "Tiro de meta"
+          "Os Bons Companheiros",
+          "Os Infiltrados",
+          "O Irlandês"
+        ]
+      },
+      {
+        "name": "Personagens de The Last of Us",
+        "words": [
+          "Ellie Williams",
+          "Tommy Miller",
+          "Abby Anderson"
+        ]
+      },
+      {
+        "name": "Fundamentos do futebol",
+        "words": [
+          "Cabeceio",
+          "Desarme",
+          "Cruzamento"
+        ]
+      },
+      {
+        "name": "Ídolos do Corinthians",
+        "words": [
+          "Rivellino",
+          "Marcelinho Carioca",
+          "Neto"
+        ]
+      },
+      {
+        "name": "Elementos químicos",
+        "words": [
+          "Bromo",
+          "Cobalto",
+          "Xenônio"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Desafio 16",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 113,
+    "categories": [
+      {
+        "name": "Filmes vencedores da Palma de Ouro",
+        "words": [
+          "Parasita",
+          "Anatomia de uma Queda",
+          "Triângulo da Tristeza"
+        ]
+      },
+      {
+        "name": "Personagens de Breaking Bad",
+        "words": [
+          "Jesse Pinkman",
+          "Saul Goodman",
+          "Hank Schrader"
+        ]
+      },
+      {
+        "name": "Competições de clubes",
+        "words": [
+          "Sul-Americana",
+          "Champions League",
+          "Mundial de Clubes"
+        ]
+      },
+      {
+        "name": "Personagens da Democracia Corinthiana",
+        "words": [
+          "Wladimir",
+          "Casagrande",
+          "Zenon"
+        ]
+      },
+      {
+        "name": "Gêneros musicais brasileiros",
+        "words": [
+          "Maracatu",
+          "Frevo",
+          "Samba-reggae"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Desafio 17",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 116,
+    "categories": [
+      {
+        "name": "Filmes de ficção científica",
+        "words": [
+          "Gattaca",
+          "Distrito 9",
+          "Ex Machina"
+        ]
+      },
+      {
+        "name": "Personagens de Friends",
+        "words": [
+          "Ross Geller",
+          "Phoebe Buffay",
+          "Chandler Bing"
+        ]
+      },
+      {
+        "name": "Grandes camisas 10",
+        "words": [
+          "Zico",
+          "Maradona",
+          "Ronaldinho Gaúcho"
+        ]
+      },
+      {
+        "name": "Apelidos e símbolos da torcida",
+        "words": [
+          "Bando de Loucos",
+          "Gaviões da Fiel",
+          "Mosqueteiro"
+        ]
+      },
+      {
+        "name": "Tipos de rocha",
+        "words": [
+          "Sedimentar",
+          "Metamórfica",
+          "Vulcânica"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Desafio 18",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 119,
+    "categories": [
+      {
+        "name": "Filmes de Martin Scorsese",
+        "words": [
+          "Os Bons Companheiros",
+          "Os Infiltrados",
+          "O Irlandês"
+        ]
+      },
+      {
+        "name": "Personagens de The Last of Us",
+        "words": [
+          "Ellie Williams",
+          "Tommy Miller",
+          "Abby Anderson"
+        ]
+      },
+      {
+        "name": "Fundamentos do futebol",
+        "words": [
+          "Cabeceio",
+          "Desarme",
+          "Cruzamento"
+        ]
+      },
+      {
+        "name": "Ídolos do Corinthians",
+        "words": [
+          "Rivellino",
+          "Marcelinho Carioca",
+          "Neto"
+        ]
+      },
+      {
+        "name": "Elementos químicos",
+        "words": [
+          "Bromo",
+          "Cobalto",
+          "Xenônio"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Desafio 19",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 124,
+    "categories": [
+      {
+        "name": "Filmes do universo Star Wars",
+        "words": [
+          "O Império Contra-Ataca",
+          "O Retorno de Jedi",
+          "Rogue One"
+        ]
+      },
+      {
+        "name": "Séries de ficção científica",
+        "words": [
+          "Dark",
+          "Westworld",
+          "Fringe"
+        ]
+      },
+      {
+        "name": "Termos de arbitragem",
+        "words": [
+          "Vantagem",
+          "Cartão amarelo",
+          "Cartão vermelho"
+        ]
+      },
+      {
+        "name": "Locais ligados ao Corinthians",
+        "words": [
+          "Parque São Jorge",
+          "Fazendinha",
+          "Ponte Grande"
+        ]
+      },
+      {
+        "name": "Escolas filosóficas",
+        "words": [
+          "Epicurismo",
+          "Ceticismo",
+          "Existencialismo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Desafio 20",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 127,
+    "categories": [
+      {
+        "name": "Filmes de Christopher Nolan",
+        "words": [
+          "O Grande Truque",
+          "A Origem",
+          "Interestelar"
+        ]
+      },
+      {
+        "name": "Personagens de Stranger Things",
+        "words": [
+          "Dustin Henderson",
+          "Jim Hopper",
+          "Max Mayfield"
         ]
       },
       {
         "name": "Estádios brasileiros",
         "words": [
-          "Maracanã",
           "Mineirão",
-          "MorumBIS",
-          "Arena Fonte Nova"
+          "Arena Fonte Nova",
+          "Beira-Rio"
         ]
       },
       {
-        "name": "Profissões",
+        "name": "Finais marcantes do Corinthians",
         "words": [
-          "Médica",
-          "Bombeiro",
-          "Arquiteta",
-          "Padeiro"
+          "Libertadores 2012",
+          "Paulistão 1977",
+          "Copa do Brasil 2009"
         ]
       },
       {
-        "name": "Materiais",
+        "name": "Biomas brasileiros",
         "words": [
-          "Madeira",
-          "Cerâmica",
-          "Alumínio",
-          "Vidro"
-        ]
-      },
-      {
-        "name": "Bebidas",
-        "words": [
-          "Guaraná",
-          "Chimarrão",
-          "Café",
-          "Mate"
+          "Cerrado",
+          "Pantanal",
+          "Pampa"
         ]
       }
     ]
   },
   {
-    "id": 37,
-    "title": "Desafio 37",
-    "pack": "futebol",
-    "packName": "Futebol",
-    "icon": "⚽",
-    "color": "#21865b",
-    "moves": 185,
+    "id": 21,
+    "title": "Desafio 21",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 130,
     "categories": [
       {
-        "name": "Craques brasileiros",
+        "name": "Filmes de Martin Scorsese",
         "words": [
-          "Zico",
-          "Romário",
-          "Ronaldinho Gaúcho",
-          "Neymar"
+          "Taxi Driver",
+          "Os Bons Companheiros",
+          "Os Infiltrados",
+          "O Irlandês"
         ]
       },
       {
-        "name": "Competições",
+        "name": "Personagens de The Last of Us",
         "words": [
-          "Libertadores",
-          "Copa do Brasil",
-          "Brasileirão",
-          "Sul-Americana"
+          "Joel Miller",
+          "Ellie Williams",
+          "Tommy Miller",
+          "Abby Anderson"
         ]
       },
       {
-        "name": "Frutas",
+        "name": "Fundamentos do futebol",
         "words": [
-          "Banana",
-          "Laranja",
-          "Mamão",
-          "Manga"
+          "Drible",
+          "Cabeceio",
+          "Desarme",
+          "Cruzamento"
         ]
       },
       {
-        "name": "Instrumentos musicais",
-        "words": [
-          "Violão",
-          "Flauta",
-          "Pandeiro",
-          "Atabaque"
-        ]
-      },
-      {
-        "name": "Aves",
-        "words": [
-          "Arara",
-          "Tucano",
-          "Pinguim",
-          "Sabiá"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 38,
-    "title": "Desafio 38",
-    "pack": "corinthians",
-    "packName": "Corinthians",
-    "icon": "⚫",
-    "color": "#252525",
-    "moves": 188,
-    "categories": [
-      {
-        "name": "Ídolos corintianos",
+        "name": "Ídolos do Corinthians",
         "words": [
           "Sócrates",
           "Rivellino",
@@ -1658,110 +1070,166 @@
         ]
       },
       {
-        "name": "Outros ídolos do Corinthians",
+        "name": "Elementos químicos",
         "words": [
-          "Cássio",
-          "Ronaldo Fenômeno",
-          "Wladimir",
-          "Basílio"
-        ]
-      },
-      {
-        "name": "Frutas",
-        "words": [
-          "Banana",
-          "Laranja",
-          "Mamão",
-          "Manga"
-        ]
-      },
-      {
-        "name": "Planetas",
-        "words": [
-          "Mercúrio",
-          "Marte",
-          "Saturno",
-          "Netuno"
-        ]
-      },
-      {
-        "name": "Aves",
-        "words": [
-          "Arara",
-          "Tucano",
-          "Pinguim",
-          "Sabiá"
+          "Gálio",
+          "Bromo",
+          "Cobalto",
+          "Xenônio"
         ]
       }
     ]
   },
   {
-    "id": 39,
-    "title": "Desafio 39",
-    "pack": "corinthians",
-    "packName": "Corinthians",
-    "icon": "⚫",
-    "color": "#252525",
-    "moves": 190,
+    "id": 22,
+    "title": "Desafio 22",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 133,
     "categories": [
       {
-        "name": "Títulos do Corinthians",
+        "name": "Filmes do universo Star Wars",
         "words": [
+          "Uma Nova Esperança",
+          "O Império Contra-Ataca",
+          "O Retorno de Jedi",
+          "Rogue One"
+        ]
+      },
+      {
+        "name": "Séries de ficção científica",
+        "words": [
+          "Black Mirror",
+          "Dark",
+          "Westworld",
+          "Fringe"
+        ]
+      },
+      {
+        "name": "Termos de arbitragem",
+        "words": [
+          "Impedimento",
+          "Vantagem",
+          "Cartão amarelo",
+          "Cartão vermelho"
+        ]
+      },
+      {
+        "name": "Locais ligados ao Corinthians",
+        "words": [
+          "Neo Química Arena",
+          "Parque São Jorge",
+          "Fazendinha",
+          "Ponte Grande"
+        ]
+      },
+      {
+        "name": "Escolas filosóficas",
+        "words": [
+          "Estoicismo",
+          "Epicurismo",
+          "Ceticismo",
+          "Existencialismo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Desafio 23",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 136,
+    "categories": [
+      {
+        "name": "Filmes de Christopher Nolan",
+        "words": [
+          "Amnésia",
+          "O Grande Truque",
+          "A Origem",
+          "Interestelar"
+        ]
+      },
+      {
+        "name": "Personagens de Stranger Things",
+        "words": [
+          "Eleven",
+          "Dustin Henderson",
+          "Jim Hopper",
+          "Max Mayfield"
+        ]
+      },
+      {
+        "name": "Estádios brasileiros",
+        "words": [
+          "Maracanã",
+          "Mineirão",
+          "Arena Fonte Nova",
+          "Beira-Rio"
+        ]
+      },
+      {
+        "name": "Finais marcantes do Corinthians",
+        "words": [
+          "Mundial 2000",
           "Libertadores 2012",
-          "Mundial 2012",
-          "Brasileirão 2015",
+          "Paulistão 1977",
           "Copa do Brasil 2009"
         ]
       },
       {
-        "name": "Locais e torcida",
+        "name": "Biomas brasileiros",
         "words": [
-          "Neo Química Arena",
-          "Parque São Jorge",
-          "Gaviões da Fiel",
-          "Fiel Torcida"
-        ]
-      },
-      {
-        "name": "Doces",
-        "words": [
-          "Brigadeiro",
-          "Quindim",
-          "Paçoca",
-          "Pé de moleque"
-        ]
-      },
-      {
-        "name": "Materiais",
-        "words": [
-          "Madeira",
-          "Cerâmica",
-          "Alumínio",
-          "Vidro"
-        ]
-      },
-      {
-        "name": "Profissões",
-        "words": [
-          "Médica",
-          "Bombeiro",
-          "Arquiteta",
-          "Padeiro"
+          "Caatinga",
+          "Cerrado",
+          "Pantanal",
+          "Pampa"
         ]
       }
     ]
   },
   {
-    "id": 40,
-    "title": "Desafio 40",
-    "pack": "corinthians",
-    "packName": "Corinthians",
-    "icon": "⚫",
-    "color": "#252525",
-    "moves": 190,
+    "id": 24,
+    "title": "Desafio 24",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 139,
     "categories": [
       {
-        "name": "Clubes rivais paulistas",
+        "name": "Filmes de terror",
+        "words": [
+          "Hereditário",
+          "O Iluminado",
+          "Corra!",
+          "A Bruxa"
+        ]
+      },
+      {
+        "name": "Personagens de The Sopranos",
+        "words": [
+          "Tony Soprano",
+          "Carmela Soprano",
+          "Christopher Moltisanti",
+          "Paulie Gualtieri"
+        ]
+      },
+      {
+        "name": "Clubes campeões da Libertadores",
+        "words": [
+          "Boca Juniors",
+          "River Plate",
+          "Peñarol",
+          "Nacional"
+        ]
+      },
+      {
+        "name": "Rivais paulistas",
         "words": [
           "Palmeiras",
           "São Paulo",
@@ -1770,39 +1238,858 @@
         ]
       },
       {
-        "name": "Símbolos e momentos marcantes",
+        "name": "Movimentos literários",
         "words": [
-          "Invasão corintiana",
-          "Democracia Corinthiana",
-          "Mundial de Clubes",
-          "Bando de Loucos"
+          "Barroco",
+          "Arcadismo",
+          "Romantismo",
+          "Modernismo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Desafio 25",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 142,
+    "categories": [
+      {
+        "name": "Filmes da franquia Alien",
+        "words": [
+          "Alien: O Oitavo Passageiro",
+          "Aliens",
+          "Alien 3",
+          "Prometheus"
         ]
       },
       {
-        "name": "Oceanos e mares",
+        "name": "Personagens de Lost",
         "words": [
-          "Atlântico",
-          "Pacífico",
-          "Mediterrâneo",
-          "Índico"
+          "Jack Shephard",
+          "Kate Austen",
+          "Sawyer",
+          "John Locke"
         ]
       },
       {
-        "name": "Flores",
+        "name": "Posições do futebol",
         "words": [
-          "Girassol",
-          "Orquídea",
-          "Hibisco",
-          "Margarida"
+          "Goleiro",
+          "Zagueiro",
+          "Lateral",
+          "Volante"
         ]
       },
       {
-        "name": "Objetos escolares",
+        "name": "Títulos do Corinthians",
         "words": [
-          "Caderno",
-          "Compasso",
-          "Estojo",
-          "Régua"
+          "Libertadores 2012",
+          "Mundial 2000",
+          "Mundial 2012",
+          "Brasileirão 2015"
+        ]
+      },
+      {
+        "name": "Termos da astronomia",
+        "words": [
+          "Periélio",
+          "Afélio",
+          "Eclíptica",
+          "Zênite"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Desafio 26",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 145,
+    "categories": [
+      {
+        "name": "Filmes de Christopher Nolan",
+        "words": [
+          "Amnésia",
+          "O Grande Truque",
+          "A Origem",
+          "Interestelar"
+        ]
+      },
+      {
+        "name": "Personagens de Stranger Things",
+        "words": [
+          "Eleven",
+          "Dustin Henderson",
+          "Jim Hopper",
+          "Max Mayfield"
+        ]
+      },
+      {
+        "name": "Estádios brasileiros",
+        "words": [
+          "Maracanã",
+          "Mineirão",
+          "Arena Fonte Nova",
+          "Beira-Rio"
+        ]
+      },
+      {
+        "name": "Finais marcantes do Corinthians",
+        "words": [
+          "Mundial 2000",
+          "Libertadores 2012",
+          "Paulistão 1977",
+          "Copa do Brasil 2009"
+        ]
+      },
+      {
+        "name": "Biomas brasileiros",
+        "words": [
+          "Caatinga",
+          "Cerrado",
+          "Pantanal",
+          "Pampa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Desafio 27",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 148,
+    "categories": [
+      {
+        "name": "Filmes de terror",
+        "words": [
+          "Hereditário",
+          "O Iluminado",
+          "Corra!",
+          "A Bruxa"
+        ]
+      },
+      {
+        "name": "Personagens de The Sopranos",
+        "words": [
+          "Tony Soprano",
+          "Carmela Soprano",
+          "Christopher Moltisanti",
+          "Paulie Gualtieri"
+        ]
+      },
+      {
+        "name": "Clubes campeões da Libertadores",
+        "words": [
+          "Boca Juniors",
+          "River Plate",
+          "Peñarol",
+          "Nacional"
+        ]
+      },
+      {
+        "name": "Rivais paulistas",
+        "words": [
+          "Palmeiras",
+          "São Paulo",
+          "Santos",
+          "Portuguesa"
+        ]
+      },
+      {
+        "name": "Movimentos literários",
+        "words": [
+          "Barroco",
+          "Arcadismo",
+          "Romantismo",
+          "Modernismo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Desafio 28",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 151,
+    "categories": [
+      {
+        "name": "Filmes da franquia Alien",
+        "words": [
+          "Alien: O Oitavo Passageiro",
+          "Aliens",
+          "Alien 3",
+          "Prometheus"
+        ]
+      },
+      {
+        "name": "Personagens de Lost",
+        "words": [
+          "Jack Shephard",
+          "Kate Austen",
+          "Sawyer",
+          "John Locke"
+        ]
+      },
+      {
+        "name": "Posições do futebol",
+        "words": [
+          "Goleiro",
+          "Zagueiro",
+          "Lateral",
+          "Volante"
+        ]
+      },
+      {
+        "name": "Títulos do Corinthians",
+        "words": [
+          "Libertadores 2012",
+          "Mundial 2000",
+          "Mundial 2012",
+          "Brasileirão 2015"
+        ]
+      },
+      {
+        "name": "Termos da astronomia",
+        "words": [
+          "Periélio",
+          "Afélio",
+          "Eclíptica",
+          "Zênite"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Desafio 29",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 150,
+    "categories": [
+      {
+        "name": "Filmes com viagem no tempo",
+        "words": [
+          "De Volta para o Futuro",
+          "12 Macacos",
+          "Primer",
+          "Looper"
+        ]
+      },
+      {
+        "name": "Personagens de Game of Thrones",
+        "words": [
+          "Jon Snow",
+          "Daenerys Targaryen",
+          "Tyrion Lannister",
+          "Arya Stark"
+        ]
+      },
+      {
+        "name": "Copas do Mundo",
+        "words": [
+          "México 1970",
+          "Espanha 1982",
+          "Estados Unidos 1994",
+          "Coreia-Japão 2002"
+        ]
+      },
+      {
+        "name": "Técnicos campeões pelo Corinthians",
+        "words": [
+          "Oswaldo Brandão",
+          "Tite",
+          "Fábio Carille",
+          "Mano Menezes"
+        ]
+      },
+      {
+        "name": "Unidades de medida",
+        "words": [
+          "Pascal",
+          "Joule",
+          "Newton",
+          "Watt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Desafio 30",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 152,
+    "categories": [
+      {
+        "name": "Filmes de animação da Pixar",
+        "words": [
+          "Ratatouille",
+          "WALL-E",
+          "Viva",
+          "Divertida Mente"
+        ]
+      },
+      {
+        "name": "Personagens de The Office",
+        "words": [
+          "Michael Scott",
+          "Dwight Schrute",
+          "Jim Halpert",
+          "Pam Beesly"
+        ]
+      },
+      {
+        "name": "Goleiros históricos",
+        "words": [
+          "Taffarel",
+          "Dida",
+          "Marcos",
+          "Rogério Ceni"
+        ]
+      },
+      {
+        "name": "Atacantes históricos do Corinthians",
+        "words": [
+          "Cláudio Christóvam",
+          "Baltazar",
+          "Luizão",
+          "Jô"
+        ]
+      },
+      {
+        "name": "Fenômenos ópticos",
+        "words": [
+          "Refração",
+          "Difração",
+          "Dispersão",
+          "Polarização"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Desafio 31",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 154,
+    "categories": [
+      {
+        "name": "Filmes da franquia Alien",
+        "words": [
+          "Aliens",
+          "Alien 3",
+          "Prometheus"
+        ]
+      },
+      {
+        "name": "Personagens de Lost",
+        "words": [
+          "Kate Austen",
+          "Sawyer",
+          "John Locke"
+        ]
+      },
+      {
+        "name": "Posições do futebol",
+        "words": [
+          "Zagueiro",
+          "Lateral",
+          "Volante"
+        ]
+      },
+      {
+        "name": "Títulos do Corinthians",
+        "words": [
+          "Mundial 2000",
+          "Mundial 2012",
+          "Brasileirão 2015"
+        ]
+      },
+      {
+        "name": "Termos da astronomia",
+        "words": [
+          "Afélio",
+          "Eclíptica",
+          "Zênite"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Desafio 32",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 156,
+    "categories": [
+      {
+        "name": "Filmes com viagem no tempo",
+        "words": [
+          "12 Macacos",
+          "Primer",
+          "Looper"
+        ]
+      },
+      {
+        "name": "Personagens de Game of Thrones",
+        "words": [
+          "Daenerys Targaryen",
+          "Tyrion Lannister",
+          "Arya Stark"
+        ]
+      },
+      {
+        "name": "Copas do Mundo",
+        "words": [
+          "Espanha 1982",
+          "Estados Unidos 1994",
+          "Coreia-Japão 2002"
+        ]
+      },
+      {
+        "name": "Técnicos campeões pelo Corinthians",
+        "words": [
+          "Tite",
+          "Fábio Carille",
+          "Mano Menezes"
+        ]
+      },
+      {
+        "name": "Unidades de medida",
+        "words": [
+          "Joule",
+          "Newton",
+          "Watt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Desafio 33",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 158,
+    "categories": [
+      {
+        "name": "Filmes de animação da Pixar",
+        "words": [
+          "WALL-E",
+          "Viva",
+          "Divertida Mente"
+        ]
+      },
+      {
+        "name": "Personagens de The Office",
+        "words": [
+          "Dwight Schrute",
+          "Jim Halpert",
+          "Pam Beesly"
+        ]
+      },
+      {
+        "name": "Goleiros históricos",
+        "words": [
+          "Dida",
+          "Marcos",
+          "Rogério Ceni"
+        ]
+      },
+      {
+        "name": "Atacantes históricos do Corinthians",
+        "words": [
+          "Baltazar",
+          "Luizão",
+          "Jô"
+        ]
+      },
+      {
+        "name": "Fenômenos ópticos",
+        "words": [
+          "Difração",
+          "Dispersão",
+          "Polarização"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Desafio 34",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 160,
+    "categories": [
+      {
+        "name": "Cinema brasileiro",
+        "words": [
+          "O Auto da Compadecida",
+          "Cidade de Deus",
+          "Que Horas Ela Volta?"
+        ]
+      },
+      {
+        "name": "Personagens de The Simpsons",
+        "words": [
+          "Marge Simpson",
+          "Bart Simpson",
+          "Lisa Simpson"
+        ]
+      },
+      {
+        "name": "Seleções campeãs do mundo",
+        "words": [
+          "Alemanha",
+          "Itália",
+          "Argentina"
+        ]
+      },
+      {
+        "name": "Goleiros marcantes do Corinthians",
+        "words": [
+          "Ronaldo Giovanelli",
+          "Dida",
+          "Gylmar"
+        ]
+      },
+      {
+        "name": "Cordilheiras",
+        "words": [
+          "Himalaia",
+          "Alpes",
+          "Atlas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Desafio 35",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 162,
+    "categories": [
+      {
+        "name": "Filmes vencedores da Palma de Ouro",
+        "words": [
+          "Parasita",
+          "Anatomia de uma Queda",
+          "Triângulo da Tristeza"
+        ]
+      },
+      {
+        "name": "Personagens de Breaking Bad",
+        "words": [
+          "Jesse Pinkman",
+          "Saul Goodman",
+          "Hank Schrader"
+        ]
+      },
+      {
+        "name": "Competições de clubes",
+        "words": [
+          "Sul-Americana",
+          "Champions League",
+          "Mundial de Clubes"
+        ]
+      },
+      {
+        "name": "Personagens da Democracia Corinthiana",
+        "words": [
+          "Wladimir",
+          "Casagrande",
+          "Zenon"
+        ]
+      },
+      {
+        "name": "Gêneros musicais brasileiros",
+        "words": [
+          "Maracatu",
+          "Frevo",
+          "Samba-reggae"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Desafio 36",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 164,
+    "categories": [
+      {
+        "name": "Filmes de animação da Pixar",
+        "words": [
+          "WALL-E",
+          "Viva",
+          "Divertida Mente"
+        ]
+      },
+      {
+        "name": "Personagens de The Office",
+        "words": [
+          "Dwight Schrute",
+          "Jim Halpert",
+          "Pam Beesly"
+        ]
+      },
+      {
+        "name": "Goleiros históricos",
+        "words": [
+          "Dida",
+          "Marcos",
+          "Rogério Ceni"
+        ]
+      },
+      {
+        "name": "Atacantes históricos do Corinthians",
+        "words": [
+          "Baltazar",
+          "Luizão",
+          "Jô"
+        ]
+      },
+      {
+        "name": "Fenômenos ópticos",
+        "words": [
+          "Difração",
+          "Dispersão",
+          "Polarização"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Desafio 37",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 166,
+    "categories": [
+      {
+        "name": "Cinema brasileiro",
+        "words": [
+          "O Auto da Compadecida",
+          "Cidade de Deus",
+          "Que Horas Ela Volta?"
+        ]
+      },
+      {
+        "name": "Personagens de The Simpsons",
+        "words": [
+          "Marge Simpson",
+          "Bart Simpson",
+          "Lisa Simpson"
+        ]
+      },
+      {
+        "name": "Seleções campeãs do mundo",
+        "words": [
+          "Alemanha",
+          "Itália",
+          "Argentina"
+        ]
+      },
+      {
+        "name": "Goleiros marcantes do Corinthians",
+        "words": [
+          "Ronaldo Giovanelli",
+          "Dida",
+          "Gylmar"
+        ]
+      },
+      {
+        "name": "Cordilheiras",
+        "words": [
+          "Himalaia",
+          "Alpes",
+          "Atlas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Desafio 38",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 168,
+    "categories": [
+      {
+        "name": "Filmes vencedores da Palma de Ouro",
+        "words": [
+          "Parasita",
+          "Anatomia de uma Queda",
+          "Triângulo da Tristeza"
+        ]
+      },
+      {
+        "name": "Personagens de Breaking Bad",
+        "words": [
+          "Jesse Pinkman",
+          "Saul Goodman",
+          "Hank Schrader"
+        ]
+      },
+      {
+        "name": "Competições de clubes",
+        "words": [
+          "Sul-Americana",
+          "Champions League",
+          "Mundial de Clubes"
+        ]
+      },
+      {
+        "name": "Personagens da Democracia Corinthiana",
+        "words": [
+          "Wladimir",
+          "Casagrande",
+          "Zenon"
+        ]
+      },
+      {
+        "name": "Gêneros musicais brasileiros",
+        "words": [
+          "Maracatu",
+          "Frevo",
+          "Samba-reggae"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Desafio 39",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 170,
+    "categories": [
+      {
+        "name": "Filmes de ficção científica",
+        "words": [
+          "Gattaca",
+          "Distrito 9",
+          "Ex Machina"
+        ]
+      },
+      {
+        "name": "Personagens de Friends",
+        "words": [
+          "Ross Geller",
+          "Phoebe Buffay",
+          "Chandler Bing"
+        ]
+      },
+      {
+        "name": "Grandes camisas 10",
+        "words": [
+          "Zico",
+          "Maradona",
+          "Ronaldinho Gaúcho"
+        ]
+      },
+      {
+        "name": "Apelidos e símbolos da torcida",
+        "words": [
+          "Bando de Loucos",
+          "Gaviões da Fiel",
+          "Mosqueteiro"
+        ]
+      },
+      {
+        "name": "Tipos de rocha",
+        "words": [
+          "Sedimentar",
+          "Metamórfica",
+          "Vulcânica"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Desafio 40",
+    "pack": "misturado",
+    "packName": "Misturadas",
+    "icon": "🎭",
+    "color": "#fb2b9a",
+    "moves": 170,
+    "categories": [
+      {
+        "name": "Filmes de Martin Scorsese",
+        "words": [
+          "Os Bons Companheiros",
+          "Os Infiltrados",
+          "O Irlandês"
+        ]
+      },
+      {
+        "name": "Personagens de The Last of Us",
+        "words": [
+          "Ellie Williams",
+          "Tommy Miller",
+          "Abby Anderson"
+        ]
+      },
+      {
+        "name": "Fundamentos do futebol",
+        "words": [
+          "Cabeceio",
+          "Desarme",
+          "Cruzamento"
+        ]
+      },
+      {
+        "name": "Ídolos do Corinthians",
+        "words": [
+          "Rivellino",
+          "Marcelinho Carioca",
+          "Neto"
+        ]
+      },
+      {
+        "name": "Elementos químicos",
+        "words": [
+          "Bromo",
+          "Cobalto",
+          "Xenônio"
         ]
       }
     ]
