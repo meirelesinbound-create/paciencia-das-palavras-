@@ -516,14 +516,15 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 45,
+    "moves": 47,
     "categories": [
       {
         "name": "Fenômenos ópticos",
         "words": [
           "Refração",
           "Difração",
-          "Dispersão"
+          "Dispersão",
+          "Polarização"
         ]
       },
       {
@@ -620,14 +621,15 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 44,
+    "moves": 50,
     "categories": [
       {
         "name": "Gêneros musicais brasileiros",
         "words": [
           "Choro",
           "Maracatu",
-          "Frevo"
+          "Frevo",
+          "Samba-reggae"
         ]
       },
       {
@@ -635,7 +637,8 @@
         "words": [
           "Pulp Fiction",
           "Parasita",
-          "Anatomia de uma Queda"
+          "Anatomia de uma Queda",
+          "Triângulo da Tristeza"
         ]
       },
       {
@@ -643,7 +646,8 @@
         "words": [
           "Walter White",
           "Jesse Pinkman",
-          "Saul Goodman"
+          "Saul Goodman",
+          "Hank Schrader"
         ]
       },
       {
@@ -726,14 +730,15 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 43,
+    "moves": 53,
     "categories": [
       {
         "name": "Elementos químicos",
         "words": [
           "Gálio",
           "Bromo",
-          "Cobalto"
+          "Cobalto",
+          "Xenônio"
         ]
       },
       {
@@ -741,7 +746,8 @@
         "words": [
           "Drible",
           "Cabeceio",
-          "Desarme"
+          "Desarme",
+          "Cruzamento"
         ]
       },
       {
@@ -749,7 +755,8 @@
         "words": [
           "Sócrates",
           "Rivellino",
-          "Marcelinho Carioca"
+          "Marcelinho Carioca",
+          "Neto"
         ]
       },
       {
@@ -757,7 +764,8 @@
         "words": [
           "Taxi Driver",
           "Os Bons Companheiros",
-          "Os Infiltrados"
+          "Os Infiltrados",
+          "O Irlandês"
         ]
       },
       {
@@ -765,7 +773,8 @@
         "words": [
           "Amnésia",
           "O Grande Truque",
-          "A Origem"
+          "A Origem",
+          "Interestelar"
         ]
       }
     ]
@@ -777,7 +786,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 51,
+    "moves": 53,
     "categories": [
       {
         "name": "Gêneros musicais brasileiros",
@@ -820,7 +829,8 @@
         "words": [
           "Refração",
           "Difração",
-          "Dispersão"
+          "Dispersão",
+          "Polarização"
         ]
       }
     ]
@@ -832,14 +842,15 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 42,
+    "moves": 52,
     "categories": [
       {
         "name": "Tipos de rocha",
         "words": [
           "Ígnea",
           "Sedimentar",
-          "Metamórfica"
+          "Metamórfica",
+          "Vulcânica"
         ]
       },
       {
@@ -847,7 +858,8 @@
         "words": [
           "Blade Runner",
           "Gattaca",
-          "Distrito 9"
+          "Distrito 9",
+          "Ex Machina"
         ]
       },
       {
@@ -855,7 +867,8 @@
         "words": [
           "Rachel Green",
           "Ross Geller",
-          "Phoebe Buffay"
+          "Phoebe Buffay",
+          "Chandler Bing"
         ]
       },
       {
@@ -863,7 +876,8 @@
         "words": [
           "Pelé",
           "Zico",
-          "Maradona"
+          "Maradona",
+          "Ronaldinho Gaúcho"
         ]
       },
       {
@@ -871,7 +885,8 @@
         "words": [
           "Andes",
           "Himalaia",
-          "Alpes"
+          "Alpes",
+          "Atlas"
         ]
       }
     ]
@@ -939,7 +954,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 49,
+    "moves": 51,
     "categories": [
       {
         "name": "Escolas filosóficas",
@@ -982,7 +997,8 @@
         "words": [
           "Gálio",
           "Bromo",
-          "Cobalto"
+          "Cobalto",
+          "Xenônio"
         ]
       }
     ]
@@ -1106,7 +1122,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 48,
+    "moves": 50,
     "categories": [
       {
         "name": "Escolas filosóficas",
@@ -1149,7 +1165,8 @@
         "words": [
           "Caatinga",
           "Cerrado",
-          "Pantanal"
+          "Pantanal",
+          "Pampa"
         ]
       }
     ]
@@ -1161,7 +1178,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 48,
+    "moves": 50,
     "categories": [
       {
         "name": "Biomas brasileiros",
@@ -1204,7 +1221,8 @@
         "words": [
           "Jon Snow",
           "Daenerys Targaryen",
-          "Tyrion Lannister"
+          "Tyrion Lannister",
+          "Arya Stark"
         ]
       }
     ]
@@ -1216,7 +1234,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 47,
+    "moves": 49,
     "categories": [
       {
         "name": "Movimentos literários",
@@ -1259,7 +1277,8 @@
         "words": [
           "Taffarel",
           "Dida",
-          "Marcos"
+          "Marcos",
+          "Rogério Ceni"
         ]
       }
     ]
