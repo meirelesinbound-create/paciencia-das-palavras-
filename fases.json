@@ -48,7 +48,8 @@
           "Lateral"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 0
   },
   {
     "id": 2,
@@ -99,7 +100,8 @@
           "Fábio Carille"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 3,
@@ -150,7 +152,8 @@
           "Casagrande"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 0
   },
   {
     "id": 4,
@@ -201,7 +204,8 @@
           "Gaviões da Fiel"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 5,
@@ -252,7 +256,8 @@
           "Maradona"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 0
   },
   {
     "id": 6,
@@ -264,11 +269,12 @@
     "moves": 47,
     "categories": [
       {
-        "name": "Termos da astronomia",
+        "name": "Capitais sul-americanas",
         "words": [
-          "Periélio",
-          "Afélio",
-          "Eclíptica"
+          "Buenos Aires",
+          "Lima",
+          "Quito",
+          "Santiago"
         ]
       },
       {
@@ -303,7 +309,8 @@
           "Arena Fonte Nova"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 7,
@@ -354,7 +361,8 @@
           "Sawyer"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 0
   },
   {
     "id": 8,
@@ -398,14 +406,16 @@
         ]
       },
       {
-        "name": "Rivais paulistas",
+        "name": "Pintores impressionistas",
         "words": [
-          "Palmeiras",
-          "São Paulo",
-          "Santos"
+          "Claude Monet",
+          "Pierre-Auguste Renoir",
+          "Edgar Degas",
+          "Camille Pissarro"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 9,
@@ -449,14 +459,16 @@
         ]
       },
       {
-        "name": "Títulos do Corinthians",
+        "name": "Tipos de nuvens",
         "words": [
-          "Libertadores 2012",
-          "Mundial 2000",
-          "Mundial 2012"
+          "Cirrus",
+          "Cumulus",
+          "Stratus",
+          "Cumulonimbus"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 0
   },
   {
     "id": 10,
@@ -500,14 +512,16 @@
         ]
       },
       {
-        "name": "Personagens de The Simpsons",
+        "name": "Países nórdicos",
         "words": [
-          "Homer Simpson",
-          "Marge Simpson",
-          "Bart Simpson"
+          "Noruega",
+          "Suécia",
+          "Dinamarca",
+          "Finlândia"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 11,
@@ -519,12 +533,12 @@
     "moves": 47,
     "categories": [
       {
-        "name": "Fenômenos ópticos",
+        "name": "Classes gramaticais",
         "words": [
-          "Refração",
-          "Difração",
-          "Dispersão",
-          "Polarização"
+          "Substantivo",
+          "Verbo",
+          "Adjetivo",
+          "Advérbio"
         ]
       },
       {
@@ -559,7 +573,8 @@
           "Champions League"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 12,
@@ -580,12 +595,12 @@
         ]
       },
       {
-        "name": "Personagens de The Simpsons",
+        "name": "Correntes filosóficas",
         "words": [
-          "Homer Simpson",
-          "Marge Simpson",
-          "Bart Simpson",
-          "Lisa Simpson"
+          "Estoicismo",
+          "Epicurismo",
+          "Existencialismo",
+          "Niilismo"
         ]
       },
       {
@@ -612,7 +627,8 @@
           "Marcelinho Carioca"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 2
   },
   {
     "id": 13,
@@ -624,12 +640,12 @@
     "moves": 50,
     "categories": [
       {
-        "name": "Gêneros musicais brasileiros",
+        "name": "Missões espaciais",
         "words": [
-          "Choro",
-          "Maracatu",
-          "Frevo",
-          "Samba-reggae"
+          "Apollo 11",
+          "Voyager 1",
+          "Curiosity",
+          "Perseverance"
         ]
       },
       {
@@ -651,11 +667,12 @@
         ]
       },
       {
-        "name": "Competições de clubes",
+        "name": "Tipos de café",
         "words": [
-          "Libertadores",
-          "Sul-Americana",
-          "Champions League"
+          "Espresso",
+          "Cappuccino",
+          "Latte",
+          "Macchiato"
         ]
       },
       {
@@ -666,7 +683,8 @@
           "Fazendinha"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 14,
@@ -721,7 +739,8 @@
           "Peñarol"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 0
   },
   {
     "id": 15,
@@ -751,12 +770,12 @@
         ]
       },
       {
-        "name": "Ídolos do Corinthians",
+        "name": "Personagens de Arcane",
         "words": [
-          "Sócrates",
-          "Rivellino",
-          "Marcelinho Carioca",
-          "Neto"
+          "Vi",
+          "Jinx",
+          "Caitlyn",
+          "Jayce"
         ]
       },
       {
@@ -777,7 +796,8 @@
           "Interestelar"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 2
   },
   {
     "id": 16,
@@ -789,51 +809,52 @@
     "moves": 53,
     "categories": [
       {
-        "name": "Gêneros musicais brasileiros",
+        "name": "Filmes do Studio Ghibli",
         "words": [
-          "Choro",
-          "Maracatu",
-          "Frevo",
-          "Samba-reggae"
+          "A Viagem de Chihiro",
+          "Meu Amigo Totoro",
+          "Princesa Mononoke",
+          "O Castelo Animado"
         ]
       },
       {
-        "name": "Personagens de Breaking Bad",
+        "name": "Personagens de The Bear",
         "words": [
-          "Walter White",
-          "Jesse Pinkman",
-          "Saul Goodman",
-          "Hank Schrader"
+          "Carmy Berzatto",
+          "Sydney Adamu",
+          "Richie Jerimovich",
+          "Tina Marrero"
         ]
       },
       {
-        "name": "Competições de clubes",
+        "name": "Jogos da FromSoftware",
         "words": [
-          "Libertadores",
-          "Sul-Americana",
-          "Champions League",
-          "Mundial de Clubes"
+          "Dark Souls",
+          "Bloodborne",
+          "Sekiro",
+          "Elden Ring"
         ]
       },
       {
-        "name": "Personagens da Democracia Corinthiana",
+        "name": "Consoles clássicos",
         "words": [
-          "Sócrates",
-          "Wladimir",
-          "Casagrande",
-          "Zenon"
+          "Super Nintendo",
+          "Mega Drive",
+          "PlayStation 2",
+          "Dreamcast"
         ]
       },
       {
-        "name": "Fenômenos ópticos",
+        "name": "Modalidades olímpicas de combate",
         "words": [
-          "Refração",
-          "Difração",
-          "Dispersão",
-          "Polarização"
+          "Judô",
+          "Esgrima",
+          "Taekwondo",
+          "Boxe"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 17,
@@ -845,12 +866,12 @@
     "moves": 52,
     "categories": [
       {
-        "name": "Tipos de rocha",
+        "name": "Biomas mundiais",
         "words": [
-          "Ígnea",
-          "Sedimentar",
-          "Metamórfica",
-          "Vulcânica"
+          "Tundra",
+          "Savana",
+          "Taiga",
+          "Deserto"
         ]
       },
       {
@@ -881,15 +902,16 @@
         ]
       },
       {
-        "name": "Cordilheiras",
+        "name": "Peças de Shakespeare",
         "words": [
-          "Andes",
-          "Himalaia",
-          "Alpes",
-          "Atlas"
+          "Hamlet",
+          "Macbeth",
+          "Otelo",
+          "Rei Lear"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 2
   },
   {
     "id": 18,
@@ -910,21 +932,21 @@
         ]
       },
       {
-        "name": "Ídolos do Corinthians",
+        "name": "Tipos de massa",
         "words": [
-          "Sócrates",
-          "Rivellino",
-          "Marcelinho Carioca",
-          "Neto"
+          "Penne",
+          "Fusilli",
+          "Farfalle",
+          "Rigatoni"
         ]
       },
       {
-        "name": "Filmes de Martin Scorsese",
+        "name": "Pães de diferentes países",
         "words": [
-          "Taxi Driver",
-          "Os Bons Companheiros",
-          "Os Infiltrados",
-          "O Irlandês"
+          "Baguete",
+          "Ciabatta",
+          "Pita",
+          "Pretzel"
         ]
       },
       {
@@ -945,7 +967,8 @@
           "Argentina"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 0
   },
   {
     "id": 19,
@@ -993,15 +1016,16 @@
         ]
       },
       {
-        "name": "Elementos químicos",
+        "name": "Personagens de Batman",
         "words": [
-          "Gálio",
-          "Bromo",
-          "Cobalto",
-          "Xenônio"
+          "Bruce Wayne",
+          "Alfred Pennyworth",
+          "James Gordon",
+          "Selina Kyle"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 20,
@@ -1057,7 +1081,8 @@
           "Cartão vermelho"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 2
   },
   {
     "id": 21,
@@ -1069,21 +1094,21 @@
     "moves": 51,
     "categories": [
       {
-        "name": "Elementos químicos",
+        "name": "Filmes da franquia Matrix",
         "words": [
-          "Gálio",
-          "Bromo",
-          "Cobalto",
-          "Xenônio"
+          "Matrix",
+          "Matrix Reloaded",
+          "Matrix Revolutions",
+          "Matrix Resurrections"
         ]
       },
       {
-        "name": "Filmes de Martin Scorsese",
+        "name": "Semifinalistas da Copa de 2022",
         "words": [
-          "Taxi Driver",
-          "Os Bons Companheiros",
-          "Os Infiltrados",
-          "O Irlandês"
+          "Argentina",
+          "França",
+          "Croácia",
+          "Marrocos"
         ]
       },
       {
@@ -1096,12 +1121,12 @@
         ]
       },
       {
-        "name": "Fundamentos do futebol",
+        "name": "Frutas cítricas",
         "words": [
-          "Drible",
-          "Cabeceio",
-          "Desarme",
-          "Cruzamento"
+          "Limão",
+          "Laranja",
+          "Tangerina",
+          "Toranja"
         ]
       },
       {
@@ -1113,7 +1138,8 @@
           "Paulie Gualtieri"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 22,
@@ -1134,21 +1160,21 @@
         ]
       },
       {
-        "name": "Locais ligados ao Corinthians",
+        "name": "Fontes de energia",
         "words": [
-          "Neo Química Arena",
-          "Parque São Jorge",
-          "Fazendinha",
-          "Ponte Grande"
+          "Solar",
+          "Eólica",
+          "Hidrelétrica",
+          "Geotérmica"
         ]
       },
       {
-        "name": "Filmes do universo Star Wars",
+        "name": "Etapas da produção audiovisual",
         "words": [
-          "Uma Nova Esperança",
-          "O Império Contra-Ataca",
-          "O Retorno de Jedi",
-          "Rogue One"
+          "Pré-produção",
+          "Produção",
+          "Pós-produção",
+          "Distribuição"
         ]
       },
       {
@@ -1161,15 +1187,16 @@
         ]
       },
       {
-        "name": "Biomas brasileiros",
+        "name": "Personagens de Harry Potter",
         "words": [
-          "Caatinga",
-          "Cerrado",
-          "Pantanal",
-          "Pampa"
+          "Harry Potter",
+          "Hermione Granger",
+          "Ron Weasley",
+          "Albus Dumbledore"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 2
   },
   {
     "id": 23,
@@ -1181,21 +1208,21 @@
     "moves": 50,
     "categories": [
       {
-        "name": "Biomas brasileiros",
+        "name": "Personagens de Succession",
         "words": [
-          "Caatinga",
-          "Cerrado",
-          "Pantanal",
-          "Pampa"
+          "Logan Roy",
+          "Kendall Roy",
+          "Shiv Roy",
+          "Roman Roy"
         ]
       },
       {
-        "name": "Estádios brasileiros",
+        "name": "Tipos de dança de salão",
         "words": [
-          "Maracanã",
-          "Mineirão",
-          "Arena Fonte Nova",
-          "Beira-Rio"
+          "Samba de gafieira",
+          "Bolero",
+          "Forró",
+          "Tango"
         ]
       },
       {
@@ -1208,12 +1235,12 @@
         ]
       },
       {
-        "name": "Filmes de Christopher Nolan",
+        "name": "Personagens de videogames",
         "words": [
-          "Amnésia",
-          "O Grande Truque",
-          "A Origem",
-          "Interestelar"
+          "Lara Croft",
+          "Sonic",
+          "Kratos",
+          "Master Chief"
         ]
       },
       {
@@ -1225,7 +1252,8 @@
           "Arya Stark"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 24,
@@ -1237,12 +1265,12 @@
     "moves": 49,
     "categories": [
       {
-        "name": "Movimentos literários",
+        "name": "Navegadores históricos",
         "words": [
-          "Barroco",
-          "Arcadismo",
-          "Romantismo",
-          "Modernismo"
+          "Vasco da Gama",
+          "Fernão de Magalhães",
+          "Bartolomeu Dias",
+          "James Cook"
         ]
       },
       {
@@ -1281,7 +1309,8 @@
           "Rogério Ceni"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 0
   },
   {
     "id": 25,
@@ -1337,7 +1366,8 @@
           "Brasileirão 2015"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 2
   },
   {
     "id": 26,
@@ -1393,7 +1423,8 @@
           "Beira-Rio"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 27,
@@ -1449,7 +1480,8 @@
           "Paulie Gualtieri"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 2
   },
   {
     "id": 28,
@@ -1505,7 +1537,8 @@
           "Prometheus"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 29,
@@ -1561,7 +1594,8 @@
           "Mano Menezes"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 0
   },
   {
     "id": 30,
@@ -1617,7 +1651,8 @@
           "Rogério Ceni"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 2
   },
   {
     "id": 31,
@@ -1673,7 +1708,8 @@
           "John Locke"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 32,
@@ -1729,7 +1765,8 @@
           "Looper"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 2
   },
   {
     "id": 33,
@@ -1785,7 +1822,8 @@
           "Jô"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 34,
@@ -1841,7 +1879,8 @@
           "Argentina"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 2
   },
   {
     "id": 35,
@@ -1897,7 +1936,8 @@
           "Hank Schrader"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 36,
@@ -1953,7 +1993,8 @@
           "Divertida Mente"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 2
   },
   {
     "id": 37,
@@ -2009,7 +2050,8 @@
           "Gylmar"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 38,
@@ -2065,7 +2107,8 @@
           "Mundial de Clubes"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 2
   },
   {
     "id": 39,
@@ -2121,7 +2164,8 @@
           "Chandler Bing"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 1
   },
   {
     "id": 40,
@@ -2177,6 +2221,7 @@
           "O Irlandês"
         ]
       }
-    ]
+    ],
+    "hiddenCategories": 2
   }
 ]
