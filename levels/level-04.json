@@ -1,0 +1,55 @@
+{
+  "id": 4,
+  "title": "Desafio 04",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 48,
+  "categories": [
+    {
+      "name": "Unidades de medida",
+      "words": [
+        "Pascal",
+        "Joule",
+        "Newton"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Personagens de Game of Thrones",
+      "words": [
+        "Jon Snow",
+        "Daenerys Targaryen",
+        "Tyrion Lannister"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Competições de clubes",
+      "words": [
+        "Libertadores",
+        "Sul-Americana",
+        "Champions League"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Tipos de rocha",
+      "words": [
+        "Ígnea",
+        "Sedimentar",
+        "Metamórfica"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Apelidos e símbolos da torcida",
+      "words": [
+        "Fiel",
+        "Bando de Loucos",
+        "Gaviões da Fiel"
+      ],
+      "icone": "clapper"
+    }
+  ],
+  "hiddenCategories": 1
+}
