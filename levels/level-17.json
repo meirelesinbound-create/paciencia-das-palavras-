@@ -1,0 +1,60 @@
+{
+  "id": 17,
+  "title": "Desafio 17",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 52,
+  "categories": [
+    {
+      "name": "Biomas mundiais",
+      "words": [
+        "Tundra",
+        "Savana",
+        "Taiga",
+        "Deserto"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Filmes de ficção científica",
+      "words": [
+        "Blade Runner",
+        "Gattaca",
+        "Distrito 9",
+        "Ex Machina"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Personagens de Friends",
+      "words": [
+        "Rachel Green",
+        "Ross Geller",
+        "Phoebe Buffay",
+        "Chandler Bing"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Grandes camisas 10",
+      "words": [
+        "Pelé",
+        "Zico",
+        "Maradona",
+        "Ronaldinho Gaúcho"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Peças de Shakespeare",
+      "words": [
+        "Hamlet",
+        "Macbeth",
+        "Otelo",
+        "Rei Lear"
+      ],
+      "icone": "clapper"
+    }
+  ],
+  "hiddenCategories": 2
+}
