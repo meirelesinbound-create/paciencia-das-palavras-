@@ -1097,6 +1097,14 @@
           "Daenerys Targaryen",
           "Tyrion Lannister"
         ]
+      },
+      {
+        "name": "Planetas",
+        "words": [
+          "Mercúrio",
+          "Marte",
+          "Saturno"
+        ]
       }
     ]
   },
@@ -1123,6 +1131,14 @@
           "Rachel Green",
           "Ross Geller",
           "Phoebe Buffay"
+        ]
+      },
+      {
+        "name": "Ferramentas",
+        "words": [
+          "Martelo",
+          "Alicate",
+          "Serrote"
         ]
       }
     ]
@@ -1151,6 +1167,14 @@
           "Sang-woo",
           "Saebyeok"
         ]
+      },
+      {
+        "name": "Bebidas",
+        "words": [
+          "Guaraná",
+          "Chimarrão",
+          "Café"
+        ]
       }
     ]
   },
@@ -1177,6 +1201,14 @@
           "Hawkins",
           "Winterfell",
           "Dunder Mifflin"
+        ]
+      },
+      {
+        "name": "Flores",
+        "words": [
+          "Girassol",
+          "Orquídea",
+          "Hibisco"
         ]
       }
     ]
@@ -1205,6 +1237,14 @@
           "Round 6",
           "La Casa de Papel"
         ]
+      },
+      {
+        "name": "Meios de transporte",
+        "words": [
+          "Bicicleta",
+          "Metrô",
+          "Navio"
+        ]
       }
     ]
   },
@@ -1231,6 +1271,22 @@
           "Flamengo",
           "Palmeiras",
           "Santos"
+        ]
+      },
+      {
+        "name": "Doces",
+        "words": [
+          "Brigadeiro",
+          "Quindim",
+          "Paçoca"
+        ]
+      },
+      {
+        "name": "Vegetais",
+        "words": [
+          "Cenoura",
+          "Abobrinha",
+          "Beterraba"
         ]
       }
     ]
@@ -1259,6 +1315,22 @@
           "Zagueiro",
           "Atacante"
         ]
+      },
+      {
+        "name": "Animais",
+        "words": [
+          "Onça",
+          "Capivara",
+          "Tamanduá"
+        ]
+      },
+      {
+        "name": "Países",
+        "words": [
+          "Brasil",
+          "Canadá",
+          "Japão"
+        ]
       }
     ]
   },
@@ -1285,6 +1357,22 @@
           "Maracanã",
           "Mineirão",
           "Morumbi"
+        ]
+      },
+      {
+        "name": "Profissões",
+        "words": [
+          "Médica",
+          "Bombeiro",
+          "Arquiteta"
+        ]
+      },
+      {
+        "name": "Materiais",
+        "words": [
+          "Madeira",
+          "Cerâmica",
+          "Alumínio"
         ]
       }
     ]
@@ -1313,6 +1401,22 @@
           "Copa do Brasil",
           "Brasileirão"
         ]
+      },
+      {
+        "name": "Frutas",
+        "words": [
+          "Banana",
+          "Laranja",
+          "Mamão"
+        ]
+      },
+      {
+        "name": "Instrumentos musicais",
+        "words": [
+          "Violão",
+          "Flauta",
+          "Pandeiro"
+        ]
       }
     ]
   },
@@ -1330,15 +1434,44 @@
         "words": [
           "Sócrates",
           "Rivellino",
-          "Marcelinho Carioca"
+          "Marcelinho Carioca",
+          "Neto"
         ]
       },
       {
-        "name": "Ídolos recentes",
+        "name": "Outros ídolos do Corinthians",
         "words": [
-          "Neto",
           "Cássio",
-          "Jô"
+          "Ronaldo Fenômeno",
+          "Wladimir",
+          "Basílio"
+        ]
+      },
+      {
+        "name": "Frutas",
+        "words": [
+          "Banana",
+          "Laranja",
+          "Mamão",
+          "Manga"
+        ]
+      },
+      {
+        "name": "Planetas",
+        "words": [
+          "Mercúrio",
+          "Marte",
+          "Saturno",
+          "Netuno"
+        ]
+      },
+      {
+        "name": "Aves",
+        "words": [
+          "Arara",
+          "Tucano",
+          "Pinguim",
+          "Sabiá"
         ]
       }
     ]
@@ -1357,7 +1490,8 @@
         "words": [
           "Libertadores 2012",
           "Mundial 2012",
-          "Brasileirão 2015"
+          "Brasileirão 2015",
+          "Copa do Brasil 2009"
         ]
       },
       {
@@ -1365,7 +1499,35 @@
         "words": [
           "Neo Química Arena",
           "Parque São Jorge",
-          "Gaviões da Fiel"
+          "Gaviões da Fiel",
+          "Fiel Torcida"
+        ]
+      },
+      {
+        "name": "Doces",
+        "words": [
+          "Brigadeiro",
+          "Quindim",
+          "Paçoca",
+          "Pé de moleque"
+        ]
+      },
+      {
+        "name": "Materiais",
+        "words": [
+          "Madeira",
+          "Cerâmica",
+          "Alumínio",
+          "Vidro"
+        ]
+      },
+      {
+        "name": "Profissões",
+        "words": [
+          "Médica",
+          "Bombeiro",
+          "Arquiteta",
+          "Padeiro"
         ]
       }
     ]
@@ -1380,19 +1542,48 @@
     "moves": 30,
     "categories": [
       {
-        "name": "Rivalidades paulistas",
+        "name": "Clubes rivais paulistas",
         "words": [
           "Palmeiras",
           "São Paulo",
-          "Santos"
+          "Santos",
+          "Portuguesa"
         ]
       },
       {
-        "name": "Momentos marcantes",
+        "name": "Símbolos e momentos marcantes",
         "words": [
           "Invasão corintiana",
           "Democracia Corinthiana",
-          "Mundial de Clubes"
+          "Mundial de Clubes",
+          "Bando de Loucos"
+        ]
+      },
+      {
+        "name": "Oceanos e mares",
+        "words": [
+          "Atlântico",
+          "Pacífico",
+          "Mediterrâneo",
+          "Índico"
+        ]
+      },
+      {
+        "name": "Flores",
+        "words": [
+          "Girassol",
+          "Orquídea",
+          "Hibisco",
+          "Margarida"
+        ]
+      },
+      {
+        "name": "Objetos escolares",
+        "words": [
+          "Caderno",
+          "Compasso",
+          "Estojo",
+          "Régua"
         ]
       }
     ]
