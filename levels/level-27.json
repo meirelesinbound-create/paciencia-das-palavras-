@@ -1,0 +1,60 @@
+{
+  "id": 27,
+  "title": "Desafio 27",
+  "pack": "cinema",
+  "packName": "Cinema",
+  "moves": 48,
+  "categories": [
+    {
+      "name": "Movimentos literários",
+      "words": [
+        "Barroco",
+        "Arcadismo",
+        "Romantismo",
+        "Modernismo"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Clubes campeões da Libertadores",
+      "words": [
+        "Boca Juniors",
+        "River Plate",
+        "Peñarol",
+        "Nacional"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Rivais paulistas",
+      "words": [
+        "Palmeiras",
+        "São Paulo",
+        "Santos",
+        "Portuguesa"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Filmes de terror",
+      "words": [
+        "Hereditário",
+        "O Iluminado",
+        "Corra!",
+        "A Bruxa"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Personagens de The Sopranos",
+      "words": [
+        "Tony Soprano",
+        "Carmela Soprano",
+        "Christopher Moltisanti",
+        "Paulie Gualtieri"
+      ],
+      "icone": "clapper"
+    }
+  ],
+  "hiddenCategories": 2
+}
