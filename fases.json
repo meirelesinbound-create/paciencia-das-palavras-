@@ -1,0 +1,1810 @@
+[
+  {
+    "id": 1,
+    "title": "Desafio 01",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 17,
+    "categories": [
+      {
+        "name": "Frutas",
+        "words": [
+          "Banana",
+          "Laranja",
+          "Mamão"
+        ]
+      },
+      {
+        "name": "Comidas brasileiras",
+        "words": [
+          "Feijoada",
+          "Acarajé",
+          "Pamonha"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Desafio 02",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 17,
+    "categories": [
+      {
+        "name": "Países",
+        "words": [
+          "Brasil",
+          "Canadá",
+          "Japão"
+        ]
+      },
+      {
+        "name": "Vegetais",
+        "words": [
+          "Cenoura",
+          "Abobrinha",
+          "Beterraba"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Desafio 03",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 17,
+    "categories": [
+      {
+        "name": "Instrumentos musicais",
+        "words": [
+          "Violão",
+          "Flauta",
+          "Pandeiro"
+        ]
+      },
+      {
+        "name": "Oceanos e mares",
+        "words": [
+          "Atlântico",
+          "Pacífico",
+          "Mediterrâneo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Desafio 04",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 17,
+    "categories": [
+      {
+        "name": "Meios de transporte",
+        "words": [
+          "Bicicleta",
+          "Metrô",
+          "Navio"
+        ]
+      },
+      {
+        "name": "Partes do corpo",
+        "words": [
+          "Cotovelo",
+          "Pulso",
+          "Calcanhar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Desafio 05",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 17,
+    "categories": [
+      {
+        "name": "Aves",
+        "words": [
+          "Arara",
+          "Tucano",
+          "Pinguim"
+        ]
+      },
+      {
+        "name": "Fenômenos naturais",
+        "words": [
+          "Tornado",
+          "Eclipse",
+          "Aurora"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Desafio 06",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 17,
+    "categories": [
+      {
+        "name": "Ferramentas",
+        "words": [
+          "Martelo",
+          "Alicate",
+          "Serrote"
+        ]
+      },
+      {
+        "name": "Flores",
+        "words": [
+          "Girassol",
+          "Orquídea",
+          "Hibisco"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Desafio 07",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 26,
+    "categories": [
+      {
+        "name": "Materiais",
+        "words": [
+          "Madeira",
+          "Cerâmica",
+          "Alumínio"
+        ]
+      },
+      {
+        "name": "Astros",
+        "words": [
+          "Cometa",
+          "Nebulosa",
+          "Galáxia"
+        ]
+      },
+      {
+        "name": "Profissões",
+        "words": [
+          "Médica",
+          "Bombeiro",
+          "Arquiteta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Desafio 08",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 26,
+    "categories": [
+      {
+        "name": "Objetos escolares",
+        "words": [
+          "Caderno",
+          "Compasso",
+          "Estojo"
+        ]
+      },
+      {
+        "name": "Animais",
+        "words": [
+          "Onça",
+          "Capivara",
+          "Tamanduá"
+        ]
+      },
+      {
+        "name": "Esportes",
+        "words": [
+          "Natação",
+          "Judô",
+          "Vôlei"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Desafio 09",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 26,
+    "categories": [
+      {
+        "name": "Frutas",
+        "words": [
+          "Banana",
+          "Laranja",
+          "Mamão"
+        ]
+      },
+      {
+        "name": "Comidas brasileiras",
+        "words": [
+          "Feijoada",
+          "Acarajé",
+          "Pamonha"
+        ]
+      },
+      {
+        "name": "Cores",
+        "words": [
+          "Violeta",
+          "Turquesa",
+          "Escarlate"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Desafio 10",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 26,
+    "categories": [
+      {
+        "name": "Países",
+        "words": [
+          "Brasil",
+          "Canadá",
+          "Japão"
+        ]
+      },
+      {
+        "name": "Vegetais",
+        "words": [
+          "Cenoura",
+          "Abobrinha",
+          "Beterraba"
+        ]
+      },
+      {
+        "name": "Bebidas",
+        "words": [
+          "Guaraná",
+          "Chimarrão",
+          "Café"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Desafio 11",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 26,
+    "categories": [
+      {
+        "name": "Instrumentos musicais",
+        "words": [
+          "Violão",
+          "Flauta",
+          "Pandeiro"
+        ]
+      },
+      {
+        "name": "Oceanos e mares",
+        "words": [
+          "Atlântico",
+          "Pacífico",
+          "Mediterrâneo"
+        ]
+      },
+      {
+        "name": "Doces",
+        "words": [
+          "Brigadeiro",
+          "Quindim",
+          "Paçoca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Desafio 12",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 26,
+    "categories": [
+      {
+        "name": "Meios de transporte",
+        "words": [
+          "Bicicleta",
+          "Metrô",
+          "Navio"
+        ]
+      },
+      {
+        "name": "Partes do corpo",
+        "words": [
+          "Cotovelo",
+          "Pulso",
+          "Calcanhar"
+        ]
+      },
+      {
+        "name": "Lugares da cidade",
+        "words": [
+          "Biblioteca",
+          "Farmácia",
+          "Padaria"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Desafio 13",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 34,
+    "categories": [
+      {
+        "name": "Aves",
+        "words": [
+          "Arara",
+          "Tucano",
+          "Pinguim"
+        ]
+      },
+      {
+        "name": "Fenômenos naturais",
+        "words": [
+          "Tornado",
+          "Eclipse",
+          "Aurora"
+        ]
+      },
+      {
+        "name": "Climas",
+        "words": [
+          "Tropical",
+          "Polar",
+          "Desértico"
+        ]
+      },
+      {
+        "name": "Países",
+        "words": [
+          "Brasil",
+          "Canadá",
+          "Japão"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Desafio 14",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 34,
+    "categories": [
+      {
+        "name": "Ferramentas",
+        "words": [
+          "Martelo",
+          "Alicate",
+          "Serrote"
+        ]
+      },
+      {
+        "name": "Flores",
+        "words": [
+          "Girassol",
+          "Orquídea",
+          "Hibisco"
+        ]
+      },
+      {
+        "name": "Planetas",
+        "words": [
+          "Mercúrio",
+          "Marte",
+          "Saturno"
+        ]
+      },
+      {
+        "name": "Instrumentos musicais",
+        "words": [
+          "Violão",
+          "Flauta",
+          "Pandeiro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Desafio 15",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 34,
+    "categories": [
+      {
+        "name": "Materiais",
+        "words": [
+          "Madeira",
+          "Cerâmica",
+          "Alumínio"
+        ]
+      },
+      {
+        "name": "Astros",
+        "words": [
+          "Cometa",
+          "Nebulosa",
+          "Galáxia"
+        ]
+      },
+      {
+        "name": "Profissões",
+        "words": [
+          "Médica",
+          "Bombeiro",
+          "Arquiteta"
+        ]
+      },
+      {
+        "name": "Meios de transporte",
+        "words": [
+          "Bicicleta",
+          "Metrô",
+          "Navio"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Desafio 16",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 34,
+    "categories": [
+      {
+        "name": "Objetos escolares",
+        "words": [
+          "Caderno",
+          "Compasso",
+          "Estojo"
+        ]
+      },
+      {
+        "name": "Animais",
+        "words": [
+          "Onça",
+          "Capivara",
+          "Tamanduá"
+        ]
+      },
+      {
+        "name": "Esportes",
+        "words": [
+          "Natação",
+          "Judô",
+          "Vôlei"
+        ]
+      },
+      {
+        "name": "Aves",
+        "words": [
+          "Arara",
+          "Tucano",
+          "Pinguim"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Desafio 17",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 34,
+    "categories": [
+      {
+        "name": "Frutas",
+        "words": [
+          "Banana",
+          "Laranja",
+          "Mamão"
+        ]
+      },
+      {
+        "name": "Comidas brasileiras",
+        "words": [
+          "Feijoada",
+          "Acarajé",
+          "Pamonha"
+        ]
+      },
+      {
+        "name": "Cores",
+        "words": [
+          "Violeta",
+          "Turquesa",
+          "Escarlate"
+        ]
+      },
+      {
+        "name": "Ferramentas",
+        "words": [
+          "Martelo",
+          "Alicate",
+          "Serrote"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Desafio 18",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 34,
+    "categories": [
+      {
+        "name": "Países",
+        "words": [
+          "Brasil",
+          "Canadá",
+          "Japão"
+        ]
+      },
+      {
+        "name": "Vegetais",
+        "words": [
+          "Cenoura",
+          "Abobrinha",
+          "Beterraba"
+        ]
+      },
+      {
+        "name": "Bebidas",
+        "words": [
+          "Guaraná",
+          "Chimarrão",
+          "Café"
+        ]
+      },
+      {
+        "name": "Materiais",
+        "words": [
+          "Madeira",
+          "Cerâmica",
+          "Alumínio"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Desafio 19",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 54,
+    "categories": [
+      {
+        "name": "Instrumentos musicais",
+        "words": [
+          "Violão",
+          "Flauta",
+          "Pandeiro",
+          "Atabaque"
+        ]
+      },
+      {
+        "name": "Oceanos e mares",
+        "words": [
+          "Atlântico",
+          "Pacífico",
+          "Mediterrâneo",
+          "Índico"
+        ]
+      },
+      {
+        "name": "Doces",
+        "words": [
+          "Brigadeiro",
+          "Quindim",
+          "Paçoca",
+          "Pé de moleque"
+        ]
+      },
+      {
+        "name": "Objetos escolares",
+        "words": [
+          "Caderno",
+          "Compasso",
+          "Estojo",
+          "Régua"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Desafio 20",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 54,
+    "categories": [
+      {
+        "name": "Meios de transporte",
+        "words": [
+          "Bicicleta",
+          "Metrô",
+          "Navio",
+          "Avião"
+        ]
+      },
+      {
+        "name": "Partes do corpo",
+        "words": [
+          "Cotovelo",
+          "Pulso",
+          "Calcanhar",
+          "Clavícula"
+        ]
+      },
+      {
+        "name": "Lugares da cidade",
+        "words": [
+          "Biblioteca",
+          "Farmácia",
+          "Padaria",
+          "Museu"
+        ]
+      },
+      {
+        "name": "Frutas",
+        "words": [
+          "Banana",
+          "Laranja",
+          "Mamão",
+          "Manga"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Desafio 21",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 54,
+    "categories": [
+      {
+        "name": "Aves",
+        "words": [
+          "Arara",
+          "Tucano",
+          "Pinguim",
+          "Sabiá"
+        ]
+      },
+      {
+        "name": "Fenômenos naturais",
+        "words": [
+          "Tornado",
+          "Eclipse",
+          "Aurora",
+          "Tsunami"
+        ]
+      },
+      {
+        "name": "Climas",
+        "words": [
+          "Tropical",
+          "Polar",
+          "Desértico",
+          "Temperado"
+        ]
+      },
+      {
+        "name": "Países",
+        "words": [
+          "Brasil",
+          "Canadá",
+          "Japão",
+          "Portugal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Desafio 22",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 54,
+    "categories": [
+      {
+        "name": "Ferramentas",
+        "words": [
+          "Martelo",
+          "Alicate",
+          "Serrote",
+          "Chave de fenda"
+        ]
+      },
+      {
+        "name": "Flores",
+        "words": [
+          "Girassol",
+          "Orquídea",
+          "Hibisco",
+          "Margarida"
+        ]
+      },
+      {
+        "name": "Planetas",
+        "words": [
+          "Mercúrio",
+          "Marte",
+          "Saturno",
+          "Netuno"
+        ]
+      },
+      {
+        "name": "Instrumentos musicais",
+        "words": [
+          "Violão",
+          "Flauta",
+          "Pandeiro",
+          "Atabaque"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Desafio 23",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 54,
+    "categories": [
+      {
+        "name": "Materiais",
+        "words": [
+          "Madeira",
+          "Cerâmica",
+          "Alumínio",
+          "Vidro"
+        ]
+      },
+      {
+        "name": "Astros",
+        "words": [
+          "Cometa",
+          "Nebulosa",
+          "Galáxia",
+          "Estrela"
+        ]
+      },
+      {
+        "name": "Profissões",
+        "words": [
+          "Médica",
+          "Bombeiro",
+          "Arquiteta",
+          "Padeiro"
+        ]
+      },
+      {
+        "name": "Meios de transporte",
+        "words": [
+          "Bicicleta",
+          "Metrô",
+          "Navio",
+          "Avião"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Desafio 24",
+    "pack": "geral",
+    "packName": "Clássicos",
+    "icon": "🧩",
+    "color": "#5b8def",
+    "moves": 54,
+    "categories": [
+      {
+        "name": "Objetos escolares",
+        "words": [
+          "Caderno",
+          "Compasso",
+          "Estojo",
+          "Régua"
+        ]
+      },
+      {
+        "name": "Animais",
+        "words": [
+          "Onça",
+          "Capivara",
+          "Tamanduá",
+          "Lobo-guará"
+        ]
+      },
+      {
+        "name": "Esportes",
+        "words": [
+          "Natação",
+          "Judô",
+          "Vôlei",
+          "Basquete"
+        ]
+      },
+      {
+        "name": "Aves",
+        "words": [
+          "Arara",
+          "Tucano",
+          "Pinguim",
+          "Sabiá"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Desafio 25",
+    "pack": "cinema",
+    "packName": "Cinema",
+    "icon": "🎬",
+    "color": "#b95d3d",
+    "moves": 30,
+    "categories": [
+      {
+        "name": "Diretores brasileiros",
+        "words": [
+          "Walter Salles",
+          "Anna Muylaert",
+          "Fernando Meirelles",
+          "José Padilha"
+        ]
+      },
+      {
+        "name": "Filmes premiados",
+        "words": [
+          "Ainda Estou Aqui",
+          "Central do Brasil",
+          "Cidade de Deus",
+          "O Pagador de Promessas"
+        ]
+      },
+      {
+        "name": "Frutas",
+        "words": [
+          "Banana",
+          "Laranja",
+          "Mamão",
+          "Manga"
+        ]
+      },
+      {
+        "name": "Astros",
+        "words": [
+          "Cometa",
+          "Nebulosa",
+          "Galáxia",
+          "Estrela"
+        ]
+      },
+      {
+        "name": "Esportes",
+        "words": [
+          "Natação",
+          "Judô",
+          "Vôlei",
+          "Basquete"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Desafio 26",
+    "pack": "cinema",
+    "packName": "Cinema",
+    "icon": "🎬",
+    "color": "#b95d3d",
+    "moves": 30,
+    "categories": [
+      {
+        "name": "Diretores internacionais",
+        "words": [
+          "Christopher Nolan",
+          "Greta Gerwig",
+          "Hayao Miyazaki",
+          "Alfonso Cuarón"
+        ]
+      },
+      {
+        "name": "Gêneros de cinema",
+        "words": [
+          "Faroeste",
+          "Musical",
+          "Suspense",
+          "Animação"
+        ]
+      },
+      {
+        "name": "Cores",
+        "words": [
+          "Violeta",
+          "Turquesa",
+          "Escarlate",
+          "Ocre"
+        ]
+      },
+      {
+        "name": "Ferramentas",
+        "words": [
+          "Martelo",
+          "Alicate",
+          "Serrote",
+          "Chave de fenda"
+        ]
+      },
+      {
+        "name": "Vegetais",
+        "words": [
+          "Cenoura",
+          "Abobrinha",
+          "Beterraba",
+          "Chuchu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Desafio 27",
+    "pack": "cinema",
+    "packName": "Cinema",
+    "icon": "🎬",
+    "color": "#b95d3d",
+    "moves": 30,
+    "categories": [
+      {
+        "name": "Filmes de Christopher Nolan",
+        "words": [
+          "A Origem",
+          "Interestelar",
+          "Amnésia",
+          "Oppenheimer"
+        ]
+      },
+      {
+        "name": "Franquias de cinema",
+        "words": [
+          "Toy Story",
+          "Jurassic Park",
+          "Missão Impossível",
+          "Avatar"
+        ]
+      },
+      {
+        "name": "Países",
+        "words": [
+          "Brasil",
+          "Canadá",
+          "Japão",
+          "Portugal"
+        ]
+      },
+      {
+        "name": "Flores",
+        "words": [
+          "Girassol",
+          "Orquídea",
+          "Hibisco",
+          "Margarida"
+        ]
+      },
+      {
+        "name": "Oceanos e mares",
+        "words": [
+          "Atlântico",
+          "Pacífico",
+          "Mediterrâneo",
+          "Índico"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Desafio 28",
+    "pack": "cinema",
+    "packName": "Cinema",
+    "icon": "🎬",
+    "color": "#b95d3d",
+    "moves": 30,
+    "categories": [
+      {
+        "name": "Atores e atrizes",
+        "words": [
+          "Fernanda Torres",
+          "Wagner Moura",
+          "Sônia Braga",
+          "Fernanda Montenegro"
+        ]
+      },
+      {
+        "name": "Filmes vencedores do Oscar",
+        "words": [
+          "O Poderoso Chefão",
+          "Parasita",
+          "Moonlight",
+          "Tudo em Todo o Lugar ao Mesmo Tempo"
+        ]
+      },
+      {
+        "name": "Doces",
+        "words": [
+          "Brigadeiro",
+          "Quindim",
+          "Paçoca",
+          "Pé de moleque"
+        ]
+      },
+      {
+        "name": "Materiais",
+        "words": [
+          "Madeira",
+          "Cerâmica",
+          "Alumínio",
+          "Vidro"
+        ]
+      },
+      {
+        "name": "Partes do corpo",
+        "words": [
+          "Cotovelo",
+          "Pulso",
+          "Calcanhar",
+          "Clavícula"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Desafio 29",
+    "pack": "series",
+    "packName": "Séries de TV",
+    "icon": "📺",
+    "color": "#6d5bd0",
+    "moves": 30,
+    "categories": [
+      {
+        "name": "Breaking Bad",
+        "words": [
+          "Walter White",
+          "Jesse Pinkman",
+          "Saul Goodman",
+          "Hank Schrader"
+        ]
+      },
+      {
+        "name": "Game of Thrones",
+        "words": [
+          "Jon Snow",
+          "Daenerys Targaryen",
+          "Tyrion Lannister",
+          "Arya Stark"
+        ]
+      },
+      {
+        "name": "Planetas",
+        "words": [
+          "Mercúrio",
+          "Marte",
+          "Saturno",
+          "Netuno"
+        ]
+      },
+      {
+        "name": "Aves",
+        "words": [
+          "Arara",
+          "Tucano",
+          "Pinguim",
+          "Sabiá"
+        ]
+      },
+      {
+        "name": "Bebidas",
+        "words": [
+          "Guaraná",
+          "Chimarrão",
+          "Café",
+          "Mate"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Desafio 30",
+    "pack": "series",
+    "packName": "Séries de TV",
+    "icon": "📺",
+    "color": "#6d5bd0",
+    "moves": 30,
+    "categories": [
+      {
+        "name": "Stranger Things",
+        "words": [
+          "Eleven",
+          "Dustin Henderson",
+          "Jim Hopper",
+          "Max Mayfield"
+        ]
+      },
+      {
+        "name": "Friends",
+        "words": [
+          "Rachel Green",
+          "Ross Geller",
+          "Phoebe Buffay",
+          "Chandler Bing"
+        ]
+      },
+      {
+        "name": "Ferramentas",
+        "words": [
+          "Martelo",
+          "Alicate",
+          "Serrote",
+          "Chave de fenda"
+        ]
+      },
+      {
+        "name": "Animais",
+        "words": [
+          "Onça",
+          "Capivara",
+          "Tamanduá",
+          "Lobo-guará"
+        ]
+      },
+      {
+        "name": "Climas",
+        "words": [
+          "Tropical",
+          "Polar",
+          "Desértico",
+          "Temperado"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Desafio 31",
+    "pack": "series",
+    "packName": "Séries de TV",
+    "icon": "📺",
+    "color": "#6d5bd0",
+    "moves": 30,
+    "categories": [
+      {
+        "name": "La Casa de Papel",
+        "words": [
+          "Professor",
+          "Tóquio",
+          "Berlim",
+          "Nairóbi"
+        ]
+      },
+      {
+        "name": "Round 6",
+        "words": [
+          "Gi-hun",
+          "Sang-woo",
+          "Saebyeok",
+          "Il-nam"
+        ]
+      },
+      {
+        "name": "Bebidas",
+        "words": [
+          "Guaraná",
+          "Chimarrão",
+          "Café",
+          "Mate"
+        ]
+      },
+      {
+        "name": "Objetos escolares",
+        "words": [
+          "Caderno",
+          "Compasso",
+          "Estojo",
+          "Régua"
+        ]
+      },
+      {
+        "name": "Flores",
+        "words": [
+          "Girassol",
+          "Orquídea",
+          "Hibisco",
+          "Margarida"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Desafio 32",
+    "pack": "series",
+    "packName": "Séries de TV",
+    "icon": "📺",
+    "color": "#6d5bd0",
+    "moves": 30,
+    "categories": [
+      {
+        "name": "The Office",
+        "words": [
+          "Michael Scott",
+          "Dwight Schrute",
+          "Jim Halpert",
+          "Pam Beesly"
+        ]
+      },
+      {
+        "name": "Locais e organizações de séries",
+        "words": [
+          "Hawkins",
+          "Winterfell",
+          "Dunder Mifflin",
+          "King's Landing"
+        ]
+      },
+      {
+        "name": "Flores",
+        "words": [
+          "Girassol",
+          "Orquídea",
+          "Hibisco",
+          "Margarida"
+        ]
+      },
+      {
+        "name": "Profissões",
+        "words": [
+          "Médica",
+          "Bombeiro",
+          "Arquiteta",
+          "Padeiro"
+        ]
+      },
+      {
+        "name": "Comidas brasileiras",
+        "words": [
+          "Feijoada",
+          "Acarajé",
+          "Pamonha",
+          "Moqueca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Desafio 33",
+    "pack": "series",
+    "packName": "Séries de TV",
+    "icon": "📺",
+    "color": "#6d5bd0",
+    "moves": 30,
+    "categories": [
+      {
+        "name": "Personagens que confundem",
+        "words": [
+          "Robin",
+          "Eddie",
+          "Alex",
+          "Steve"
+        ]
+      },
+      {
+        "name": "Séries de suspense",
+        "words": [
+          "Breaking Bad",
+          "Round 6",
+          "La Casa de Papel",
+          "Dark"
+        ]
+      },
+      {
+        "name": "Meios de transporte",
+        "words": [
+          "Bicicleta",
+          "Metrô",
+          "Navio",
+          "Avião"
+        ]
+      },
+      {
+        "name": "Planetas",
+        "words": [
+          "Mercúrio",
+          "Marte",
+          "Saturno",
+          "Netuno"
+        ]
+      },
+      {
+        "name": "Materiais",
+        "words": [
+          "Madeira",
+          "Cerâmica",
+          "Alumínio",
+          "Vidro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Desafio 34",
+    "pack": "futebol",
+    "packName": "Futebol",
+    "icon": "⚽",
+    "color": "#21865b",
+    "moves": 30,
+    "categories": [
+      {
+        "name": "Seleção brasileira",
+        "words": [
+          "Pelé",
+          "Ronaldo Fenômeno",
+          "Marta",
+          "Zico"
+        ]
+      },
+      {
+        "name": "Clubes brasileiros",
+        "words": [
+          "Flamengo",
+          "Palmeiras",
+          "Santos",
+          "Corinthians"
+        ]
+      },
+      {
+        "name": "Doces",
+        "words": [
+          "Brigadeiro",
+          "Quindim",
+          "Paçoca",
+          "Pé de moleque"
+        ]
+      },
+      {
+        "name": "Vegetais",
+        "words": [
+          "Cenoura",
+          "Abobrinha",
+          "Beterraba",
+          "Chuchu"
+        ]
+      },
+      {
+        "name": "Flores",
+        "words": [
+          "Girassol",
+          "Orquídea",
+          "Hibisco",
+          "Margarida"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Desafio 35",
+    "pack": "futebol",
+    "packName": "Futebol",
+    "icon": "⚽",
+    "color": "#21865b",
+    "moves": 30,
+    "categories": [
+      {
+        "name": "Copas do Mundo",
+        "words": [
+          "México 1970",
+          "Estados Unidos 1994",
+          "Coreia-Japão 2002",
+          "Catar 2022"
+        ]
+      },
+      {
+        "name": "Posições do futebol",
+        "words": [
+          "Goleiro",
+          "Zagueiro",
+          "Atacante",
+          "Lateral"
+        ]
+      },
+      {
+        "name": "Animais",
+        "words": [
+          "Onça",
+          "Capivara",
+          "Tamanduá",
+          "Lobo-guará"
+        ]
+      },
+      {
+        "name": "Países",
+        "words": [
+          "Brasil",
+          "Canadá",
+          "Japão",
+          "Portugal"
+        ]
+      },
+      {
+        "name": "Cores",
+        "words": [
+          "Violeta",
+          "Turquesa",
+          "Escarlate",
+          "Ocre"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Desafio 36",
+    "pack": "futebol",
+    "packName": "Futebol",
+    "icon": "⚽",
+    "color": "#21865b",
+    "moves": 30,
+    "categories": [
+      {
+        "name": "Termos de futebol",
+        "words": [
+          "Impedimento",
+          "Escanteio",
+          "Pênalti",
+          "Tiro de meta"
+        ]
+      },
+      {
+        "name": "Estádios brasileiros",
+        "words": [
+          "Maracanã",
+          "Mineirão",
+          "MorumBIS",
+          "Arena Fonte Nova"
+        ]
+      },
+      {
+        "name": "Profissões",
+        "words": [
+          "Médica",
+          "Bombeiro",
+          "Arquiteta",
+          "Padeiro"
+        ]
+      },
+      {
+        "name": "Materiais",
+        "words": [
+          "Madeira",
+          "Cerâmica",
+          "Alumínio",
+          "Vidro"
+        ]
+      },
+      {
+        "name": "Bebidas",
+        "words": [
+          "Guaraná",
+          "Chimarrão",
+          "Café",
+          "Mate"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Desafio 37",
+    "pack": "futebol",
+    "packName": "Futebol",
+    "icon": "⚽",
+    "color": "#21865b",
+    "moves": 30,
+    "categories": [
+      {
+        "name": "Craques brasileiros",
+        "words": [
+          "Zico",
+          "Romário",
+          "Ronaldinho Gaúcho",
+          "Neymar"
+        ]
+      },
+      {
+        "name": "Competições",
+        "words": [
+          "Libertadores",
+          "Copa do Brasil",
+          "Brasileirão",
+          "Sul-Americana"
+        ]
+      },
+      {
+        "name": "Frutas",
+        "words": [
+          "Banana",
+          "Laranja",
+          "Mamão",
+          "Manga"
+        ]
+      },
+      {
+        "name": "Instrumentos musicais",
+        "words": [
+          "Violão",
+          "Flauta",
+          "Pandeiro",
+          "Atabaque"
+        ]
+      },
+      {
+        "name": "Aves",
+        "words": [
+          "Arara",
+          "Tucano",
+          "Pinguim",
+          "Sabiá"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Desafio 38",
+    "pack": "corinthians",
+    "packName": "Corinthians",
+    "icon": "⚫",
+    "color": "#252525",
+    "moves": 30,
+    "categories": [
+      {
+        "name": "Ídolos corintianos",
+        "words": [
+          "Sócrates",
+          "Rivellino",
+          "Marcelinho Carioca",
+          "Neto"
+        ]
+      },
+      {
+        "name": "Outros ídolos do Corinthians",
+        "words": [
+          "Cássio",
+          "Ronaldo Fenômeno",
+          "Wladimir",
+          "Basílio"
+        ]
+      },
+      {
+        "name": "Frutas",
+        "words": [
+          "Banana",
+          "Laranja",
+          "Mamão",
+          "Manga"
+        ]
+      },
+      {
+        "name": "Planetas",
+        "words": [
+          "Mercúrio",
+          "Marte",
+          "Saturno",
+          "Netuno"
+        ]
+      },
+      {
+        "name": "Aves",
+        "words": [
+          "Arara",
+          "Tucano",
+          "Pinguim",
+          "Sabiá"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Desafio 39",
+    "pack": "corinthians",
+    "packName": "Corinthians",
+    "icon": "⚫",
+    "color": "#252525",
+    "moves": 30,
+    "categories": [
+      {
+        "name": "Títulos do Corinthians",
+        "words": [
+          "Libertadores 2012",
+          "Mundial 2012",
+          "Brasileirão 2015",
+          "Copa do Brasil 2009"
+        ]
+      },
+      {
+        "name": "Locais e torcida",
+        "words": [
+          "Neo Química Arena",
+          "Parque São Jorge",
+          "Gaviões da Fiel",
+          "Fiel Torcida"
+        ]
+      },
+      {
+        "name": "Doces",
+        "words": [
+          "Brigadeiro",
+          "Quindim",
+          "Paçoca",
+          "Pé de moleque"
+        ]
+      },
+      {
+        "name": "Materiais",
+        "words": [
+          "Madeira",
+          "Cerâmica",
+          "Alumínio",
+          "Vidro"
+        ]
+      },
+      {
+        "name": "Profissões",
+        "words": [
+          "Médica",
+          "Bombeiro",
+          "Arquiteta",
+          "Padeiro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Desafio 40",
+    "pack": "corinthians",
+    "packName": "Corinthians",
+    "icon": "⚫",
+    "color": "#252525",
+    "moves": 30,
+    "categories": [
+      {
+        "name": "Clubes rivais paulistas",
+        "words": [
+          "Palmeiras",
+          "São Paulo",
+          "Santos",
+          "Portuguesa"
+        ]
+      },
+      {
+        "name": "Símbolos e momentos marcantes",
+        "words": [
+          "Invasão corintiana",
+          "Democracia Corinthiana",
+          "Mundial de Clubes",
+          "Bando de Loucos"
+        ]
+      },
+      {
+        "name": "Oceanos e mares",
+        "words": [
+          "Atlântico",
+          "Pacífico",
+          "Mediterrâneo",
+          "Índico"
+        ]
+      },
+      {
+        "name": "Flores",
+        "words": [
+          "Girassol",
+          "Orquídea",
+          "Hibisco",
+          "Margarida"
+        ]
+      },
+      {
+        "name": "Objetos escolares",
+        "words": [
+          "Caderno",
+          "Compasso",
+          "Estojo",
+          "Régua"
+        ]
+      }
+    ]
+  }
+]
