@@ -6,7 +6,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 76,
+    "moves": 64,
     "categories": [
       {
         "name": "Filmes de Christopher Nolan",
@@ -57,7 +57,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 78,
+    "moves": 66,
     "categories": [
       {
         "name": "Filmes de terror",
@@ -108,7 +108,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 80,
+    "moves": 68,
     "categories": [
       {
         "name": "Filmes da franquia Alien",
@@ -159,7 +159,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 82,
+    "moves": 70,
     "categories": [
       {
         "name": "Filmes com viagem no tempo",
@@ -210,7 +210,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 84,
+    "moves": 72,
     "categories": [
       {
         "name": "Filmes de animação da Pixar",
@@ -261,7 +261,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 86,
+    "moves": 74,
     "categories": [
       {
         "name": "Filmes da franquia Alien",
@@ -312,7 +312,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 88,
+    "moves": 76,
     "categories": [
       {
         "name": "Filmes com viagem no tempo",
@@ -363,7 +363,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 90,
+    "moves": 78,
     "categories": [
       {
         "name": "Filmes de animação da Pixar",
@@ -414,7 +414,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 92,
+    "moves": 78,
     "categories": [
       {
         "name": "Cinema brasileiro",
@@ -465,7 +465,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 95,
+    "moves": 80,
     "categories": [
       {
         "name": "Filmes vencedores da Palma de Ouro",
@@ -521,46 +521,46 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 98,
+    "moves": 82,
     "categories": [
       {
         "name": "Filmes de animação da Pixar",
         "words": [
+          "Ratatouille",
           "WALL-E",
-          "Viva",
-          "Divertida Mente"
+          "Viva"
         ]
       },
       {
         "name": "Personagens de The Office",
         "words": [
+          "Michael Scott",
           "Dwight Schrute",
-          "Jim Halpert",
-          "Pam Beesly"
+          "Jim Halpert"
         ]
       },
       {
         "name": "Goleiros históricos",
         "words": [
+          "Taffarel",
           "Dida",
-          "Marcos",
-          "Rogério Ceni"
+          "Marcos"
         ]
       },
       {
         "name": "Atacantes históricos do Corinthians",
         "words": [
+          "Cláudio Christóvam",
           "Baltazar",
-          "Luizão",
-          "Jô"
+          "Luizão"
         ]
       },
       {
         "name": "Fenômenos ópticos",
         "words": [
+          "Refração",
           "Difração",
-          "Dispersão",
-          "Polarização"
+          "Dispersão"
         ]
       }
     ]
@@ -572,11 +572,12 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 101,
+    "moves": 84,
     "categories": [
       {
         "name": "Cinema brasileiro",
         "words": [
+          "Central do Brasil",
           "O Auto da Compadecida",
           "Cidade de Deus",
           "Que Horas Ela Volta?"
@@ -585,6 +586,7 @@
       {
         "name": "Personagens de The Simpsons",
         "words": [
+          "Homer Simpson",
           "Marge Simpson",
           "Bart Simpson",
           "Lisa Simpson"
@@ -593,6 +595,7 @@
       {
         "name": "Seleções campeãs do mundo",
         "words": [
+          "Brasil",
           "Alemanha",
           "Itália",
           "Argentina"
@@ -601,6 +604,7 @@
       {
         "name": "Goleiros marcantes do Corinthians",
         "words": [
+          "Cássio",
           "Ronaldo Giovanelli",
           "Dida",
           "Gylmar"
@@ -609,6 +613,7 @@
       {
         "name": "Cordilheiras",
         "words": [
+          "Andes",
           "Himalaia",
           "Alpes",
           "Atlas"
@@ -623,46 +628,46 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 104,
+    "moves": 86,
     "categories": [
       {
         "name": "Filmes vencedores da Palma de Ouro",
         "words": [
+          "Pulp Fiction",
           "Parasita",
-          "Anatomia de uma Queda",
-          "Triângulo da Tristeza"
+          "Anatomia de uma Queda"
         ]
       },
       {
         "name": "Personagens de Breaking Bad",
         "words": [
+          "Walter White",
           "Jesse Pinkman",
-          "Saul Goodman",
-          "Hank Schrader"
+          "Saul Goodman"
         ]
       },
       {
         "name": "Competições de clubes",
         "words": [
+          "Libertadores",
           "Sul-Americana",
-          "Champions League",
-          "Mundial de Clubes"
+          "Champions League"
         ]
       },
       {
         "name": "Personagens da Democracia Corinthiana",
         "words": [
+          "Sócrates",
           "Wladimir",
-          "Casagrande",
-          "Zenon"
+          "Casagrande"
         ]
       },
       {
         "name": "Gêneros musicais brasileiros",
         "words": [
+          "Choro",
           "Maracatu",
-          "Frevo",
-          "Samba-reggae"
+          "Frevo"
         ]
       }
     ]
@@ -674,11 +679,12 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 107,
+    "moves": 88,
     "categories": [
       {
         "name": "Filmes de ficção científica",
         "words": [
+          "Blade Runner",
           "Gattaca",
           "Distrito 9",
           "Ex Machina"
@@ -687,6 +693,7 @@
       {
         "name": "Personagens de Friends",
         "words": [
+          "Rachel Green",
           "Ross Geller",
           "Phoebe Buffay",
           "Chandler Bing"
@@ -695,6 +702,7 @@
       {
         "name": "Grandes camisas 10",
         "words": [
+          "Pelé",
           "Zico",
           "Maradona",
           "Ronaldinho Gaúcho"
@@ -703,6 +711,7 @@
       {
         "name": "Apelidos e símbolos da torcida",
         "words": [
+          "Fiel",
           "Bando de Loucos",
           "Gaviões da Fiel",
           "Mosqueteiro"
@@ -711,6 +720,7 @@
       {
         "name": "Tipos de rocha",
         "words": [
+          "Ígnea",
           "Sedimentar",
           "Metamórfica",
           "Vulcânica"
@@ -725,46 +735,46 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 110,
+    "moves": 90,
     "categories": [
       {
         "name": "Filmes de Martin Scorsese",
         "words": [
+          "Taxi Driver",
           "Os Bons Companheiros",
-          "Os Infiltrados",
-          "O Irlandês"
+          "Os Infiltrados"
         ]
       },
       {
         "name": "Personagens de The Last of Us",
         "words": [
+          "Joel Miller",
           "Ellie Williams",
-          "Tommy Miller",
-          "Abby Anderson"
+          "Tommy Miller"
         ]
       },
       {
         "name": "Fundamentos do futebol",
         "words": [
+          "Drible",
           "Cabeceio",
-          "Desarme",
-          "Cruzamento"
+          "Desarme"
         ]
       },
       {
         "name": "Ídolos do Corinthians",
         "words": [
+          "Sócrates",
           "Rivellino",
-          "Marcelinho Carioca",
-          "Neto"
+          "Marcelinho Carioca"
         ]
       },
       {
         "name": "Elementos químicos",
         "words": [
+          "Gálio",
           "Bromo",
-          "Cobalto",
-          "Xenônio"
+          "Cobalto"
         ]
       }
     ]
@@ -776,11 +786,12 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 113,
+    "moves": 92,
     "categories": [
       {
         "name": "Filmes vencedores da Palma de Ouro",
         "words": [
+          "Pulp Fiction",
           "Parasita",
           "Anatomia de uma Queda",
           "Triângulo da Tristeza"
@@ -789,6 +800,7 @@
       {
         "name": "Personagens de Breaking Bad",
         "words": [
+          "Walter White",
           "Jesse Pinkman",
           "Saul Goodman",
           "Hank Schrader"
@@ -797,6 +809,7 @@
       {
         "name": "Competições de clubes",
         "words": [
+          "Libertadores",
           "Sul-Americana",
           "Champions League",
           "Mundial de Clubes"
@@ -805,6 +818,7 @@
       {
         "name": "Personagens da Democracia Corinthiana",
         "words": [
+          "Sócrates",
           "Wladimir",
           "Casagrande",
           "Zenon"
@@ -813,6 +827,7 @@
       {
         "name": "Gêneros musicais brasileiros",
         "words": [
+          "Choro",
           "Maracatu",
           "Frevo",
           "Samba-reggae"
@@ -827,46 +842,46 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 116,
+    "moves": 94,
     "categories": [
       {
         "name": "Filmes de ficção científica",
         "words": [
+          "Blade Runner",
           "Gattaca",
-          "Distrito 9",
-          "Ex Machina"
+          "Distrito 9"
         ]
       },
       {
         "name": "Personagens de Friends",
         "words": [
+          "Rachel Green",
           "Ross Geller",
-          "Phoebe Buffay",
-          "Chandler Bing"
+          "Phoebe Buffay"
         ]
       },
       {
         "name": "Grandes camisas 10",
         "words": [
+          "Pelé",
           "Zico",
-          "Maradona",
-          "Ronaldinho Gaúcho"
+          "Maradona"
         ]
       },
       {
         "name": "Apelidos e símbolos da torcida",
         "words": [
+          "Fiel",
           "Bando de Loucos",
-          "Gaviões da Fiel",
-          "Mosqueteiro"
+          "Gaviões da Fiel"
         ]
       },
       {
         "name": "Tipos de rocha",
         "words": [
+          "Ígnea",
           "Sedimentar",
-          "Metamórfica",
-          "Vulcânica"
+          "Metamórfica"
         ]
       }
     ]
@@ -878,11 +893,12 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 119,
+    "moves": 96,
     "categories": [
       {
         "name": "Filmes de Martin Scorsese",
         "words": [
+          "Taxi Driver",
           "Os Bons Companheiros",
           "Os Infiltrados",
           "O Irlandês"
@@ -891,6 +907,7 @@
       {
         "name": "Personagens de The Last of Us",
         "words": [
+          "Joel Miller",
           "Ellie Williams",
           "Tommy Miller",
           "Abby Anderson"
@@ -899,6 +916,7 @@
       {
         "name": "Fundamentos do futebol",
         "words": [
+          "Drible",
           "Cabeceio",
           "Desarme",
           "Cruzamento"
@@ -907,6 +925,7 @@
       {
         "name": "Ídolos do Corinthians",
         "words": [
+          "Sócrates",
           "Rivellino",
           "Marcelinho Carioca",
           "Neto"
@@ -915,6 +934,7 @@
       {
         "name": "Elementos químicos",
         "words": [
+          "Gálio",
           "Bromo",
           "Cobalto",
           "Xenônio"
@@ -929,11 +949,12 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 124,
+    "moves": 98,
     "categories": [
       {
         "name": "Filmes do universo Star Wars",
         "words": [
+          "Uma Nova Esperança",
           "O Império Contra-Ataca",
           "O Retorno de Jedi",
           "Rogue One"
@@ -942,6 +963,7 @@
       {
         "name": "Séries de ficção científica",
         "words": [
+          "Black Mirror",
           "Dark",
           "Westworld",
           "Fringe"
@@ -950,6 +972,7 @@
       {
         "name": "Termos de arbitragem",
         "words": [
+          "Impedimento",
           "Vantagem",
           "Cartão amarelo",
           "Cartão vermelho"
@@ -958,6 +981,7 @@
       {
         "name": "Locais ligados ao Corinthians",
         "words": [
+          "Neo Química Arena",
           "Parque São Jorge",
           "Fazendinha",
           "Ponte Grande"
@@ -966,6 +990,7 @@
       {
         "name": "Escolas filosóficas",
         "words": [
+          "Estoicismo",
           "Epicurismo",
           "Ceticismo",
           "Existencialismo"
@@ -980,11 +1005,12 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 127,
+    "moves": 100,
     "categories": [
       {
         "name": "Filmes de Christopher Nolan",
         "words": [
+          "Amnésia",
           "O Grande Truque",
           "A Origem",
           "Interestelar"
@@ -993,6 +1019,7 @@
       {
         "name": "Personagens de Stranger Things",
         "words": [
+          "Eleven",
           "Dustin Henderson",
           "Jim Hopper",
           "Max Mayfield"
@@ -1001,6 +1028,7 @@
       {
         "name": "Estádios brasileiros",
         "words": [
+          "Maracanã",
           "Mineirão",
           "Arena Fonte Nova",
           "Beira-Rio"
@@ -1009,6 +1037,7 @@
       {
         "name": "Finais marcantes do Corinthians",
         "words": [
+          "Mundial 2000",
           "Libertadores 2012",
           "Paulistão 1977",
           "Copa do Brasil 2009"
@@ -1017,6 +1046,7 @@
       {
         "name": "Biomas brasileiros",
         "words": [
+          "Caatinga",
           "Cerrado",
           "Pantanal",
           "Pampa"
@@ -1031,7 +1061,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 130,
+    "moves": 102,
     "categories": [
       {
         "name": "Filmes de Martin Scorsese",
@@ -1087,7 +1117,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 133,
+    "moves": 104,
     "categories": [
       {
         "name": "Filmes do universo Star Wars",
@@ -1143,7 +1173,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 136,
+    "moves": 106,
     "categories": [
       {
         "name": "Filmes de Christopher Nolan",
@@ -1199,7 +1229,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 139,
+    "moves": 108,
     "categories": [
       {
         "name": "Filmes de terror",
@@ -1255,7 +1285,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 142,
+    "moves": 110,
     "categories": [
       {
         "name": "Filmes da franquia Alien",
@@ -1311,7 +1341,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 145,
+    "moves": 112,
     "categories": [
       {
         "name": "Filmes de Christopher Nolan",
@@ -1367,7 +1397,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 148,
+    "moves": 114,
     "categories": [
       {
         "name": "Filmes de terror",
@@ -1423,7 +1453,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 151,
+    "moves": 116,
     "categories": [
       {
         "name": "Filmes da franquia Alien",
@@ -1479,7 +1509,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 150,
+    "moves": 118,
     "categories": [
       {
         "name": "Filmes com viagem no tempo",
@@ -1535,7 +1565,7 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 152,
+    "moves": 120,
     "categories": [
       {
         "name": "Filmes de animação da Pixar",
@@ -1591,11 +1621,12 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 154,
+    "moves": 122,
     "categories": [
       {
         "name": "Filmes da franquia Alien",
         "words": [
+          "Alien: O Oitavo Passageiro",
           "Aliens",
           "Alien 3",
           "Prometheus"
@@ -1604,6 +1635,7 @@
       {
         "name": "Personagens de Lost",
         "words": [
+          "Jack Shephard",
           "Kate Austen",
           "Sawyer",
           "John Locke"
@@ -1612,6 +1644,7 @@
       {
         "name": "Posições do futebol",
         "words": [
+          "Goleiro",
           "Zagueiro",
           "Lateral",
           "Volante"
@@ -1620,6 +1653,7 @@
       {
         "name": "Títulos do Corinthians",
         "words": [
+          "Libertadores 2012",
           "Mundial 2000",
           "Mundial 2012",
           "Brasileirão 2015"
@@ -1628,6 +1662,7 @@
       {
         "name": "Termos da astronomia",
         "words": [
+          "Periélio",
           "Afélio",
           "Eclíptica",
           "Zênite"
@@ -1642,11 +1677,12 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 156,
+    "moves": 124,
     "categories": [
       {
         "name": "Filmes com viagem no tempo",
         "words": [
+          "De Volta para o Futuro",
           "12 Macacos",
           "Primer",
           "Looper"
@@ -1655,6 +1691,7 @@
       {
         "name": "Personagens de Game of Thrones",
         "words": [
+          "Jon Snow",
           "Daenerys Targaryen",
           "Tyrion Lannister",
           "Arya Stark"
@@ -1663,6 +1700,7 @@
       {
         "name": "Copas do Mundo",
         "words": [
+          "México 1970",
           "Espanha 1982",
           "Estados Unidos 1994",
           "Coreia-Japão 2002"
@@ -1671,6 +1709,7 @@
       {
         "name": "Técnicos campeões pelo Corinthians",
         "words": [
+          "Oswaldo Brandão",
           "Tite",
           "Fábio Carille",
           "Mano Menezes"
@@ -1679,6 +1718,7 @@
       {
         "name": "Unidades de medida",
         "words": [
+          "Pascal",
           "Joule",
           "Newton",
           "Watt"
@@ -1693,11 +1733,12 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 158,
+    "moves": 126,
     "categories": [
       {
         "name": "Filmes de animação da Pixar",
         "words": [
+          "Ratatouille",
           "WALL-E",
           "Viva",
           "Divertida Mente"
@@ -1706,6 +1747,7 @@
       {
         "name": "Personagens de The Office",
         "words": [
+          "Michael Scott",
           "Dwight Schrute",
           "Jim Halpert",
           "Pam Beesly"
@@ -1714,6 +1756,7 @@
       {
         "name": "Goleiros históricos",
         "words": [
+          "Taffarel",
           "Dida",
           "Marcos",
           "Rogério Ceni"
@@ -1722,6 +1765,7 @@
       {
         "name": "Atacantes históricos do Corinthians",
         "words": [
+          "Cláudio Christóvam",
           "Baltazar",
           "Luizão",
           "Jô"
@@ -1730,6 +1774,7 @@
       {
         "name": "Fenômenos ópticos",
         "words": [
+          "Refração",
           "Difração",
           "Dispersão",
           "Polarização"
@@ -1744,11 +1789,12 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 160,
+    "moves": 128,
     "categories": [
       {
         "name": "Cinema brasileiro",
         "words": [
+          "Central do Brasil",
           "O Auto da Compadecida",
           "Cidade de Deus",
           "Que Horas Ela Volta?"
@@ -1757,6 +1803,7 @@
       {
         "name": "Personagens de The Simpsons",
         "words": [
+          "Homer Simpson",
           "Marge Simpson",
           "Bart Simpson",
           "Lisa Simpson"
@@ -1765,6 +1812,7 @@
       {
         "name": "Seleções campeãs do mundo",
         "words": [
+          "Brasil",
           "Alemanha",
           "Itália",
           "Argentina"
@@ -1773,6 +1821,7 @@
       {
         "name": "Goleiros marcantes do Corinthians",
         "words": [
+          "Cássio",
           "Ronaldo Giovanelli",
           "Dida",
           "Gylmar"
@@ -1781,6 +1830,7 @@
       {
         "name": "Cordilheiras",
         "words": [
+          "Andes",
           "Himalaia",
           "Alpes",
           "Atlas"
@@ -1795,11 +1845,12 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 162,
+    "moves": 130,
     "categories": [
       {
         "name": "Filmes vencedores da Palma de Ouro",
         "words": [
+          "Pulp Fiction",
           "Parasita",
           "Anatomia de uma Queda",
           "Triângulo da Tristeza"
@@ -1808,6 +1859,7 @@
       {
         "name": "Personagens de Breaking Bad",
         "words": [
+          "Walter White",
           "Jesse Pinkman",
           "Saul Goodman",
           "Hank Schrader"
@@ -1816,6 +1868,7 @@
       {
         "name": "Competições de clubes",
         "words": [
+          "Libertadores",
           "Sul-Americana",
           "Champions League",
           "Mundial de Clubes"
@@ -1824,6 +1877,7 @@
       {
         "name": "Personagens da Democracia Corinthiana",
         "words": [
+          "Sócrates",
           "Wladimir",
           "Casagrande",
           "Zenon"
@@ -1832,6 +1886,7 @@
       {
         "name": "Gêneros musicais brasileiros",
         "words": [
+          "Choro",
           "Maracatu",
           "Frevo",
           "Samba-reggae"
@@ -1846,11 +1901,12 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 164,
+    "moves": 132,
     "categories": [
       {
         "name": "Filmes de animação da Pixar",
         "words": [
+          "Ratatouille",
           "WALL-E",
           "Viva",
           "Divertida Mente"
@@ -1859,6 +1915,7 @@
       {
         "name": "Personagens de The Office",
         "words": [
+          "Michael Scott",
           "Dwight Schrute",
           "Jim Halpert",
           "Pam Beesly"
@@ -1867,6 +1924,7 @@
       {
         "name": "Goleiros históricos",
         "words": [
+          "Taffarel",
           "Dida",
           "Marcos",
           "Rogério Ceni"
@@ -1875,6 +1933,7 @@
       {
         "name": "Atacantes históricos do Corinthians",
         "words": [
+          "Cláudio Christóvam",
           "Baltazar",
           "Luizão",
           "Jô"
@@ -1883,6 +1942,7 @@
       {
         "name": "Fenômenos ópticos",
         "words": [
+          "Refração",
           "Difração",
           "Dispersão",
           "Polarização"
@@ -1897,11 +1957,12 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 166,
+    "moves": 134,
     "categories": [
       {
         "name": "Cinema brasileiro",
         "words": [
+          "Central do Brasil",
           "O Auto da Compadecida",
           "Cidade de Deus",
           "Que Horas Ela Volta?"
@@ -1910,6 +1971,7 @@
       {
         "name": "Personagens de The Simpsons",
         "words": [
+          "Homer Simpson",
           "Marge Simpson",
           "Bart Simpson",
           "Lisa Simpson"
@@ -1918,6 +1980,7 @@
       {
         "name": "Seleções campeãs do mundo",
         "words": [
+          "Brasil",
           "Alemanha",
           "Itália",
           "Argentina"
@@ -1926,6 +1989,7 @@
       {
         "name": "Goleiros marcantes do Corinthians",
         "words": [
+          "Cássio",
           "Ronaldo Giovanelli",
           "Dida",
           "Gylmar"
@@ -1934,6 +1998,7 @@
       {
         "name": "Cordilheiras",
         "words": [
+          "Andes",
           "Himalaia",
           "Alpes",
           "Atlas"
@@ -1948,11 +2013,12 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 168,
+    "moves": 136,
     "categories": [
       {
         "name": "Filmes vencedores da Palma de Ouro",
         "words": [
+          "Pulp Fiction",
           "Parasita",
           "Anatomia de uma Queda",
           "Triângulo da Tristeza"
@@ -1961,6 +2027,7 @@
       {
         "name": "Personagens de Breaking Bad",
         "words": [
+          "Walter White",
           "Jesse Pinkman",
           "Saul Goodman",
           "Hank Schrader"
@@ -1969,6 +2036,7 @@
       {
         "name": "Competições de clubes",
         "words": [
+          "Libertadores",
           "Sul-Americana",
           "Champions League",
           "Mundial de Clubes"
@@ -1977,6 +2045,7 @@
       {
         "name": "Personagens da Democracia Corinthiana",
         "words": [
+          "Sócrates",
           "Wladimir",
           "Casagrande",
           "Zenon"
@@ -1985,6 +2054,7 @@
       {
         "name": "Gêneros musicais brasileiros",
         "words": [
+          "Choro",
           "Maracatu",
           "Frevo",
           "Samba-reggae"
@@ -1999,11 +2069,12 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 170,
+    "moves": 138,
     "categories": [
       {
         "name": "Filmes de ficção científica",
         "words": [
+          "Blade Runner",
           "Gattaca",
           "Distrito 9",
           "Ex Machina"
@@ -2012,6 +2083,7 @@
       {
         "name": "Personagens de Friends",
         "words": [
+          "Rachel Green",
           "Ross Geller",
           "Phoebe Buffay",
           "Chandler Bing"
@@ -2020,6 +2092,7 @@
       {
         "name": "Grandes camisas 10",
         "words": [
+          "Pelé",
           "Zico",
           "Maradona",
           "Ronaldinho Gaúcho"
@@ -2028,6 +2101,7 @@
       {
         "name": "Apelidos e símbolos da torcida",
         "words": [
+          "Fiel",
           "Bando de Loucos",
           "Gaviões da Fiel",
           "Mosqueteiro"
@@ -2036,6 +2110,7 @@
       {
         "name": "Tipos de rocha",
         "words": [
+          "Ígnea",
           "Sedimentar",
           "Metamórfica",
           "Vulcânica"
@@ -2050,11 +2125,12 @@
     "packName": "Misturadas",
     "icon": "🎭",
     "color": "#fb2b9a",
-    "moves": 170,
+    "moves": 140,
     "categories": [
       {
         "name": "Filmes de Martin Scorsese",
         "words": [
+          "Taxi Driver",
           "Os Bons Companheiros",
           "Os Infiltrados",
           "O Irlandês"
@@ -2063,6 +2139,7 @@
       {
         "name": "Personagens de The Last of Us",
         "words": [
+          "Joel Miller",
           "Ellie Williams",
           "Tommy Miller",
           "Abby Anderson"
@@ -2071,6 +2148,7 @@
       {
         "name": "Fundamentos do futebol",
         "words": [
+          "Drible",
           "Cabeceio",
           "Desarme",
           "Cruzamento"
@@ -2079,6 +2157,7 @@
       {
         "name": "Ídolos do Corinthians",
         "words": [
+          "Sócrates",
           "Rivellino",
           "Marcelinho Carioca",
           "Neto"
@@ -2087,6 +2166,7 @@
       {
         "name": "Elementos químicos",
         "words": [
+          "Gálio",
           "Bromo",
           "Cobalto",
           "Xenônio"
