@@ -16,7 +16,7 @@ Cada compra, movimentação ou reciclagem do monte consome um movimento. Não h�
 
 ## Conteúdo
 
-As 40 fases ficam em [fases.json](./fases.json), separadas do código para facilitar a edição. São 24 fases gerais (60%) e 16 temáticas (40%). A dificuldade começa com 2 categorias e 6 palavras e chega a 5 categorias e 20 palavras.
+As 40 fases ficam em [fases.json](./fases.json), separadas do código para facilitar a edição. São 24 fases gerais (60%) e 16 temáticas (40%). A dificuldade progride de 2 categorias e 6 palavras para 3 categorias e 9 palavras, depois 4 categorias e 12–16 palavras e, nas fases finais, 5 categorias e 20 palavras.
 
 ### Fases temáticas para conferência
 
@@ -35,9 +35,9 @@ As 40 fases ficam em [fases.json](./fases.json), separadas do código para facil
 | 35 | ⚽ Futebol | Copas do Mundo; posições do futebol |
 | 36 | ⚽ Futebol | Termos de futebol; estádios brasileiros |
 | 37 | ⚽ Futebol | Craques brasileiros; competições |
-| 38 | ⚫ Corinthians | Ídolos corintianos; ídolos recentes |
+| 38 | ⚫ Corinthians | Ídolos corintianos; outros ídolos do Corinthians |
 | 39 | ⚫ Corinthians | Títulos; locais e torcida |
-| 40 | ⚫ Corinthians | Rivalidades paulistas; momentos marcantes |
+| 40 | ⚫ Corinthians | Clubes rivais paulistas; símbolos e momentos marcantes |
 
 As fases temáticas usam termos que podem sugerir outra associação sem repetir a mesma palavra em categorias diferentes dentro da fase — por exemplo, nomes de cidades que também aparecem em obras ou personagens, nomes de clubes que também são lugares e termos com outros sentidos cotidianos. O jogo não usa escudos, logotipos, fotografias ou artes oficiais.
 
