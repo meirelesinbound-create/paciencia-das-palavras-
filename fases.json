@@ -673,15 +673,6 @@
           "Estojo",
           "Régua"
         ]
-      },
-      {
-        "name": "Animais",
-        "words": [
-          "Onça",
-          "Capivara",
-          "Tamanduá",
-          "Lobo-guará"
-        ]
       }
     ]
   },
@@ -728,15 +719,6 @@
           "Laranja",
           "Mamão",
           "Manga"
-        ]
-      },
-      {
-        "name": "Comidas brasileiras",
-        "words": [
-          "Feijoada",
-          "Acarajé",
-          "Pamonha",
-          "Moqueca"
         ]
       }
     ]
@@ -785,15 +767,6 @@
           "Japão",
           "Portugal"
         ]
-      },
-      {
-        "name": "Vegetais",
-        "words": [
-          "Cenoura",
-          "Abobrinha",
-          "Beterraba",
-          "Chuchu"
-        ]
       }
     ]
   },
@@ -840,15 +813,6 @@
           "Flauta",
           "Pandeiro",
           "Atabaque"
-        ]
-      },
-      {
-        "name": "Oceanos e mares",
-        "words": [
-          "Atlântico",
-          "Pacífico",
-          "Mediterrâneo",
-          "Índico"
         ]
       }
     ]
@@ -897,15 +861,6 @@
           "Navio",
           "Avião"
         ]
-      },
-      {
-        "name": "Partes do corpo",
-        "words": [
-          "Cotovelo",
-          "Pulso",
-          "Calcanhar",
-          "Clavícula"
-        ]
       }
     ]
   },
@@ -953,15 +908,6 @@
           "Pinguim",
           "Sabiá"
         ]
-      },
-      {
-        "name": "Fenômenos naturais",
-        "words": [
-          "Tornado",
-          "Eclipse",
-          "Aurora",
-          "Tsunami"
-        ]
       }
     ]
   },
@@ -979,7 +925,8 @@
         "words": [
           "Walter Salles",
           "Anna Muylaert",
-          "Fernando Meirelles"
+          "Fernando Meirelles",
+          "José Padilha"
         ]
       },
       {
@@ -987,7 +934,35 @@
         "words": [
           "Ainda Estou Aqui",
           "Central do Brasil",
-          "Cidade de Deus"
+          "Cidade de Deus",
+          "O Pagador de Promessas"
+        ]
+      },
+      {
+        "name": "Frutas",
+        "words": [
+          "Banana",
+          "Laranja",
+          "Mamão",
+          "Manga"
+        ]
+      },
+      {
+        "name": "Astros",
+        "words": [
+          "Cometa",
+          "Nebulosa",
+          "Galáxia",
+          "Estrela"
+        ]
+      },
+      {
+        "name": "Esportes",
+        "words": [
+          "Natação",
+          "Judô",
+          "Vôlei",
+          "Basquete"
         ]
       }
     ]
@@ -1006,7 +981,8 @@
         "words": [
           "Christopher Nolan",
           "Greta Gerwig",
-          "Hayao Miyazaki"
+          "Hayao Miyazaki",
+          "Alfonso Cuarón"
         ]
       },
       {
@@ -1014,7 +990,35 @@
         "words": [
           "Faroeste",
           "Musical",
-          "Suspense"
+          "Suspense",
+          "Animação"
+        ]
+      },
+      {
+        "name": "Cores",
+        "words": [
+          "Violeta",
+          "Turquesa",
+          "Escarlate",
+          "Ocre"
+        ]
+      },
+      {
+        "name": "Ferramentas",
+        "words": [
+          "Martelo",
+          "Alicate",
+          "Serrote",
+          "Chave de fenda"
+        ]
+      },
+      {
+        "name": "Vegetais",
+        "words": [
+          "Cenoura",
+          "Abobrinha",
+          "Beterraba",
+          "Chuchu"
         ]
       }
     ]
@@ -1033,7 +1037,8 @@
         "words": [
           "A Origem",
           "Interestelar",
-          "Amnésia"
+          "Amnésia",
+          "Oppenheimer"
         ]
       },
       {
@@ -1041,7 +1046,35 @@
         "words": [
           "Toy Story",
           "Jurassic Park",
-          "Missão Impossível"
+          "Missão Impossível",
+          "Avatar"
+        ]
+      },
+      {
+        "name": "Países",
+        "words": [
+          "Brasil",
+          "Canadá",
+          "Japão",
+          "Portugal"
+        ]
+      },
+      {
+        "name": "Flores",
+        "words": [
+          "Girassol",
+          "Orquídea",
+          "Hibisco",
+          "Margarida"
+        ]
+      },
+      {
+        "name": "Oceanos e mares",
+        "words": [
+          "Atlântico",
+          "Pacífico",
+          "Mediterrâneo",
+          "Índico"
         ]
       }
     ]
@@ -1060,7 +1093,8 @@
         "words": [
           "Fernanda Torres",
           "Wagner Moura",
-          "Sônia Braga"
+          "Sônia Braga",
+          "Fernanda Montenegro"
         ]
       },
       {
@@ -1068,7 +1102,35 @@
         "words": [
           "O Poderoso Chefão",
           "Parasita",
-          "Moonlight"
+          "Moonlight",
+          "Tudo em Todo o Lugar ao Mesmo Tempo"
+        ]
+      },
+      {
+        "name": "Doces",
+        "words": [
+          "Brigadeiro",
+          "Quindim",
+          "Paçoca",
+          "Pé de moleque"
+        ]
+      },
+      {
+        "name": "Materiais",
+        "words": [
+          "Madeira",
+          "Cerâmica",
+          "Alumínio",
+          "Vidro"
+        ]
+      },
+      {
+        "name": "Partes do corpo",
+        "words": [
+          "Cotovelo",
+          "Pulso",
+          "Calcanhar",
+          "Clavícula"
         ]
       }
     ]
@@ -1087,7 +1149,8 @@
         "words": [
           "Walter White",
           "Jesse Pinkman",
-          "Saul Goodman"
+          "Saul Goodman",
+          "Hank Schrader"
         ]
       },
       {
@@ -1095,7 +1158,8 @@
         "words": [
           "Jon Snow",
           "Daenerys Targaryen",
-          "Tyrion Lannister"
+          "Tyrion Lannister",
+          "Arya Stark"
         ]
       },
       {
@@ -1103,7 +1167,26 @@
         "words": [
           "Mercúrio",
           "Marte",
-          "Saturno"
+          "Saturno",
+          "Netuno"
+        ]
+      },
+      {
+        "name": "Aves",
+        "words": [
+          "Arara",
+          "Tucano",
+          "Pinguim",
+          "Sabiá"
+        ]
+      },
+      {
+        "name": "Bebidas",
+        "words": [
+          "Guaraná",
+          "Chimarrão",
+          "Café",
+          "Mate"
         ]
       }
     ]
@@ -1122,7 +1205,8 @@
         "words": [
           "Eleven",
           "Dustin Henderson",
-          "Jim Hopper"
+          "Jim Hopper",
+          "Max Mayfield"
         ]
       },
       {
@@ -1130,7 +1214,8 @@
         "words": [
           "Rachel Green",
           "Ross Geller",
-          "Phoebe Buffay"
+          "Phoebe Buffay",
+          "Chandler Bing"
         ]
       },
       {
@@ -1138,7 +1223,26 @@
         "words": [
           "Martelo",
           "Alicate",
-          "Serrote"
+          "Serrote",
+          "Chave de fenda"
+        ]
+      },
+      {
+        "name": "Animais",
+        "words": [
+          "Onça",
+          "Capivara",
+          "Tamanduá",
+          "Lobo-guará"
+        ]
+      },
+      {
+        "name": "Climas",
+        "words": [
+          "Tropical",
+          "Polar",
+          "Desértico",
+          "Temperado"
         ]
       }
     ]
@@ -1157,7 +1261,8 @@
         "words": [
           "Professor",
           "Tóquio",
-          "Berlim"
+          "Berlim",
+          "Nairóbi"
         ]
       },
       {
@@ -1165,7 +1270,8 @@
         "words": [
           "Gi-hun",
           "Sang-woo",
-          "Saebyeok"
+          "Saebyeok",
+          "Il-nam"
         ]
       },
       {
@@ -1173,7 +1279,26 @@
         "words": [
           "Guaraná",
           "Chimarrão",
-          "Café"
+          "Café",
+          "Mate"
+        ]
+      },
+      {
+        "name": "Objetos escolares",
+        "words": [
+          "Caderno",
+          "Compasso",
+          "Estojo",
+          "Régua"
+        ]
+      },
+      {
+        "name": "Flores",
+        "words": [
+          "Girassol",
+          "Orquídea",
+          "Hibisco",
+          "Margarida"
         ]
       }
     ]
@@ -1192,7 +1317,8 @@
         "words": [
           "Michael Scott",
           "Dwight Schrute",
-          "Jim Halpert"
+          "Jim Halpert",
+          "Pam Beesly"
         ]
       },
       {
@@ -1200,7 +1326,8 @@
         "words": [
           "Hawkins",
           "Winterfell",
-          "Dunder Mifflin"
+          "Dunder Mifflin",
+          "King's Landing"
         ]
       },
       {
@@ -1208,7 +1335,26 @@
         "words": [
           "Girassol",
           "Orquídea",
-          "Hibisco"
+          "Hibisco",
+          "Margarida"
+        ]
+      },
+      {
+        "name": "Profissões",
+        "words": [
+          "Médica",
+          "Bombeiro",
+          "Arquiteta",
+          "Padeiro"
+        ]
+      },
+      {
+        "name": "Comidas brasileiras",
+        "words": [
+          "Feijoada",
+          "Acarajé",
+          "Pamonha",
+          "Moqueca"
         ]
       }
     ]
@@ -1227,7 +1373,8 @@
         "words": [
           "Robin",
           "Eddie",
-          "Alex"
+          "Alex",
+          "Steve"
         ]
       },
       {
@@ -1235,7 +1382,8 @@
         "words": [
           "Breaking Bad",
           "Round 6",
-          "La Casa de Papel"
+          "La Casa de Papel",
+          "Dark"
         ]
       },
       {
@@ -1243,7 +1391,26 @@
         "words": [
           "Bicicleta",
           "Metrô",
-          "Navio"
+          "Navio",
+          "Avião"
+        ]
+      },
+      {
+        "name": "Planetas",
+        "words": [
+          "Mercúrio",
+          "Marte",
+          "Saturno",
+          "Netuno"
+        ]
+      },
+      {
+        "name": "Materiais",
+        "words": [
+          "Madeira",
+          "Cerâmica",
+          "Alumínio",
+          "Vidro"
         ]
       }
     ]
@@ -1262,7 +1429,8 @@
         "words": [
           "Pelé",
           "Ronaldo Fenômeno",
-          "Marta"
+          "Marta",
+          "Zico"
         ]
       },
       {
@@ -1270,7 +1438,8 @@
         "words": [
           "Flamengo",
           "Palmeiras",
-          "Santos"
+          "Santos",
+          "Corinthians"
         ]
       },
       {
@@ -1278,7 +1447,8 @@
         "words": [
           "Brigadeiro",
           "Quindim",
-          "Paçoca"
+          "Paçoca",
+          "Pé de moleque"
         ]
       },
       {
@@ -1286,7 +1456,17 @@
         "words": [
           "Cenoura",
           "Abobrinha",
-          "Beterraba"
+          "Beterraba",
+          "Chuchu"
+        ]
+      },
+      {
+        "name": "Flores",
+        "words": [
+          "Girassol",
+          "Orquídea",
+          "Hibisco",
+          "Margarida"
         ]
       }
     ]
@@ -1305,7 +1485,8 @@
         "words": [
           "México 1970",
           "Estados Unidos 1994",
-          "Coreia-Japão 2002"
+          "Coreia-Japão 2002",
+          "Catar 2022"
         ]
       },
       {
@@ -1313,7 +1494,8 @@
         "words": [
           "Goleiro",
           "Zagueiro",
-          "Atacante"
+          "Atacante",
+          "Lateral"
         ]
       },
       {
@@ -1321,7 +1503,8 @@
         "words": [
           "Onça",
           "Capivara",
-          "Tamanduá"
+          "Tamanduá",
+          "Lobo-guará"
         ]
       },
       {
@@ -1329,7 +1512,17 @@
         "words": [
           "Brasil",
           "Canadá",
-          "Japão"
+          "Japão",
+          "Portugal"
+        ]
+      },
+      {
+        "name": "Cores",
+        "words": [
+          "Violeta",
+          "Turquesa",
+          "Escarlate",
+          "Ocre"
         ]
       }
     ]
@@ -1348,7 +1541,8 @@
         "words": [
           "Impedimento",
           "Escanteio",
-          "Pênalti"
+          "Pênalti",
+          "Tiro de meta"
         ]
       },
       {
@@ -1356,7 +1550,8 @@
         "words": [
           "Maracanã",
           "Mineirão",
-          "Morumbi"
+          "Morumbi",
+          "Arena Fonte Nova"
         ]
       },
       {
@@ -1364,7 +1559,8 @@
         "words": [
           "Médica",
           "Bombeiro",
-          "Arquiteta"
+          "Arquiteta",
+          "Padeiro"
         ]
       },
       {
@@ -1372,7 +1568,17 @@
         "words": [
           "Madeira",
           "Cerâmica",
-          "Alumínio"
+          "Alumínio",
+          "Vidro"
+        ]
+      },
+      {
+        "name": "Bebidas",
+        "words": [
+          "Guaraná",
+          "Chimarrão",
+          "Café",
+          "Mate"
         ]
       }
     ]
@@ -1391,7 +1597,8 @@
         "words": [
           "Zico",
           "Romário",
-          "Ronaldinho Gaúcho"
+          "Ronaldinho Gaúcho",
+          "Neymar"
         ]
       },
       {
@@ -1399,7 +1606,8 @@
         "words": [
           "Libertadores",
           "Copa do Brasil",
-          "Brasileirão"
+          "Brasileirão",
+          "Sul-Americana"
         ]
       },
       {
@@ -1407,7 +1615,8 @@
         "words": [
           "Banana",
           "Laranja",
-          "Mamão"
+          "Mamão",
+          "Manga"
         ]
       },
       {
@@ -1415,7 +1624,17 @@
         "words": [
           "Violão",
           "Flauta",
-          "Pandeiro"
+          "Pandeiro",
+          "Atabaque"
+        ]
+      },
+      {
+        "name": "Aves",
+        "words": [
+          "Arara",
+          "Tucano",
+          "Pinguim",
+          "Sabiá"
         ]
       }
     ]
