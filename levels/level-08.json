@@ -1,0 +1,56 @@
+{
+  "id": 8,
+  "title": "Desafio 08",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 46,
+  "categories": [
+    {
+      "name": "Fenômenos ópticos",
+      "words": [
+        "Refração",
+        "Difração",
+        "Dispersão"
+      ],
+      "icone": "eye"
+    },
+    {
+      "name": "Personagens de The Office",
+      "words": [
+        "Michael Scott",
+        "Dwight Schrute",
+        "Jim Halpert"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Goleiros históricos",
+      "words": [
+        "Taffarel",
+        "Dida",
+        "Marcos"
+      ],
+      "icone": "glove"
+    },
+    {
+      "name": "Movimentos literários",
+      "words": [
+        "Barroco",
+        "Arcadismo",
+        "Romantismo"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Pintores impressionistas",
+      "words": [
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Edgar Degas",
+        "Camille Pissarro"
+      ],
+      "icone": "palette"
+    }
+  ],
+  "hiddenCategories": 1
+}
