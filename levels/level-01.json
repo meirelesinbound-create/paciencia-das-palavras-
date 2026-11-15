@@ -1,0 +1,55 @@
+{
+  "id": 1,
+  "title": "Desafio 01",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 49,
+  "categories": [
+    {
+      "name": "Biomas brasileiros",
+      "words": [
+        "Caatinga",
+        "Cerrado",
+        "Pantanal"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Filmes de Christopher Nolan",
+      "words": [
+        "Amnésia",
+        "O Grande Truque",
+        "A Origem"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Rivais paulistas",
+      "words": [
+        "Palmeiras",
+        "São Paulo",
+        "Santos"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Termos da astronomia",
+      "words": [
+        "Periélio",
+        "Afélio",
+        "Eclíptica"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Posições do futebol",
+      "words": [
+        "Goleiro",
+        "Zagueiro",
+        "Lateral"
+      ],
+      "icone": "book"
+    }
+  ],
+  "hiddenCategories": 0
+}
