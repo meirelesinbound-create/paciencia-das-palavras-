@@ -1,0 +1,55 @@
+{
+  "id": 7,
+  "title": "Desafio 07",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 46,
+  "categories": [
+    {
+      "name": "Unidades de medida",
+      "words": [
+        "Pascal",
+        "Joule",
+        "Newton"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Copas do Mundo",
+      "words": [
+        "México 1970",
+        "Espanha 1982",
+        "Estados Unidos 1994"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Técnicos campeões pelo Corinthians",
+      "words": [
+        "Oswaldo Brandão",
+        "Tite",
+        "Fábio Carille"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Filmes da franquia Alien",
+      "words": [
+        "Alien: O Oitavo Passageiro",
+        "Aliens",
+        "Alien 3"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Personagens de Lost",
+      "words": [
+        "Jack Shephard",
+        "Kate Austen",
+        "Sawyer"
+      ],
+      "icone": "clapper"
+    }
+  ],
+  "hiddenCategories": 0
+}
