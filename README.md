@@ -29,11 +29,11 @@ As 40 fases ficam em [fases.json](./fases.json), separadas do código para facil
 | 29 | 📺 Séries | Breaking Bad; Game of Thrones |
 | 30 | 📺 Séries | Stranger Things; Friends |
 | 31 | 📺 Séries | La Casa de Papel; Round 6 |
-| 32 | 📺 Séries | The Office; locais de séries |
+| 32 | 📺 Séries | The Office; locais e organizações de séries |
 | 33 | 📺 Séries | Personagens com nomes que se repetem; séries de suspense |
 | 34 | ⚽ Futebol | Seleção brasileira; clubes brasileiros |
 | 35 | ⚽ Futebol | Copas do Mundo; posições do futebol |
-| 36 | ⚽ Futebol | Termos de futebol; estádios brasileiros |
+| 36 | ⚽ Futebol | Termos de futebol; estádios brasileiros (incluindo MorumBIS) |
 | 37 | ⚽ Futebol | Craques brasileiros; competições |
 | 38 | ⚫ Corinthians | Ídolos corintianos; outros ídolos do Corinthians |
 | 39 | ⚫ Corinthians | Títulos; locais e torcida |
