@@ -1,0 +1,60 @@
+{
+  "id": 26,
+  "title": "Desafio 26",
+  "pack": "cinema",
+  "packName": "Cinema",
+  "moves": 49,
+  "categories": [
+    {
+      "name": "Biomas brasileiros",
+      "words": [
+        "Caatinga",
+        "Cerrado",
+        "Pantanal",
+        "Pampa"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Finais marcantes do Corinthians",
+      "words": [
+        "Mundial 2000",
+        "Libertadores 2012",
+        "Paulistão 1977",
+        "Copa do Brasil 2009"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Filmes de Christopher Nolan",
+      "words": [
+        "Amnésia",
+        "O Grande Truque",
+        "A Origem",
+        "Interestelar"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Personagens de Stranger Things",
+      "words": [
+        "Eleven",
+        "Dustin Henderson",
+        "Jim Hopper",
+        "Max Mayfield"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Estádios brasileiros",
+      "words": [
+        "Maracanã",
+        "Mineirão",
+        "Arena Fonte Nova",
+        "Beira-Rio"
+      ],
+      "icone": "ball"
+    }
+  ],
+  "hiddenCategories": 1
+}
