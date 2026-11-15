@@ -1,0 +1,60 @@
+{
+  "id": 19,
+  "title": "Desafio 19",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 51,
+  "categories": [
+    {
+      "name": "Escolas filosóficas",
+      "words": [
+        "Estoicismo",
+        "Epicurismo",
+        "Ceticismo",
+        "Existencialismo"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Termos de arbitragem",
+      "words": [
+        "Impedimento",
+        "Vantagem",
+        "Cartão amarelo",
+        "Cartão vermelho"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Locais ligados ao Corinthians",
+      "words": [
+        "Neo Química Arena",
+        "Parque São Jorge",
+        "Fazendinha",
+        "Ponte Grande"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Filmes do universo Star Wars",
+      "words": [
+        "Uma Nova Esperança",
+        "O Império Contra-Ataca",
+        "O Retorno de Jedi",
+        "Rogue One"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Personagens de Batman",
+      "words": [
+        "Bruce Wayne",
+        "Alfred Pennyworth",
+        "James Gordon",
+        "Selina Kyle"
+      ],
+      "icone": "clapper"
+    }
+  ],
+  "hiddenCategories": 1
+}
