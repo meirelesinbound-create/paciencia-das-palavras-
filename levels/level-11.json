@@ -1,0 +1,56 @@
+{
+  "id": 11,
+  "title": "Desafio 11",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 47,
+  "categories": [
+    {
+      "name": "Classes gramaticais",
+      "words": [
+        "Substantivo",
+        "Verbo",
+        "Adjetivo",
+        "Advérbio"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Goleiros históricos",
+      "words": [
+        "Taffarel",
+        "Dida",
+        "Marcos"
+      ],
+      "icone": "glove"
+    },
+    {
+      "name": "Atacantes históricos do Corinthians",
+      "words": [
+        "Cláudio Christóvam",
+        "Baltazar",
+        "Luizão"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Personagens de Breaking Bad",
+      "words": [
+        "Walter White",
+        "Jesse Pinkman",
+        "Saul Goodman"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Competições de clubes",
+      "words": [
+        "Libertadores",
+        "Sul-Americana",
+        "Champions League"
+      ],
+      "icone": "ball"
+    }
+  ],
+  "hiddenCategories": 1
+}
