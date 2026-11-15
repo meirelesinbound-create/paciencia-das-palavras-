@@ -1,0 +1,60 @@
+{
+  "id": 18,
+  "title": "Desafio 18",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 52,
+  "categories": [
+    {
+      "name": "Elementos químicos",
+      "words": [
+        "Gálio",
+        "Bromo",
+        "Cobalto",
+        "Xenônio"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Tipos de massa",
+      "words": [
+        "Penne",
+        "Fusilli",
+        "Farfalle",
+        "Rigatoni"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Pães de diferentes países",
+      "words": [
+        "Baguete",
+        "Ciabatta",
+        "Pita",
+        "Pretzel"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Personagens de The Last of Us",
+      "words": [
+        "Joel Miller",
+        "Ellie Williams",
+        "Tommy Miller",
+        "Abby Anderson"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Seleções campeãs do mundo",
+      "words": [
+        "Brasil",
+        "Alemanha",
+        "Itália",
+        "Argentina"
+      ],
+      "icone": "clapper"
+    }
+  ],
+  "hiddenCategories": 0
+}
