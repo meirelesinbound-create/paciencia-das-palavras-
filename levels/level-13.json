@@ -1,0 +1,59 @@
+{
+  "id": 13,
+  "title": "Desafio 13",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 50,
+  "categories": [
+    {
+      "name": "Missões espaciais",
+      "words": [
+        "Apollo 11",
+        "Voyager 1",
+        "Curiosity",
+        "Perseverance"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Filmes vencedores da Palma de Ouro",
+      "words": [
+        "Pulp Fiction",
+        "Parasita",
+        "Anatomia de uma Queda",
+        "Triângulo da Tristeza"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Personagens de Breaking Bad",
+      "words": [
+        "Walter White",
+        "Jesse Pinkman",
+        "Saul Goodman",
+        "Hank Schrader"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Tipos de café",
+      "words": [
+        "Espresso",
+        "Cappuccino",
+        "Latte",
+        "Macchiato"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Locais ligados ao Corinthians",
+      "words": [
+        "Neo Química Arena",
+        "Parque São Jorge",
+        "Fazendinha"
+      ],
+      "icone": "ball"
+    }
+  ],
+  "hiddenCategories": 1
+}
