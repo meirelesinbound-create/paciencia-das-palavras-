@@ -1,0 +1,60 @@
+{
+  "id": 29,
+  "title": "Desafio 29",
+  "pack": "series",
+  "packName": "Séries de TV",
+  "moves": 47,
+  "categories": [
+    {
+      "name": "Unidades de medida",
+      "words": [
+        "Pascal",
+        "Joule",
+        "Newton",
+        "Watt"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Filmes com viagem no tempo",
+      "words": [
+        "De Volta para o Futuro",
+        "12 Macacos",
+        "Primer",
+        "Looper"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Personagens de Game of Thrones",
+      "words": [
+        "Jon Snow",
+        "Daenerys Targaryen",
+        "Tyrion Lannister",
+        "Arya Stark"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Copas do Mundo",
+      "words": [
+        "México 1970",
+        "Espanha 1982",
+        "Estados Unidos 1994",
+        "Coreia-Japão 2002"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Técnicos campeões pelo Corinthians",
+      "words": [
+        "Oswaldo Brandão",
+        "Tite",
+        "Fábio Carille",
+        "Mano Menezes"
+      ],
+      "icone": "ball"
+    }
+  ],
+  "hiddenCategories": 0
+}
