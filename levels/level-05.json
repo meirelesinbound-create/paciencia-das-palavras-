@@ -1,0 +1,55 @@
+{
+  "id": 5,
+  "title": "Desafio 05",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 47,
+  "categories": [
+    {
+      "name": "Fenômenos ópticos",
+      "words": [
+        "Refração",
+        "Difração",
+        "Dispersão"
+      ],
+      "icone": "eye"
+    },
+    {
+      "name": "Filmes de animação da Pixar",
+      "words": [
+        "Ratatouille",
+        "WALL-E",
+        "Viva"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Ídolos do Corinthians",
+      "words": [
+        "Sócrates",
+        "Rivellino",
+        "Marcelinho Carioca"
+      ],
+      "icone": "ball"
+    },
+    {
+      "name": "Filmes de Martin Scorsese",
+      "words": [
+        "Taxi Driver",
+        "Os Bons Companheiros",
+        "Os Infiltrados"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Grandes camisas 10",
+      "words": [
+        "Pelé",
+        "Zico",
+        "Maradona"
+      ],
+      "icone": "clapper"
+    }
+  ],
+  "hiddenCategories": 0
+}
