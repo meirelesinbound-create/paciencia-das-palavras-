@@ -19,6 +19,19 @@
 <div class="veil" id="veil"><div class="dialog"><div class="stamp" id="seal">ROTEIRO APROVADO</div><h2 id="dialogTitle">Perfeito!</h2><p id="dialogText">Todas as categorias concluídas.</p><div class="reward" id="reward">+50 🪙</div><div class="btnrow"><button class="btn primary" id="continue">Continuar</button><button class="btn" id="menuReturn">Menu</button></div></div></div>
 </main>
 <script>
+/* Captura falhas que aconteçam antes dos listeners do jogo serem registrados. */
+window.addEventListener('error',event=>{
+  const status=document.getElementById('bootStatus');
+  if(status)status.textContent='Erro ao iniciar: '+(event.message||'falha de JavaScript')+'. Envie esta mensagem para o suporte.';
+  console.error('Falha precoce no Paciência do Roteirista:',event.error||event.message);
+});
+window.addEventListener('unhandledrejection',event=>{
+  const status=document.getElementById('bootStatus');
+  if(status)status.textContent='Falha de inicialização: '+String(event.reason?.message||event.reason||'erro desconhecido');
+  console.error('Rejeição precoce no Paciência do Roteirista:',event.reason);
+});
+</script>
+<script>
 const $=s=>document.querySelector(s);
 const localStorage=(()=>{
   let backend=null;
