@@ -6,7 +6,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 17,
+    "moves": 49,
     "categories": [
       {
         "name": "Frutas",
@@ -33,7 +33,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 17,
+    "moves": 52,
     "categories": [
       {
         "name": "Países",
@@ -60,7 +60,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 17,
+    "moves": 55,
     "categories": [
       {
         "name": "Instrumentos musicais",
@@ -87,7 +87,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 17,
+    "moves": 59,
     "categories": [
       {
         "name": "Meios de transporte",
@@ -114,7 +114,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 17,
+    "moves": 62,
     "categories": [
       {
         "name": "Aves",
@@ -141,7 +141,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 17,
+    "moves": 65,
     "categories": [
       {
         "name": "Ferramentas",
@@ -168,7 +168,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 26,
+    "moves": 73,
     "categories": [
       {
         "name": "Materiais",
@@ -203,7 +203,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 26,
+    "moves": 76,
     "categories": [
       {
         "name": "Objetos escolares",
@@ -238,7 +238,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 26,
+    "moves": 79,
     "categories": [
       {
         "name": "Frutas",
@@ -273,7 +273,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 26,
+    "moves": 82,
     "categories": [
       {
         "name": "Países",
@@ -308,7 +308,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 26,
+    "moves": 86,
     "categories": [
       {
         "name": "Instrumentos musicais",
@@ -343,7 +343,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 26,
+    "moves": 89,
     "categories": [
       {
         "name": "Meios de transporte",
@@ -378,7 +378,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 34,
+    "moves": 96,
     "categories": [
       {
         "name": "Aves",
@@ -421,7 +421,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 34,
+    "moves": 100,
     "categories": [
       {
         "name": "Ferramentas",
@@ -464,7 +464,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 34,
+    "moves": 103,
     "categories": [
       {
         "name": "Materiais",
@@ -507,7 +507,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 34,
+    "moves": 106,
     "categories": [
       {
         "name": "Objetos escolares",
@@ -550,7 +550,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 34,
+    "moves": 109,
     "categories": [
       {
         "name": "Frutas",
@@ -593,7 +593,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 34,
+    "moves": 112,
     "categories": [
       {
         "name": "Países",
@@ -636,7 +636,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 54,
+    "moves": 122,
     "categories": [
       {
         "name": "Instrumentos musicais",
@@ -683,7 +683,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 54,
+    "moves": 125,
     "categories": [
       {
         "name": "Meios de transporte",
@@ -730,7 +730,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 54,
+    "moves": 128,
     "categories": [
       {
         "name": "Aves",
@@ -777,7 +777,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 54,
+    "moves": 131,
     "categories": [
       {
         "name": "Ferramentas",
@@ -824,7 +824,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 54,
+    "moves": 134,
     "categories": [
       {
         "name": "Materiais",
@@ -871,7 +871,7 @@
     "packName": "Clássicos",
     "icon": "🧩",
     "color": "#5b8def",
-    "moves": 54,
+    "moves": 138,
     "categories": [
       {
         "name": "Objetos escolares",
@@ -918,7 +918,7 @@
     "packName": "Cinema",
     "icon": "🎬",
     "color": "#b95d3d",
-    "moves": 30,
+    "moves": 147,
     "categories": [
       {
         "name": "Diretores brasileiros",
@@ -974,7 +974,7 @@
     "packName": "Cinema",
     "icon": "🎬",
     "color": "#b95d3d",
-    "moves": 30,
+    "moves": 150,
     "categories": [
       {
         "name": "Diretores internacionais",
@@ -1030,7 +1030,7 @@
     "packName": "Cinema",
     "icon": "🎬",
     "color": "#b95d3d",
-    "moves": 30,
+    "moves": 153,
     "categories": [
       {
         "name": "Filmes de Christopher Nolan",
@@ -1086,7 +1086,7 @@
     "packName": "Cinema",
     "icon": "🎬",
     "color": "#b95d3d",
-    "moves": 30,
+    "moves": 156,
     "categories": [
       {
         "name": "Atores e atrizes",
@@ -1142,7 +1142,7 @@
     "packName": "Séries de TV",
     "icon": "📺",
     "color": "#6d5bd0",
-    "moves": 30,
+    "moves": 160,
     "categories": [
       {
         "name": "Breaking Bad",
@@ -1198,7 +1198,7 @@
     "packName": "Séries de TV",
     "icon": "📺",
     "color": "#6d5bd0",
-    "moves": 30,
+    "moves": 163,
     "categories": [
       {
         "name": "Stranger Things",
@@ -1254,7 +1254,7 @@
     "packName": "Séries de TV",
     "icon": "📺",
     "color": "#6d5bd0",
-    "moves": 30,
+    "moves": 166,
     "categories": [
       {
         "name": "La Casa de Papel",
@@ -1310,7 +1310,7 @@
     "packName": "Séries de TV",
     "icon": "📺",
     "color": "#6d5bd0",
-    "moves": 30,
+    "moves": 169,
     "categories": [
       {
         "name": "The Office",
@@ -1366,7 +1366,7 @@
     "packName": "Séries de TV",
     "icon": "📺",
     "color": "#6d5bd0",
-    "moves": 30,
+    "moves": 172,
     "categories": [
       {
         "name": "Personagens que confundem",
@@ -1422,7 +1422,7 @@
     "packName": "Futebol",
     "icon": "⚽",
     "color": "#21865b",
-    "moves": 30,
+    "moves": 176,
     "categories": [
       {
         "name": "Seleção brasileira",
@@ -1478,7 +1478,7 @@
     "packName": "Futebol",
     "icon": "⚽",
     "color": "#21865b",
-    "moves": 30,
+    "moves": 179,
     "categories": [
       {
         "name": "Copas do Mundo",
@@ -1534,7 +1534,7 @@
     "packName": "Futebol",
     "icon": "⚽",
     "color": "#21865b",
-    "moves": 30,
+    "moves": 182,
     "categories": [
       {
         "name": "Termos de futebol",
@@ -1590,7 +1590,7 @@
     "packName": "Futebol",
     "icon": "⚽",
     "color": "#21865b",
-    "moves": 30,
+    "moves": 185,
     "categories": [
       {
         "name": "Craques brasileiros",
@@ -1646,7 +1646,7 @@
     "packName": "Corinthians",
     "icon": "⚫",
     "color": "#252525",
-    "moves": 30,
+    "moves": 188,
     "categories": [
       {
         "name": "Ídolos corintianos",
@@ -1702,7 +1702,7 @@
     "packName": "Corinthians",
     "icon": "⚫",
     "color": "#252525",
-    "moves": 30,
+    "moves": 190,
     "categories": [
       {
         "name": "Títulos do Corinthians",
@@ -1758,7 +1758,7 @@
     "packName": "Corinthians",
     "icon": "⚫",
     "color": "#252525",
-    "moves": 30,
+    "moves": 190,
     "categories": [
       {
         "name": "Clubes rivais paulistas",
