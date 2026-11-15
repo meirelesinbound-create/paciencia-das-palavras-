@@ -9,48 +9,43 @@
     "moves": 49,
     "categories": [
       {
-        "name": "Capitais sul-americanas",
+        "name": "Biomas brasileiros",
         "words": [
-          "Buenos Aires",
-          "Lima",
-          "Quito",
-          "Santiago"
+          "Caatinga",
+          "Cerrado",
+          "Pantanal"
         ]
       },
       {
-        "name": "Pintores impressionistas",
+        "name": "Filmes de Christopher Nolan",
         "words": [
-          "Claude Monet",
-          "Pierre-Auguste Renoir",
-          "Edgar Degas",
-          "Camille Pissarro"
+          "Amnésia",
+          "O Grande Truque",
+          "A Origem"
         ]
       },
       {
-        "name": "Tipos de nuvens",
+        "name": "Rivais paulistas",
         "words": [
-          "Cirrus",
-          "Cumulus",
-          "Stratus",
-          "Cumulonimbus"
+          "Palmeiras",
+          "São Paulo",
+          "Santos"
         ]
       },
       {
-        "name": "Países nórdicos",
+        "name": "Termos da astronomia",
         "words": [
-          "Noruega",
-          "Suécia",
-          "Dinamarca",
-          "Finlândia"
+          "Periélio",
+          "Afélio",
+          "Eclíptica"
         ]
       },
       {
-        "name": "Classes gramaticais",
+        "name": "Posições do futebol",
         "words": [
-          "Substantivo",
-          "Verbo",
-          "Adjetivo",
-          "Advérbio"
+          "Goleiro",
+          "Zagueiro",
+          "Lateral"
         ]
       }
     ],
@@ -66,48 +61,43 @@
     "moves": 49,
     "categories": [
       {
-        "name": "Correntes filosóficas",
+        "name": "Movimentos literários",
         "words": [
-          "Estoicismo",
-          "Epicurismo",
-          "Existencialismo",
-          "Niilismo"
+          "Barroco",
+          "Arcadismo",
+          "Romantismo"
         ]
       },
       {
-        "name": "Missões espaciais",
+        "name": "Rivais paulistas",
         "words": [
-          "Apollo 11",
-          "Voyager 1",
-          "Curiosity",
-          "Perseverance"
+          "Palmeiras",
+          "São Paulo",
+          "Santos"
         ]
       },
       {
-        "name": "Tipos de café",
+        "name": "Títulos do Corinthians",
         "words": [
-          "Espresso",
-          "Cappuccino",
-          "Latte",
-          "Macchiato"
+          "Libertadores 2012",
+          "Mundial 2000",
+          "Mundial 2012"
         ]
       },
       {
-        "name": "Personagens de Arcane",
+        "name": "Copas do Mundo",
         "words": [
-          "Vi",
-          "Jinx",
-          "Caitlyn",
-          "Jayce"
+          "México 1970",
+          "Espanha 1982",
+          "Estados Unidos 1994"
         ]
       },
       {
-        "name": "Filmes do Studio Ghibli",
+        "name": "Técnicos campeões pelo Corinthians",
         "words": [
-          "A Viagem de Chihiro",
-          "Meu Amigo Totoro",
-          "Princesa Mononoke",
-          "O Castelo Animado"
+          "Oswaldo Brandão",
+          "Tite",
+          "Fábio Carille"
         ]
       }
     ],
@@ -123,48 +113,43 @@
     "moves": 48,
     "categories": [
       {
-        "name": "Personagens de The Bear",
+        "name": "Termos da astronomia",
         "words": [
-          "Carmy Berzatto",
-          "Sydney Adamu",
-          "Richie Jerimovich",
-          "Tina Marrero"
+          "Periélio",
+          "Afélio",
+          "Eclíptica"
         ]
       },
       {
-        "name": "Jogos da FromSoftware",
+        "name": "Posições do futebol",
         "words": [
-          "Dark Souls",
-          "Bloodborne",
-          "Sekiro",
-          "Elden Ring"
+          "Goleiro",
+          "Zagueiro",
+          "Lateral"
         ]
       },
       {
-        "name": "Consoles clássicos",
+        "name": "Personagens de The Simpsons",
         "words": [
-          "Super Nintendo",
-          "Mega Drive",
-          "PlayStation 2",
-          "Dreamcast"
+          "Homer Simpson",
+          "Marge Simpson",
+          "Bart Simpson"
         ]
       },
       {
-        "name": "Modalidades olímpicas de combate",
+        "name": "Gêneros musicais brasileiros",
         "words": [
-          "Judô",
-          "Esgrima",
-          "Taekwondo",
-          "Boxe"
+          "Choro",
+          "Maracatu",
+          "Frevo"
         ]
       },
       {
-        "name": "Biomas mundiais",
+        "name": "Personagens da Democracia Corinthiana",
         "words": [
-          "Tundra",
-          "Savana",
-          "Taiga",
-          "Deserto"
+          "Sócrates",
+          "Wladimir",
+          "Casagrande"
         ]
       }
     ],
@@ -180,48 +165,43 @@
     "moves": 48,
     "categories": [
       {
-        "name": "Peças de Shakespeare",
+        "name": "Unidades de medida",
         "words": [
-          "Hamlet",
-          "Macbeth",
-          "Otelo",
-          "Rei Lear"
+          "Pascal",
+          "Joule",
+          "Newton"
         ]
       },
       {
-        "name": "Tipos de massa",
+        "name": "Personagens de Game of Thrones",
         "words": [
-          "Penne",
-          "Fusilli",
-          "Farfalle",
-          "Rigatoni"
+          "Jon Snow",
+          "Daenerys Targaryen",
+          "Tyrion Lannister"
         ]
       },
       {
-        "name": "Tipos de pão",
+        "name": "Competições de clubes",
         "words": [
-          "Baguete",
-          "Ciabatta",
-          "Focaccia",
-          "Pão de fermentação natural"
+          "Libertadores",
+          "Sul-Americana",
+          "Champions League"
         ]
       },
       {
-        "name": "Personagens de Batman",
+        "name": "Tipos de rocha",
         "words": [
-          "Bruce Wayne",
-          "Alfred Pennyworth",
-          "James Gordon",
-          "Selina Kyle"
+          "Ígnea",
+          "Sedimentar",
+          "Metamórfica"
         ]
       },
       {
-        "name": "Filmes da franquia Matrix",
+        "name": "Apelidos e símbolos da torcida",
         "words": [
-          "Matrix",
-          "Matrix Reloaded",
-          "Matrix Revolutions",
-          "Matrix Resurrections"
+          "Fiel",
+          "Bando de Loucos",
+          "Gaviões da Fiel"
         ]
       }
     ],
@@ -237,48 +217,43 @@
     "moves": 47,
     "categories": [
       {
-        "name": "Semifinalistas da Copa de 2022",
+        "name": "Fenômenos ópticos",
         "words": [
-          "Argentina",
-          "França",
-          "Croácia",
-          "Marrocos"
+          "Refração",
+          "Difração",
+          "Dispersão"
         ]
       },
       {
-        "name": "Frutas cítricas",
+        "name": "Filmes de animação da Pixar",
         "words": [
-          "Limão",
-          "Laranja",
-          "Tangerina",
-          "Toranja"
+          "Ratatouille",
+          "WALL-E",
+          "Viva"
         ]
       },
       {
-        "name": "Fontes de energia",
+        "name": "Ídolos do Corinthians",
         "words": [
-          "Solar",
-          "Eólica",
-          "Hidrelétrica",
-          "Geotérmica"
+          "Sócrates",
+          "Rivellino",
+          "Marcelinho Carioca"
         ]
       },
       {
-        "name": "Etapas da produção audiovisual",
+        "name": "Filmes de Martin Scorsese",
         "words": [
-          "Pré-produção",
-          "Produção",
-          "Pós-produção",
-          "Distribuição"
+          "Taxi Driver",
+          "Os Bons Companheiros",
+          "Os Infiltrados"
         ]
       },
       {
-        "name": "Personagens de Harry Potter",
+        "name": "Grandes camisas 10",
         "words": [
-          "Harry Potter",
-          "Hermione Granger",
-          "Ron Weasley",
-          "Albus Dumbledore"
+          "Pelé",
+          "Zico",
+          "Maradona"
         ]
       }
     ],
@@ -294,39 +269,36 @@
     "moves": 47,
     "categories": [
       {
-        "name": "Personagens de Succession",
+        "name": "Capitais sul-americanas",
         "words": [
-          "Logan Roy",
-          "Kendall Roy",
-          "Shiv Roy",
-          "Roman Roy"
+          "Buenos Aires",
+          "Lima",
+          "Quito",
+          "Santiago"
         ]
       },
       {
-        "name": "Tipos de dança de salão",
+        "name": "Títulos do Corinthians",
         "words": [
-          "Samba de gafieira",
-          "Bolero",
-          "Forró",
-          "Tango"
+          "Libertadores 2012",
+          "Mundial 2000",
+          "Mundial 2012"
         ]
       },
       {
-        "name": "Personagens de videogames",
+        "name": "Filmes do universo Star Wars",
         "words": [
-          "Lara Croft",
-          "Sonic",
-          "Kratos",
-          "Master Chief"
+          "Uma Nova Esperança",
+          "O Império Contra-Ataca",
+          "O Retorno de Jedi"
         ]
       },
       {
-        "name": "Navegadores históricos",
+        "name": "Personagens de Stranger Things",
         "words": [
-          "Vasco da Gama",
-          "Fernão de Magalhães",
-          "Bartolomeu Dias",
-          "James Cook"
+          "Eleven",
+          "Dustin Henderson",
+          "Jim Hopper"
         ]
       },
       {
@@ -434,11 +406,12 @@
         ]
       },
       {
-        "name": "Rivais paulistas",
+        "name": "Pintores impressionistas",
         "words": [
-          "Palmeiras",
-          "São Paulo",
-          "Santos"
+          "Claude Monet",
+          "Pierre-Auguste Renoir",
+          "Edgar Degas",
+          "Camille Pissarro"
         ]
       }
     ],
@@ -486,11 +459,12 @@
         ]
       },
       {
-        "name": "Títulos do Corinthians",
+        "name": "Tipos de nuvens",
         "words": [
-          "Libertadores 2012",
-          "Mundial 2000",
-          "Mundial 2012"
+          "Cirrus",
+          "Cumulus",
+          "Stratus",
+          "Cumulonimbus"
         ]
       }
     ],
@@ -538,11 +512,12 @@
         ]
       },
       {
-        "name": "Personagens de The Simpsons",
+        "name": "Países nórdicos",
         "words": [
-          "Homer Simpson",
-          "Marge Simpson",
-          "Bart Simpson"
+          "Noruega",
+          "Suécia",
+          "Dinamarca",
+          "Finlândia"
         ]
       }
     ],
@@ -558,12 +533,12 @@
     "moves": 47,
     "categories": [
       {
-        "name": "Fenômenos ópticos",
+        "name": "Classes gramaticais",
         "words": [
-          "Refração",
-          "Difração",
-          "Dispersão",
-          "Polarização"
+          "Substantivo",
+          "Verbo",
+          "Adjetivo",
+          "Advérbio"
         ]
       },
       {
@@ -620,12 +595,12 @@
         ]
       },
       {
-        "name": "Personagens de The Simpsons",
+        "name": "Correntes filosóficas",
         "words": [
-          "Homer Simpson",
-          "Marge Simpson",
-          "Bart Simpson",
-          "Lisa Simpson"
+          "Estoicismo",
+          "Epicurismo",
+          "Existencialismo",
+          "Niilismo"
         ]
       },
       {
@@ -665,12 +640,12 @@
     "moves": 50,
     "categories": [
       {
-        "name": "Gêneros musicais brasileiros",
+        "name": "Missões espaciais",
         "words": [
-          "Choro",
-          "Maracatu",
-          "Frevo",
-          "Samba-reggae"
+          "Apollo 11",
+          "Voyager 1",
+          "Curiosity",
+          "Perseverance"
         ]
       },
       {
@@ -692,11 +667,12 @@
         ]
       },
       {
-        "name": "Competições de clubes",
+        "name": "Tipos de café",
         "words": [
-          "Libertadores",
-          "Sul-Americana",
-          "Champions League"
+          "Espresso",
+          "Cappuccino",
+          "Latte",
+          "Macchiato"
         ]
       },
       {
@@ -794,12 +770,12 @@
         ]
       },
       {
-        "name": "Ídolos do Corinthians",
+        "name": "Personagens de Arcane",
         "words": [
-          "Sócrates",
-          "Rivellino",
-          "Marcelinho Carioca",
-          "Neto"
+          "Vi",
+          "Jinx",
+          "Caitlyn",
+          "Jayce"
         ]
       },
       {
@@ -833,48 +809,48 @@
     "moves": 53,
     "categories": [
       {
-        "name": "Gêneros musicais brasileiros",
+        "name": "Filmes do Studio Ghibli",
         "words": [
-          "Choro",
-          "Maracatu",
-          "Frevo",
-          "Samba-reggae"
+          "A Viagem de Chihiro",
+          "Meu Amigo Totoro",
+          "Princesa Mononoke",
+          "O Castelo Animado"
         ]
       },
       {
-        "name": "Personagens de Breaking Bad",
+        "name": "Personagens de The Bear",
         "words": [
-          "Walter White",
-          "Jesse Pinkman",
-          "Saul Goodman",
-          "Hank Schrader"
+          "Carmy Berzatto",
+          "Sydney Adamu",
+          "Richie Jerimovich",
+          "Tina Marrero"
         ]
       },
       {
-        "name": "Competições de clubes",
+        "name": "Jogos da FromSoftware",
         "words": [
-          "Libertadores",
-          "Sul-Americana",
-          "Champions League",
-          "Mundial de Clubes"
+          "Dark Souls",
+          "Bloodborne",
+          "Sekiro",
+          "Elden Ring"
         ]
       },
       {
-        "name": "Personagens da Democracia Corinthiana",
+        "name": "Consoles clássicos",
         "words": [
-          "Sócrates",
-          "Wladimir",
-          "Casagrande",
-          "Zenon"
+          "Super Nintendo",
+          "Mega Drive",
+          "PlayStation 2",
+          "Dreamcast"
         ]
       },
       {
-        "name": "Fenômenos ópticos",
+        "name": "Modalidades olímpicas de combate",
         "words": [
-          "Refração",
-          "Difração",
-          "Dispersão",
-          "Polarização"
+          "Judô",
+          "Esgrima",
+          "Taekwondo",
+          "Boxe"
         ]
       }
     ],
@@ -890,12 +866,12 @@
     "moves": 52,
     "categories": [
       {
-        "name": "Tipos de rocha",
+        "name": "Biomas mundiais",
         "words": [
-          "Ígnea",
-          "Sedimentar",
-          "Metamórfica",
-          "Vulcânica"
+          "Tundra",
+          "Savana",
+          "Taiga",
+          "Deserto"
         ]
       },
       {
@@ -926,12 +902,12 @@
         ]
       },
       {
-        "name": "Cordilheiras",
+        "name": "Peças de Shakespeare",
         "words": [
-          "Andes",
-          "Himalaia",
-          "Alpes",
-          "Atlas"
+          "Hamlet",
+          "Macbeth",
+          "Otelo",
+          "Rei Lear"
         ]
       }
     ],
@@ -956,21 +932,21 @@
         ]
       },
       {
-        "name": "Ídolos do Corinthians",
+        "name": "Tipos de massa",
         "words": [
-          "Sócrates",
-          "Rivellino",
-          "Marcelinho Carioca",
-          "Neto"
+          "Penne",
+          "Fusilli",
+          "Farfalle",
+          "Rigatoni"
         ]
       },
       {
-        "name": "Filmes de Martin Scorsese",
+        "name": "Pães de diferentes países",
         "words": [
-          "Taxi Driver",
-          "Os Bons Companheiros",
-          "Os Infiltrados",
-          "O Irlandês"
+          "Baguete",
+          "Ciabatta",
+          "Pita",
+          "Pretzel"
         ]
       },
       {
@@ -1040,12 +1016,12 @@
         ]
       },
       {
-        "name": "Elementos químicos",
+        "name": "Personagens de Batman",
         "words": [
-          "Gálio",
-          "Bromo",
-          "Cobalto",
-          "Xenônio"
+          "Bruce Wayne",
+          "Alfred Pennyworth",
+          "James Gordon",
+          "Selina Kyle"
         ]
       }
     ],
@@ -1118,21 +1094,21 @@
     "moves": 51,
     "categories": [
       {
-        "name": "Elementos químicos",
+        "name": "Filmes da franquia Matrix",
         "words": [
-          "Gálio",
-          "Bromo",
-          "Cobalto",
-          "Xenônio"
+          "Matrix",
+          "Matrix Reloaded",
+          "Matrix Revolutions",
+          "Matrix Resurrections"
         ]
       },
       {
-        "name": "Filmes de Martin Scorsese",
+        "name": "Semifinalistas da Copa de 2022",
         "words": [
-          "Taxi Driver",
-          "Os Bons Companheiros",
-          "Os Infiltrados",
-          "O Irlandês"
+          "Argentina",
+          "França",
+          "Croácia",
+          "Marrocos"
         ]
       },
       {
@@ -1145,12 +1121,12 @@
         ]
       },
       {
-        "name": "Fundamentos do futebol",
+        "name": "Frutas cítricas",
         "words": [
-          "Drible",
-          "Cabeceio",
-          "Desarme",
-          "Cruzamento"
+          "Limão",
+          "Laranja",
+          "Tangerina",
+          "Toranja"
         ]
       },
       {
@@ -1184,21 +1160,21 @@
         ]
       },
       {
-        "name": "Locais ligados ao Corinthians",
+        "name": "Fontes de energia",
         "words": [
-          "Neo Química Arena",
-          "Parque São Jorge",
-          "Fazendinha",
-          "Ponte Grande"
+          "Solar",
+          "Eólica",
+          "Hidrelétrica",
+          "Geotérmica"
         ]
       },
       {
-        "name": "Filmes do universo Star Wars",
+        "name": "Etapas da produção audiovisual",
         "words": [
-          "Uma Nova Esperança",
-          "O Império Contra-Ataca",
-          "O Retorno de Jedi",
-          "Rogue One"
+          "Pré-produção",
+          "Produção",
+          "Pós-produção",
+          "Distribuição"
         ]
       },
       {
@@ -1211,12 +1187,12 @@
         ]
       },
       {
-        "name": "Biomas brasileiros",
+        "name": "Personagens de Harry Potter",
         "words": [
-          "Caatinga",
-          "Cerrado",
-          "Pantanal",
-          "Pampa"
+          "Harry Potter",
+          "Hermione Granger",
+          "Ron Weasley",
+          "Albus Dumbledore"
         ]
       }
     ],
@@ -1232,21 +1208,21 @@
     "moves": 50,
     "categories": [
       {
-        "name": "Biomas brasileiros",
+        "name": "Personagens de Succession",
         "words": [
-          "Caatinga",
-          "Cerrado",
-          "Pantanal",
-          "Pampa"
+          "Logan Roy",
+          "Kendall Roy",
+          "Shiv Roy",
+          "Roman Roy"
         ]
       },
       {
-        "name": "Estádios brasileiros",
+        "name": "Tipos de dança de salão",
         "words": [
-          "Maracanã",
-          "Mineirão",
-          "Arena Fonte Nova",
-          "Beira-Rio"
+          "Samba de gafieira",
+          "Bolero",
+          "Forró",
+          "Tango"
         ]
       },
       {
@@ -1259,12 +1235,12 @@
         ]
       },
       {
-        "name": "Filmes de Christopher Nolan",
+        "name": "Personagens de videogames",
         "words": [
-          "Amnésia",
-          "O Grande Truque",
-          "A Origem",
-          "Interestelar"
+          "Lara Croft",
+          "Sonic",
+          "Kratos",
+          "Master Chief"
         ]
       },
       {
@@ -1289,12 +1265,12 @@
     "moves": 49,
     "categories": [
       {
-        "name": "Movimentos literários",
+        "name": "Navegadores históricos",
         "words": [
-          "Barroco",
-          "Arcadismo",
-          "Romantismo",
-          "Modernismo"
+          "Vasco da Gama",
+          "Fernão de Magalhães",
+          "Bartolomeu Dias",
+          "James Cook"
         ]
       },
       {
