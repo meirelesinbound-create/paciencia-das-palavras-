@@ -1,0 +1,60 @@
+{
+  "id": 22,
+  "title": "Desafio 22",
+  "pack": "geral",
+  "packName": "Clássicos",
+  "moves": 50,
+  "categories": [
+    {
+      "name": "Escolas filosóficas",
+      "words": [
+        "Estoicismo",
+        "Epicurismo",
+        "Ceticismo",
+        "Existencialismo"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Fontes de energia",
+      "words": [
+        "Solar",
+        "Eólica",
+        "Hidrelétrica",
+        "Geotérmica"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Etapas da produção audiovisual",
+      "words": [
+        "Pré-produção",
+        "Produção",
+        "Pós-produção",
+        "Distribuição"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Séries de ficção científica",
+      "words": [
+        "Black Mirror",
+        "Dark",
+        "Westworld",
+        "Fringe"
+      ],
+      "icone": "mic"
+    },
+    {
+      "name": "Personagens de Harry Potter",
+      "words": [
+        "Harry Potter",
+        "Hermione Granger",
+        "Ron Weasley",
+        "Albus Dumbledore"
+      ],
+      "icone": "clapper"
+    }
+  ],
+  "hiddenCategories": 2
+}
