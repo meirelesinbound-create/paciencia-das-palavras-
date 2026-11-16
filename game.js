@@ -24,7 +24,6 @@
  // Assim, os cinco montes têm profundidade e cartas de temas diferentes,
  // sem revelar uma resposta antes que sua categoria possa ser descoberta.
  const crossUnderVisible=Array.from({length:5},()=>[]);
- const crossCursor=Array(5).fill(0);
  for(let pos=0;pos<visible.length&&buried.length;pos++){
   for(let offset=0;offset<buried.length;offset++){
    const ci=buried[(pos+offset)%buried.length];
