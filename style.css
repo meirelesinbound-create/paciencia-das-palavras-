@@ -6,3 +6,8 @@
 .game-card.dragging{opacity:.18!important;transform:none!important;}
 body.dragging-card{cursor:grabbing;user-select:none;}
 body.dragging-card *{cursor:grabbing!important;}
+
+#wastePile .game-card{width:48px;height:62px;max-height:62px;min-height:0;padding:3px;border-radius:7px;}
+#wastePile .game-card.word{font-size:8px;line-height:1.1;}
+#wastePile .game-card.category{font-size:9px;gap:2px;}
+#wastePile .game-card.category svg{width:15px;height:15px;}
