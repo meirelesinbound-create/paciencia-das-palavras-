@@ -11,3 +11,51 @@ body.dragging-card *{cursor:grabbing!important;}
 #wastePile .game-card.word{font-size:8px;line-height:1.1;}
 #wastePile .game-card.category{font-size:9px;gap:2px;}
 #wastePile .game-card.category svg{width:15px;height:15px;}
+
+
+/* Layout responsivo: a mesa ocupa o espaço real disponível no aparelho */
+html,body{height:100%;overflow:hidden}
+.app{height:100dvh;min-height:0;overflow:hidden;padding-bottom:calc(8px + var(--safe))}
+main{display:flex;flex:1;flex-direction:column;min-height:0;width:100%}
+.screen{width:100%;min-height:0}
+.home-screen{min-height:0;overflow-y:auto}
+#scenes{overflow:hidden}
+.scene-list{min-height:0;overflow-y:auto}
+.game-screen{height:auto;min-height:0;flex:1;--card-height:clamp(72px,13dvh,116px)}
+.game-support{min-height:clamp(58px,9dvh,78px)}
+.category-slots{min-height:clamp(62px,10dvh,82px);margin-top:1px;margin-bottom:6px}
+.game-card{height:var(--card-height);max-height:var(--card-height);min-height:0}
+.column .game-card+.game-card{margin-top:calc(-1 * (var(--card-height) - 25px))}
+.game-bottom{height:clamp(56px,8dvh,70px);min-height:56px;padding-bottom:3px}
+@media (orientation:landscape) and (max-height:600px){
+ .app{width:100%;max-width:900px;padding:calc(5px + env(safe-area-inset-top)) calc(14px + env(safe-area-inset-right)) calc(5px + var(--safe)) calc(14px + env(safe-area-inset-left))}
+ .game-screen{--card-height:clamp(54px,14dvh,76px)}
+ .game-hud{height:42px;min-height:42px}
+ .game-hud .menu-trigger{width:38px;height:38px}
+ .scene-heading strong{font-size:21px}
+ .game-support{grid-template-columns:82px 1fr 48px 48px;gap:7px;min-height:52px}
+ .moves-pill{padding:4px 6px}
+ .moves-pill b{font-size:25px}
+ .game-support p{font-size:9px;line-height:1.25}
+ .waste-pile{height:50px}
+ .draw-pile{width:46px;height:48px}
+ .category-slots{min-height:58px;margin:1px 0 5px;gap:5px}
+ .slot-label{font-size:9px;min-height:28px;padding:3px 1px}
+ .slot-label svg{width:12px;height:12px}
+ .slot-progress{font-size:8px}
+ .column .game-card+.game-card{margin-top:calc(-1 * (var(--card-height) - 15px))}
+ .game-card.word{font-size:clamp(8px,1.35vw,10px)}
+ .game-card.category{font-size:11px;gap:3px}
+ .game-card.category svg{width:20px;height:20px}
+ .game-bottom{height:52px;min-height:52px;padding:3px 0 0;gap:7px}
+ .tool-button{min-height:44px}
+ .tool-icon{width:16px;height:16px}
+ .tool-button b{font-size:9px}
+ .tool-button small{font-size:7px}
+}
+@media (max-height:700px) and (orientation:portrait){
+ .game-screen{--card-height:clamp(76px,14dvh,98px)}
+ .game-support{min-height:62px}
+ .category-slots{min-height:66px}
+ .game-bottom{height:58px;min-height:58px}
+}
