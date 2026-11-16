@@ -2,54 +2,59 @@
   "id": 1,
   "title": "Desafio 01",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 49,
+  "packName": "Conhecimentos gerais",
+  "moves": 52,
   "categories": [
     {
       "name": "Biomas brasileiros",
       "words": [
         "Caatinga",
         "Cerrado",
-        "Pantanal"
+        "Pantanal",
+        "Pampa"
       ],
       "icone": "globe"
     },
     {
-      "name": "Filmes de Christopher Nolan",
+      "name": "Elementos químicos",
       "words": [
-        "Amnésia",
-        "O Grande Truque",
-        "A Origem"
+        "Gálio",
+        "Bromo",
+        "Cobalto",
+        "Xenônio"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Gêneros musicais brasileiros",
+      "words": [
+        "Choro",
+        "Maracatu",
+        "Frevo",
+        "Samba-reggae"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Filmes de animação da Pixar",
+      "words": [
+        "Ratatouille",
+        "WALL-E",
+        "Viva",
+        "Divertida Mente"
       ],
       "icone": "film"
     },
     {
-      "name": "Rivais paulistas",
+      "name": "Grand Slams do tênis",
       "words": [
-        "Palmeiras",
-        "São Paulo",
-        "Santos"
+        "Australian Open",
+        "Roland Garros",
+        "Wimbledon",
+        "US Open"
       ],
       "icone": "ball"
-    },
-    {
-      "name": "Termos da astronomia",
-      "words": [
-        "Periélio",
-        "Afélio",
-        "Eclíptica"
-      ],
-      "icone": "book"
-    },
-    {
-      "name": "Posições do futebol",
-      "words": [
-        "Goleiro",
-        "Zagueiro",
-        "Lateral"
-      ],
-      "icone": "book"
     }
   ],
-  "hiddenCategories": 0
+  "hiddenCategories": 1
 }

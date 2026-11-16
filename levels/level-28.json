@@ -1,10 +1,20 @@
 {
   "id": 28,
   "title": "Desafio 28",
-  "pack": "cinema",
-  "packName": "Cinema",
-  "moves": 48,
+  "pack": "geral",
+  "packName": "Conhecimentos gerais",
+  "moves": 46,
   "categories": [
+    {
+      "name": "Revoluções históricas",
+      "words": [
+        "Revolução Francesa",
+        "Revolução Haitiana",
+        "Revolução Russa",
+        "Revolução Industrial"
+      ],
+      "icone": "globe"
+    },
     {
       "name": "Termos da astronomia",
       "words": [
@@ -16,45 +26,35 @@
       "icone": "book"
     },
     {
-      "name": "Personagens de Lost",
+      "name": "Correntes filosóficas",
       "words": [
-        "Jack Shephard",
-        "Kate Austen",
-        "Sawyer",
-        "John Locke"
+        "Estoicismo",
+        "Epicurismo",
+        "Existencialismo",
+        "Niilismo"
       ],
-      "icone": "clapper"
+      "icone": "book"
     },
     {
-      "name": "Posições do futebol",
+      "name": "Filmes de Martin Scorsese",
       "words": [
-        "Goleiro",
-        "Zagueiro",
-        "Lateral",
-        "Volante"
-      ],
-      "icone": "ball"
-    },
-    {
-      "name": "Títulos do Corinthians",
-      "words": [
-        "Libertadores 2012",
-        "Mundial 2000",
-        "Mundial 2012",
-        "Brasileirão 2015"
-      ],
-      "icone": "ball"
-    },
-    {
-      "name": "Filmes da franquia Alien",
-      "words": [
-        "Alien: O Oitavo Passageiro",
-        "Aliens",
-        "Alien 3",
-        "Prometheus"
+        "Taxi Driver",
+        "Os Bons Companheiros",
+        "Os Infiltrados",
+        "O Irlandês"
       ],
       "icone": "film"
+    },
+    {
+      "name": "Modalidades com raquete",
+      "words": [
+        "Tênis",
+        "Badminton",
+        "Squash",
+        "Padel"
+      ],
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 1
+  "hiddenCategories": 4
 }

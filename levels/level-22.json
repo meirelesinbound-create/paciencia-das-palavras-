@@ -2,59 +2,59 @@
   "id": 22,
   "title": "Desafio 22",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 50,
+  "packName": "Conhecimentos gerais",
+  "moves": 48,
   "categories": [
     {
-      "name": "Escolas filosóficas",
+      "name": "Biomas mundiais",
       "words": [
-        "Estoicismo",
-        "Epicurismo",
-        "Ceticismo",
-        "Existencialismo"
+        "Tundra",
+        "Savana",
+        "Taiga",
+        "Floresta temperada"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Tipos de rocha",
+      "words": [
+        "Ígnea",
+        "Sedimentar",
+        "Metamórfica",
+        "Vulcânica"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Formas poéticas",
+      "words": [
+        "Soneto",
+        "Haicai",
+        "Cordel",
+        "Ode"
       ],
       "icone": "book"
     },
     {
-      "name": "Fontes de energia",
+      "name": "Filmes do Studio Ghibli",
       "words": [
-        "Solar",
-        "Eólica",
-        "Hidrelétrica",
-        "Geotérmica"
+        "A Viagem de Chihiro",
+        "Meu Amigo Totoro",
+        "Princesa Mononoke",
+        "O Castelo Animado"
       ],
-      "icone": "clapper"
+      "icone": "film"
     },
     {
-      "name": "Etapas da produção audiovisual",
+      "name": "Modalidades olímpicas de combate",
       "words": [
-        "Pré-produção",
-        "Produção",
-        "Pós-produção",
-        "Distribuição"
+        "Judô",
+        "Esgrima",
+        "Taekwondo",
+        "Boxe"
       ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Séries de ficção científica",
-      "words": [
-        "Black Mirror",
-        "Dark",
-        "Westworld",
-        "Fringe"
-      ],
-      "icone": "mic"
-    },
-    {
-      "name": "Personagens de Harry Potter",
-      "words": [
-        "Harry Potter",
-        "Hermione Granger",
-        "Ron Weasley",
-        "Albus Dumbledore"
-      ],
-      "icone": "clapper"
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 2
+  "hiddenCategories": 3
 }

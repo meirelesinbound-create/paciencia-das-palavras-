@@ -1,60 +1,60 @@
 {
   "id": 33,
   "title": "Desafio 33",
-  "pack": "series",
-  "packName": "Séries de TV",
+  "pack": "geral",
+  "packName": "Conhecimentos gerais",
   "moves": 46,
   "categories": [
     {
-      "name": "Fenômenos ópticos",
+      "name": "Capitais sul-americanas",
       "words": [
-        "Refração",
-        "Difração",
-        "Dispersão",
-        "Polarização"
+        "Buenos Aires",
+        "Lima",
+        "Quito",
+        "Santiago"
       ],
-      "icone": "eye"
+      "icone": "globe"
     },
     {
-      "name": "Filmes de animação da Pixar",
+      "name": "Tipos de nuvens",
       "words": [
-        "Ratatouille",
-        "WALL-E",
-        "Viva",
-        "Divertida Mente"
+        "Cirrus",
+        "Cumulus",
+        "Stratus",
+        "Cumulonimbus"
       ],
-      "icone": "film"
+      "icone": "globe"
     },
     {
-      "name": "Personagens de The Office",
+      "name": "Escritores brasileiros",
       "words": [
-        "Michael Scott",
-        "Dwight Schrute",
-        "Jim Halpert",
-        "Pam Beesly"
+        "Machado de Assis",
+        "Clarice Lispector",
+        "Jorge Amado",
+        "Carolina Maria de Jesus"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Personagens de Game of Thrones",
+      "words": [
+        "Jon Snow",
+        "Daenerys Targaryen",
+        "Tyrion Lannister",
+        "Arya Stark"
       ],
       "icone": "clapper"
     },
     {
-      "name": "Goleiros históricos",
+      "name": "Copas do Mundo",
       "words": [
-        "Taffarel",
-        "Dida",
-        "Marcos",
-        "Rogério Ceni"
-      ],
-      "icone": "glove"
-    },
-    {
-      "name": "Atacantes históricos do Corinthians",
-      "words": [
-        "Cláudio Christóvam",
-        "Baltazar",
-        "Luizão",
-        "Jô"
+        "México 1970",
+        "Espanha 1982",
+        "Estados Unidos 1994",
+        "Coreia-Japão 2002"
       ],
       "icone": "ball"
     }
   ],
-  "hiddenCategories": 1
+  "hiddenCategories": 4
 }

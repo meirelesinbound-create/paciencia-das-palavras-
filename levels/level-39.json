@@ -1,60 +1,60 @@
 {
   "id": 39,
   "title": "Desafio 39",
-  "pack": "corinthians",
-  "packName": "Corinthians",
-  "moves": 43,
+  "pack": "geral",
+  "packName": "Conhecimentos gerais",
+  "moves": 46,
   "categories": [
     {
-      "name": "Tipos de rocha",
+      "name": "Oceanos",
       "words": [
-        "Ígnea",
-        "Sedimentar",
-        "Metamórfica",
-        "Vulcânica"
+        "Pacífico",
+        "Atlântico",
+        "Índico",
+        "Ártico"
       ],
       "icone": "globe"
     },
     {
-      "name": "Grandes camisas 10",
+      "name": "Missões espaciais",
       "words": [
-        "Pelé",
-        "Zico",
-        "Maradona",
-        "Ronaldinho Gaúcho"
+        "Apollo 11",
+        "Voyager 1",
+        "Curiosity",
+        "Perseverance"
+      ],
+      "icone": "eye"
+    },
+    {
+      "name": "Movimentos artísticos",
+      "words": [
+        "Cubismo",
+        "Surrealismo",
+        "Expressionismo",
+        "Futurismo"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Personagens de Batman",
+      "words": [
+        "Bruce Wayne",
+        "Alfred Pennyworth",
+        "James Gordon",
+        "Selina Kyle"
       ],
       "icone": "clapper"
     },
     {
-      "name": "Apelidos e símbolos da torcida",
+      "name": "Ligas de basquete",
       "words": [
-        "Fiel",
-        "Bando de Loucos",
-        "Gaviões da Fiel",
-        "Mosqueteiro"
+        "NBA",
+        "NBB",
+        "EuroLeague",
+        "WNBA"
       ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Filmes de ficção científica",
-      "words": [
-        "Blade Runner",
-        "Gattaca",
-        "Distrito 9",
-        "Ex Machina"
-      ],
-      "icone": "film"
-    },
-    {
-      "name": "Personagens de Friends",
-      "words": [
-        "Rachel Green",
-        "Ross Geller",
-        "Phoebe Buffay",
-        "Chandler Bing"
-      ],
-      "icone": "clapper"
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 1
+  "hiddenCategories": 4
 }

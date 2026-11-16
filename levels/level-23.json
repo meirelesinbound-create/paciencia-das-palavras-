@@ -2,59 +2,59 @@
   "id": 23,
   "title": "Desafio 23",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 50,
+  "packName": "Conhecimentos gerais",
+  "moves": 48,
   "categories": [
     {
-      "name": "Personagens de Succession",
+      "name": "Capitais sul-americanas",
       "words": [
-        "Logan Roy",
-        "Kendall Roy",
-        "Shiv Roy",
-        "Roman Roy"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Tipos de dança de salão",
-      "words": [
-        "Samba de gafieira",
-        "Bolero",
-        "Forró",
-        "Tango"
+        "Buenos Aires",
+        "Lima",
+        "Quito",
+        "Santiago"
       ],
       "icone": "globe"
     },
     {
-      "name": "Finais marcantes do Corinthians",
+      "name": "Tipos de nuvens",
       "words": [
-        "Mundial 2000",
-        "Libertadores 2012",
-        "Paulistão 1977",
-        "Copa do Brasil 2009"
+        "Cirrus",
+        "Cumulus",
+        "Stratus",
+        "Cumulonimbus"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Escritores brasileiros",
+      "words": [
+        "Machado de Assis",
+        "Clarice Lispector",
+        "Jorge Amado",
+        "Carolina Maria de Jesus"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Jogos da FromSoftware",
+      "words": [
+        "Dark Souls",
+        "Bloodborne",
+        "Sekiro",
+        "Elden Ring"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Copas do Mundo",
+      "words": [
+        "México 1970",
+        "Espanha 1982",
+        "Estados Unidos 1994",
+        "Coreia-Japão 2002"
       ],
       "icone": "ball"
-    },
-    {
-      "name": "Personagens de videogames",
-      "words": [
-        "Lara Croft",
-        "Sonic",
-        "Kratos",
-        "Master Chief"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Personagens de Game of Thrones",
-      "words": [
-        "Jon Snow",
-        "Daenerys Targaryen",
-        "Tyrion Lannister",
-        "Arya Stark"
-      ],
-      "icone": "clapper"
     }
   ],
-  "hiddenCategories": 1
+  "hiddenCategories": 3
 }

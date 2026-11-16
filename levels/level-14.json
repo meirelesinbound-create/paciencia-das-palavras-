@@ -2,58 +2,59 @@
   "id": 14,
   "title": "Desafio 14",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 52,
+  "packName": "Conhecimentos gerais",
+  "moves": 50,
   "categories": [
     {
-      "name": "Tipos de rocha",
+      "name": "Cordilheiras",
       "words": [
-        "Ígnea",
-        "Sedimentar",
-        "Metamórfica",
-        "Vulcânica"
+        "Andes",
+        "Himalaia",
+        "Alpes",
+        "Atlas"
       ],
       "icone": "globe"
     },
     {
-      "name": "Apelidos e símbolos da torcida",
+      "name": "Fenômenos ópticos",
       "words": [
-        "Fiel",
-        "Bando de Loucos",
-        "Gaviões da Fiel",
-        "Mosqueteiro"
+        "Refração",
+        "Difração",
+        "Dispersão",
+        "Polarização"
+      ],
+      "icone": "eye"
+    },
+    {
+      "name": "Pintores impressionistas",
+      "words": [
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Edgar Degas",
+        "Camille Pissarro"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Personagens de videogames",
+      "words": [
+        "Lara Croft",
+        "Sonic",
+        "Kratos",
+        "Master Chief"
       ],
       "icone": "clapper"
     },
     {
-      "name": "Filmes de ficção científica",
+      "name": "Goleiros históricos",
       "words": [
-        "Blade Runner",
-        "Gattaca",
-        "Distrito 9",
-        "Ex Machina"
-      ],
-      "icone": "film"
-    },
-    {
-      "name": "Personagens de Friends",
-      "words": [
-        "Rachel Green",
-        "Ross Geller",
-        "Phoebe Buffay",
-        "Chandler Bing"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Clubes campeões da Libertadores",
-      "words": [
-        "Boca Juniors",
-        "River Plate",
-        "Peñarol"
+        "Taffarel",
+        "Dida",
+        "Marcos",
+        "Rogério Ceni"
       ],
       "icone": "ball"
     }
   ],
-  "hiddenCategories": 0
+  "hiddenCategories": 2
 }

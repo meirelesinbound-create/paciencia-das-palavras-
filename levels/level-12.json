@@ -2,53 +2,56 @@
   "id": 12,
   "title": "Desafio 12",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 48,
+  "packName": "Conhecimentos gerais",
+  "moves": 50,
   "categories": [
     {
-      "name": "Cordilheiras",
+      "name": "Biomas mundiais",
       "words": [
-        "Andes",
-        "Himalaia",
-        "Alpes",
-        "Atlas"
+        "Tundra",
+        "Savana",
+        "Taiga",
+        "Floresta temperada"
       ],
       "icone": "globe"
     },
     {
-      "name": "Correntes filosóficas",
+      "name": "Tipos de rocha",
       "words": [
-        "Estoicismo",
-        "Epicurismo",
-        "Existencialismo",
-        "Niilismo"
+        "Ígnea",
+        "Sedimentar",
+        "Metamórfica",
+        "Vulcânica"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Formas poéticas",
+      "words": [
+        "Soneto",
+        "Haicai",
+        "Cordel",
+        "Ode"
       ],
       "icone": "book"
     },
     {
-      "name": "Seleções campeãs do mundo",
+      "name": "Personagens de Breaking Bad",
       "words": [
-        "Brasil",
-        "Alemanha",
-        "Itália"
+        "Walter White",
+        "Jesse Pinkman",
+        "Saul Goodman",
+        "Hank Schrader"
       ],
       "icone": "clapper"
-    },
-    {
-      "name": "Fundamentos do futebol",
-      "words": [
-        "Drible",
-        "Cabeceio",
-        "Desarme"
-      ],
-      "icone": "book"
     },
     {
       "name": "Ídolos do Corinthians",
       "words": [
         "Sócrates",
         "Rivellino",
-        "Marcelinho Carioca"
+        "Marcelinho Carioca",
+        "Neto"
       ],
       "icone": "ball"
     }

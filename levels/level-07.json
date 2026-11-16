@@ -2,54 +2,59 @@
   "id": 7,
   "title": "Desafio 07",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 46,
+  "packName": "Conhecimentos gerais",
+  "moves": 50,
   "categories": [
     {
-      "name": "Unidades de medida",
+      "name": "Civilizações antigas",
       "words": [
-        "Pascal",
-        "Joule",
-        "Newton"
+        "Egito Antigo",
+        "Mesopotâmia",
+        "Império Romano",
+        "Império Maia"
       ],
-      "icone": "clapper"
+      "icone": "globe"
     },
     {
-      "name": "Copas do Mundo",
+      "name": "Partes do átomo",
       "words": [
-        "México 1970",
-        "Espanha 1982",
-        "Estados Unidos 1994"
+        "Próton",
+        "Nêutron",
+        "Elétron",
+        "Núcleo"
       ],
-      "icone": "ball"
+      "icone": "eye"
     },
     {
-      "name": "Técnicos campeões pelo Corinthians",
+      "name": "Peças de Shakespeare",
       "words": [
-        "Oswaldo Brandão",
-        "Tite",
-        "Fábio Carille"
+        "Hamlet",
+        "Macbeth",
+        "Otelo",
+        "Rei Lear"
       ],
-      "icone": "ball"
+      "icone": "book"
     },
     {
-      "name": "Filmes da franquia Alien",
+      "name": "Filmes da franquia Matrix",
       "words": [
-        "Alien: O Oitavo Passageiro",
-        "Aliens",
-        "Alien 3"
+        "Matrix",
+        "Matrix Reloaded",
+        "Matrix Revolutions",
+        "Matrix Resurrections"
       ],
       "icone": "film"
     },
     {
-      "name": "Personagens de Lost",
+      "name": "Posições do futebol",
       "words": [
-        "Jack Shephard",
-        "Kate Austen",
-        "Sawyer"
+        "Goleiro",
+        "Zagueiro",
+        "Lateral",
+        "Volante"
       ],
-      "icone": "clapper"
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 0
+  "hiddenCategories": 2
 }

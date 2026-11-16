@@ -1,60 +1,60 @@
 {
   "id": 35,
   "title": "Desafio 35",
-  "pack": "futebol",
-  "packName": "Futebol",
-  "moves": 45,
+  "pack": "geral",
+  "packName": "Conhecimentos gerais",
+  "moves": 46,
   "categories": [
     {
-      "name": "Gêneros musicais brasileiros",
+      "name": "Países nórdicos",
       "words": [
-        "Choro",
-        "Maracatu",
-        "Frevo",
-        "Samba-reggae"
+        "Noruega",
+        "Suécia",
+        "Dinamarca",
+        "Finlândia"
       ],
       "icone": "globe"
     },
     {
-      "name": "Competições de clubes",
+      "name": "Unidades de medida",
       "words": [
-        "Libertadores",
-        "Sul-Americana",
-        "Champions League",
-        "Mundial de Clubes"
+        "Pascal",
+        "Joule",
+        "Newton",
+        "Watt"
       ],
-      "icone": "ball"
+      "icone": "book"
     },
     {
-      "name": "Personagens da Democracia Corinthiana",
+      "name": "Movimentos literários",
       "words": [
-        "Sócrates",
-        "Wladimir",
-        "Casagrande",
-        "Zenon"
+        "Barroco",
+        "Arcadismo",
+        "Romantismo",
+        "Modernismo"
       ],
-      "icone": "clapper"
+      "icone": "book"
     },
     {
-      "name": "Filmes vencedores da Palma de Ouro",
+      "name": "Filmes de Christopher Nolan",
       "words": [
-        "Pulp Fiction",
-        "Parasita",
-        "Anatomia de uma Queda",
-        "Triângulo da Tristeza"
+        "Amnésia",
+        "O Grande Truque",
+        "A Origem",
+        "Interestelar"
       ],
       "icone": "film"
     },
     {
-      "name": "Personagens de Breaking Bad",
+      "name": "Grandes camisas 10",
       "words": [
-        "Walter White",
-        "Jesse Pinkman",
-        "Saul Goodman",
-        "Hank Schrader"
+        "Pelé",
+        "Zico",
+        "Maradona",
+        "Ronaldinho Gaúcho"
       ],
-      "icone": "clapper"
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 1
+  "hiddenCategories": 4
 }

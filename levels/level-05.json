@@ -2,54 +2,59 @@
   "id": 5,
   "title": "Desafio 05",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 47,
+  "packName": "Conhecimentos gerais",
+  "moves": 52,
   "categories": [
     {
-      "name": "Fenômenos ópticos",
+      "name": "Países nórdicos",
       "words": [
-        "Refração",
-        "Difração",
-        "Dispersão"
+        "Noruega",
+        "Suécia",
+        "Dinamarca",
+        "Finlândia"
       ],
-      "icone": "eye"
+      "icone": "globe"
     },
     {
-      "name": "Filmes de animação da Pixar",
+      "name": "Unidades de medida",
       "words": [
-        "Ratatouille",
-        "WALL-E",
-        "Viva"
+        "Pascal",
+        "Joule",
+        "Newton",
+        "Watt"
       ],
-      "icone": "film"
+      "icone": "book"
     },
     {
-      "name": "Ídolos do Corinthians",
+      "name": "Movimentos literários",
       "words": [
-        "Sócrates",
-        "Rivellino",
-        "Marcelinho Carioca"
+        "Barroco",
+        "Arcadismo",
+        "Romantismo",
+        "Modernismo"
       ],
-      "icone": "ball"
+      "icone": "book"
     },
     {
-      "name": "Filmes de Martin Scorsese",
+      "name": "Personagens de Lost",
       "words": [
-        "Taxi Driver",
-        "Os Bons Companheiros",
-        "Os Infiltrados"
+        "Jack Shephard",
+        "Kate Austen",
+        "Sawyer",
+        "John Locke"
       ],
-      "icone": "film"
+      "icone": "clapper"
     },
     {
       "name": "Grandes camisas 10",
       "words": [
         "Pelé",
         "Zico",
-        "Maradona"
+        "Maradona",
+        "Ronaldinho Gaúcho"
       ],
-      "icone": "clapper"
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 0
+  "hiddenCategories": 1
 }

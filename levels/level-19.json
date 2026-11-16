@@ -2,48 +2,38 @@
   "id": 19,
   "title": "Desafio 19",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 51,
+  "packName": "Conhecimentos gerais",
+  "moves": 48,
   "categories": [
     {
-      "name": "Escolas filosóficas",
+      "name": "Oceanos",
       "words": [
-        "Estoicismo",
-        "Epicurismo",
-        "Ceticismo",
-        "Existencialismo"
+        "Pacífico",
+        "Atlântico",
+        "Índico",
+        "Ártico"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Missões espaciais",
+      "words": [
+        "Apollo 11",
+        "Voyager 1",
+        "Curiosity",
+        "Perseverance"
+      ],
+      "icone": "eye"
+    },
+    {
+      "name": "Movimentos artísticos",
+      "words": [
+        "Cubismo",
+        "Surrealismo",
+        "Expressionismo",
+        "Futurismo"
       ],
       "icone": "book"
-    },
-    {
-      "name": "Termos de arbitragem",
-      "words": [
-        "Impedimento",
-        "Vantagem",
-        "Cartão amarelo",
-        "Cartão vermelho"
-      ],
-      "icone": "book"
-    },
-    {
-      "name": "Locais ligados ao Corinthians",
-      "words": [
-        "Neo Química Arena",
-        "Parque São Jorge",
-        "Fazendinha",
-        "Ponte Grande"
-      ],
-      "icone": "ball"
-    },
-    {
-      "name": "Filmes do universo Star Wars",
-      "words": [
-        "Uma Nova Esperança",
-        "O Império Contra-Ataca",
-        "O Retorno de Jedi",
-        "Rogue One"
-      ],
-      "icone": "film"
     },
     {
       "name": "Personagens de Batman",
@@ -54,7 +44,17 @@
         "Selina Kyle"
       ],
       "icone": "clapper"
+    },
+    {
+      "name": "Ligas de basquete",
+      "words": [
+        "NBA",
+        "NBB",
+        "EuroLeague",
+        "WNBA"
+      ],
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 1
+  "hiddenCategories": 3
 }

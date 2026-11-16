@@ -1,60 +1,60 @@
 {
   "id": 26,
   "title": "Desafio 26",
-  "pack": "cinema",
-  "packName": "Cinema",
-  "moves": 49,
+  "pack": "geral",
+  "packName": "Conhecimentos gerais",
+  "moves": 46,
   "categories": [
     {
-      "name": "Biomas brasileiros",
+      "name": "Navegadores históricos",
       "words": [
-        "Caatinga",
-        "Cerrado",
-        "Pantanal",
-        "Pampa"
+        "Vasco da Gama",
+        "Fernão de Magalhães",
+        "Bartolomeu Dias",
+        "James Cook"
       ],
       "icone": "globe"
     },
     {
-      "name": "Finais marcantes do Corinthians",
+      "name": "Fontes de energia",
       "words": [
-        "Mundial 2000",
-        "Libertadores 2012",
-        "Paulistão 1977",
-        "Copa do Brasil 2009"
+        "Solar",
+        "Eólica",
+        "Hidrelétrica",
+        "Geotérmica"
       ],
-      "icone": "ball"
+      "icone": "book"
     },
     {
-      "name": "Filmes de Christopher Nolan",
+      "name": "Compositores clássicos",
       "words": [
-        "Amnésia",
-        "O Grande Truque",
-        "A Origem",
-        "Interestelar"
+        "Bach",
+        "Mozart",
+        "Beethoven",
+        "Chopin"
       ],
-      "icone": "film"
+      "icone": "book"
     },
     {
-      "name": "Personagens de Stranger Things",
+      "name": "Personagens de The Sopranos",
       "words": [
-        "Eleven",
-        "Dustin Henderson",
-        "Jim Hopper",
-        "Max Mayfield"
+        "Tony Soprano",
+        "Carmela Soprano",
+        "Christopher Moltisanti",
+        "Paulie Gualtieri"
       ],
       "icone": "clapper"
     },
     {
-      "name": "Estádios brasileiros",
+      "name": "Competições de clubes",
       "words": [
-        "Maracanã",
-        "Mineirão",
-        "Arena Fonte Nova",
-        "Beira-Rio"
+        "Libertadores",
+        "Sul-Americana",
+        "Champions League",
+        "Mundial de Clubes"
       ],
       "icone": "ball"
     }
   ],
-  "hiddenCategories": 1
+  "hiddenCategories": 4
 }

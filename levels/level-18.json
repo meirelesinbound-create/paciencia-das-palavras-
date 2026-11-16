@@ -2,59 +2,59 @@
   "id": 18,
   "title": "Desafio 18",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 52,
+  "packName": "Conhecimentos gerais",
+  "moves": 48,
   "categories": [
     {
-      "name": "Elementos químicos",
+      "name": "Revoluções históricas",
       "words": [
-        "Gálio",
-        "Bromo",
-        "Cobalto",
-        "Xenônio"
+        "Revolução Francesa",
+        "Revolução Haitiana",
+        "Revolução Russa",
+        "Revolução Industrial"
       ],
       "icone": "globe"
     },
     {
-      "name": "Tipos de massa",
+      "name": "Termos da astronomia",
       "words": [
-        "Penne",
-        "Fusilli",
-        "Farfalle",
-        "Rigatoni"
+        "Periélio",
+        "Afélio",
+        "Eclíptica",
+        "Zênite"
       ],
-      "icone": "globe"
+      "icone": "book"
     },
     {
-      "name": "Pães de diferentes países",
+      "name": "Correntes filosóficas",
       "words": [
-        "Baguete",
-        "Ciabatta",
-        "Pita",
-        "Pretzel"
+        "Estoicismo",
+        "Epicurismo",
+        "Existencialismo",
+        "Niilismo"
       ],
-      "icone": "globe"
+      "icone": "book"
     },
     {
-      "name": "Personagens de The Last of Us",
+      "name": "Filmes da franquia Alien",
       "words": [
-        "Joel Miller",
-        "Ellie Williams",
-        "Tommy Miller",
-        "Abby Anderson"
+        "Alien: O Oitavo Passageiro",
+        "Aliens",
+        "Alien 3",
+        "Prometheus"
       ],
-      "icone": "clapper"
+      "icone": "film"
     },
     {
-      "name": "Seleções campeãs do mundo",
+      "name": "Modalidades com raquete",
       "words": [
-        "Brasil",
-        "Alemanha",
-        "Itália",
-        "Argentina"
+        "Tênis",
+        "Badminton",
+        "Squash",
+        "Padel"
       ],
-      "icone": "clapper"
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 0
+  "hiddenCategories": 3
 }

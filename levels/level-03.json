@@ -2,54 +2,59 @@
   "id": 3,
   "title": "Desafio 03",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 48,
+  "packName": "Conhecimentos gerais",
+  "moves": 52,
   "categories": [
     {
-      "name": "Termos da astronomia",
+      "name": "Capitais sul-americanas",
       "words": [
-        "Periélio",
-        "Afélio",
-        "Eclíptica"
-      ],
-      "icone": "book"
-    },
-    {
-      "name": "Posições do futebol",
-      "words": [
-        "Goleiro",
-        "Zagueiro",
-        "Lateral"
-      ],
-      "icone": "book"
-    },
-    {
-      "name": "Personagens de The Simpsons",
-      "words": [
-        "Homer Simpson",
-        "Marge Simpson",
-        "Bart Simpson"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Gêneros musicais brasileiros",
-      "words": [
-        "Choro",
-        "Maracatu",
-        "Frevo"
+        "Buenos Aires",
+        "Lima",
+        "Quito",
+        "Santiago"
       ],
       "icone": "globe"
     },
     {
-      "name": "Personagens da Democracia Corinthiana",
+      "name": "Tipos de nuvens",
       "words": [
-        "Sócrates",
-        "Wladimir",
-        "Casagrande"
+        "Cirrus",
+        "Cumulus",
+        "Stratus",
+        "Cumulonimbus"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Escritores brasileiros",
+      "words": [
+        "Machado de Assis",
+        "Clarice Lispector",
+        "Jorge Amado",
+        "Carolina Maria de Jesus"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Jogos da FromSoftware",
+      "words": [
+        "Dark Souls",
+        "Bloodborne",
+        "Sekiro",
+        "Elden Ring"
       ],
       "icone": "clapper"
+    },
+    {
+      "name": "Copas do Mundo",
+      "words": [
+        "México 1970",
+        "Espanha 1982",
+        "Estados Unidos 1994",
+        "Coreia-Japão 2002"
+      ],
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 0
+  "hiddenCategories": 1
 }

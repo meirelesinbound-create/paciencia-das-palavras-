@@ -2,59 +2,59 @@
   "id": 16,
   "title": "Desafio 16",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 53,
+  "packName": "Conhecimentos gerais",
+  "moves": 48,
   "categories": [
     {
-      "name": "Filmes do Studio Ghibli",
+      "name": "Navegadores históricos",
       "words": [
-        "A Viagem de Chihiro",
-        "Meu Amigo Totoro",
-        "Princesa Mononoke",
-        "O Castelo Animado"
+        "Vasco da Gama",
+        "Fernão de Magalhães",
+        "Bartolomeu Dias",
+        "James Cook"
       ],
-      "icone": "film"
+      "icone": "globe"
     },
     {
-      "name": "Personagens de The Bear",
+      "name": "Fontes de energia",
       "words": [
-        "Carmy Berzatto",
-        "Sydney Adamu",
-        "Richie Jerimovich",
-        "Tina Marrero"
+        "Solar",
+        "Eólica",
+        "Hidrelétrica",
+        "Geotérmica"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Compositores clássicos",
+      "words": [
+        "Bach",
+        "Mozart",
+        "Beethoven",
+        "Chopin"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Personagens de The Office",
+      "words": [
+        "Michael Scott",
+        "Dwight Schrute",
+        "Jim Halpert",
+        "Pam Beesly"
       ],
       "icone": "clapper"
     },
     {
-      "name": "Jogos da FromSoftware",
+      "name": "Competições de clubes",
       "words": [
-        "Dark Souls",
-        "Bloodborne",
-        "Sekiro",
-        "Elden Ring"
+        "Libertadores",
+        "Sul-Americana",
+        "Champions League",
+        "Mundial de Clubes"
       ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Consoles clássicos",
-      "words": [
-        "Super Nintendo",
-        "Mega Drive",
-        "PlayStation 2",
-        "Dreamcast"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Modalidades olímpicas de combate",
-      "words": [
-        "Judô",
-        "Esgrima",
-        "Taekwondo",
-        "Boxe"
-      ],
-      "icone": "clapper"
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 1
+  "hiddenCategories": 3
 }

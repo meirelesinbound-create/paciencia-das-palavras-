@@ -2,48 +2,38 @@
   "id": 15,
   "title": "Desafio 15",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 53,
+  "packName": "Conhecimentos gerais",
+  "moves": 50,
   "categories": [
     {
-      "name": "Elementos químicos",
+      "name": "Países nórdicos",
       "words": [
-        "Gálio",
-        "Bromo",
-        "Cobalto",
-        "Xenônio"
+        "Noruega",
+        "Suécia",
+        "Dinamarca",
+        "Finlândia"
       ],
       "icone": "globe"
     },
     {
-      "name": "Fundamentos do futebol",
+      "name": "Unidades de medida",
       "words": [
-        "Drible",
-        "Cabeceio",
-        "Desarme",
-        "Cruzamento"
+        "Pascal",
+        "Joule",
+        "Newton",
+        "Watt"
       ],
       "icone": "book"
     },
     {
-      "name": "Personagens de Arcane",
+      "name": "Movimentos literários",
       "words": [
-        "Vi",
-        "Jinx",
-        "Caitlyn",
-        "Jayce"
+        "Barroco",
+        "Arcadismo",
+        "Romantismo",
+        "Modernismo"
       ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Filmes de Martin Scorsese",
-      "words": [
-        "Taxi Driver",
-        "Os Bons Companheiros",
-        "Os Infiltrados",
-        "O Irlandês"
-      ],
-      "icone": "film"
+      "icone": "book"
     },
     {
       "name": "Filmes de Christopher Nolan",
@@ -54,6 +44,16 @@
         "Interestelar"
       ],
       "icone": "film"
+    },
+    {
+      "name": "Grandes camisas 10",
+      "words": [
+        "Pelé",
+        "Zico",
+        "Maradona",
+        "Ronaldinho Gaúcho"
+      ],
+      "icone": "ball"
     }
   ],
   "hiddenCategories": 2

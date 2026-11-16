@@ -1,29 +1,39 @@
 {
   "id": 25,
   "title": "Desafio 25",
-  "pack": "cinema",
-  "packName": "Cinema",
-  "moves": 49,
+  "pack": "geral",
+  "packName": "Conhecimentos gerais",
+  "moves": 48,
   "categories": [
     {
-      "name": "Termos da astronomia",
+      "name": "Países nórdicos",
       "words": [
-        "Periélio",
-        "Afélio",
-        "Eclíptica",
-        "Zênite"
+        "Noruega",
+        "Suécia",
+        "Dinamarca",
+        "Finlândia"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Unidades de medida",
+      "words": [
+        "Pascal",
+        "Joule",
+        "Newton",
+        "Watt"
       ],
       "icone": "book"
     },
     {
-      "name": "Filmes da franquia Alien",
+      "name": "Movimentos literários",
       "words": [
-        "Alien: O Oitavo Passageiro",
-        "Aliens",
-        "Alien 3",
-        "Prometheus"
+        "Barroco",
+        "Arcadismo",
+        "Romantismo",
+        "Modernismo"
       ],
-      "icone": "film"
+      "icone": "book"
     },
     {
       "name": "Personagens de Lost",
@@ -36,25 +46,15 @@
       "icone": "clapper"
     },
     {
-      "name": "Posições do futebol",
+      "name": "Grandes camisas 10",
       "words": [
-        "Goleiro",
-        "Zagueiro",
-        "Lateral",
-        "Volante"
-      ],
-      "icone": "ball"
-    },
-    {
-      "name": "Títulos do Corinthians",
-      "words": [
-        "Libertadores 2012",
-        "Mundial 2000",
-        "Mundial 2012",
-        "Brasileirão 2015"
+        "Pelé",
+        "Zico",
+        "Maradona",
+        "Ronaldinho Gaúcho"
       ],
       "icone": "ball"
     }
   ],
-  "hiddenCategories": 2
+  "hiddenCategories": 3
 }

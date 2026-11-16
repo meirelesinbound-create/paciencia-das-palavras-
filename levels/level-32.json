@@ -1,60 +1,60 @@
 {
   "id": 32,
   "title": "Desafio 32",
-  "pack": "series",
-  "packName": "Séries de TV",
+  "pack": "geral",
+  "packName": "Conhecimentos gerais",
   "moves": 46,
   "categories": [
     {
-      "name": "Unidades de medida",
+      "name": "Biomas mundiais",
       "words": [
-        "Pascal",
-        "Joule",
-        "Newton",
-        "Watt"
+        "Tundra",
+        "Savana",
+        "Taiga",
+        "Floresta temperada"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Tipos de rocha",
+      "words": [
+        "Ígnea",
+        "Sedimentar",
+        "Metamórfica",
+        "Vulcânica"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Formas poéticas",
+      "words": [
+        "Soneto",
+        "Haicai",
+        "Cordel",
+        "Ode"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Personagens de Breaking Bad",
+      "words": [
+        "Walter White",
+        "Jesse Pinkman",
+        "Saul Goodman",
+        "Hank Schrader"
       ],
       "icone": "clapper"
     },
     {
-      "name": "Personagens de Game of Thrones",
+      "name": "Modalidades olímpicas de combate",
       "words": [
-        "Jon Snow",
-        "Daenerys Targaryen",
-        "Tyrion Lannister",
-        "Arya Stark"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Copas do Mundo",
-      "words": [
-        "México 1970",
-        "Espanha 1982",
-        "Estados Unidos 1994",
-        "Coreia-Japão 2002"
+        "Judô",
+        "Esgrima",
+        "Taekwondo",
+        "Boxe"
       ],
       "icone": "ball"
-    },
-    {
-      "name": "Técnicos campeões pelo Corinthians",
-      "words": [
-        "Oswaldo Brandão",
-        "Tite",
-        "Fábio Carille",
-        "Mano Menezes"
-      ],
-      "icone": "ball"
-    },
-    {
-      "name": "Filmes com viagem no tempo",
-      "words": [
-        "De Volta para o Futuro",
-        "12 Macacos",
-        "Primer",
-        "Looper"
-      ],
-      "icone": "film"
     }
   ],
-  "hiddenCategories": 2
+  "hiddenCategories": 4
 }

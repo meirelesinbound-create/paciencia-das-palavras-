@@ -2,59 +2,59 @@
   "id": 20,
   "title": "Desafio 20",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 51,
+  "packName": "Conhecimentos gerais",
+  "moves": 48,
   "categories": [
     {
-      "name": "Biomas brasileiros",
+      "name": "Patrimônios históricos",
       "words": [
-        "Caatinga",
-        "Cerrado",
-        "Pantanal",
-        "Pampa"
+        "Machu Picchu",
+        "Petra",
+        "Angkor Wat",
+        "Stonehenge"
       ],
       "icone": "globe"
     },
     {
-      "name": "Personagens de Stranger Things",
+      "name": "Estados físicos da matéria",
       "words": [
-        "Eleven",
-        "Dustin Henderson",
-        "Jim Hopper",
-        "Max Mayfield"
+        "Sólido",
+        "Líquido",
+        "Gasoso",
+        "Plasma"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Instrumentos de percussão",
+      "words": [
+        "Pandeiro",
+        "Atabaque",
+        "Agogô",
+        "Repinique"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Personagens de Friends",
+      "words": [
+        "Rachel Green",
+        "Ross Geller",
+        "Phoebe Buffay",
+        "Chandler Bing"
       ],
       "icone": "clapper"
     },
     {
-      "name": "Estádios brasileiros",
+      "name": "Campeões mundiais de Fórmula 1",
       "words": [
-        "Maracanã",
-        "Mineirão",
-        "Arena Fonte Nova",
-        "Beira-Rio"
+        "Ayrton Senna",
+        "Michael Schumacher",
+        "Lewis Hamilton",
+        "Max Verstappen"
       ],
       "icone": "ball"
-    },
-    {
-      "name": "Finais marcantes do Corinthians",
-      "words": [
-        "Mundial 2000",
-        "Libertadores 2012",
-        "Paulistão 1977",
-        "Copa do Brasil 2009"
-      ],
-      "icone": "ball"
-    },
-    {
-      "name": "Termos de arbitragem",
-      "words": [
-        "Impedimento",
-        "Vantagem",
-        "Cartão amarelo",
-        "Cartão vermelho"
-      ],
-      "icone": "book"
     }
   ],
-  "hiddenCategories": 2
+  "hiddenCategories": 3
 }
