@@ -20,8 +20,21 @@
   const depth=p.id>=31?2:1;
   addBlockers(buried[0],buried[2],depth);addBlockers(buried[1],buried[3],depth);
  }
- // Cada monte recebe cartas próprias sob sua categoria; cartas bloqueadoras
- // de outras categorias cruzam os montes e criam decisões antes de liberar objetivos.
+ // Distribui respostas de categorias ocultas sob algumas categorias visíveis.
+ // Assim, os cinco montes têm profundidade e cartas de temas diferentes,
+ // sem revelar uma resposta antes que sua categoria possa ser descoberta.
+ const crossUnderVisible=Array.from({length:5},()=>[]);
+ const crossCursor=Array(5).fill(0);
+ for(let pos=0;pos<visible.length&&buried.length;pos++){
+  for(let offset=0;offset<buried.length;offset++){
+   const ci=buried[(pos+offset)%buried.length];
+   if(nextWord[ci]<pools[ci].length){
+    const card=pools[ci][nextWord[ci]++];
+    crossUnderVisible[pos].push({...card,face:false});used.add(card.id);
+    break;
+   }
+  }
+ }
  const underCategory=Array.from({length:5},(_,ci)=>{
   const available=pools[ci].length-nextWord[ci];
   const count=Math.min(available,available>1?(Math.random()<.5?1:2):available);
@@ -33,6 +46,7 @@
  visible.forEach((ci,pos)=>{
   cols[columnOrder[pos]]=[
    ...underCategory[ci],
+   ...crossUnderVisible[pos],
    {id:'c'+ci,type:'cat',cat:ci,name:p.categories[ci].name,face:true}
   ];
  });
