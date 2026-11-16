@@ -1,19 +1,39 @@
 {
   "id": 36,
   "title": "Desafio 36",
-  "pack": "futebol",
-  "packName": "Futebol",
-  "moves": 44,
+  "pack": "geral",
+  "packName": "Conhecimentos gerais",
+  "moves": 46,
   "categories": [
     {
-      "name": "Fenômenos ópticos",
+      "name": "Navegadores históricos",
       "words": [
-        "Refração",
-        "Difração",
-        "Dispersão",
-        "Polarização"
+        "Vasco da Gama",
+        "Fernão de Magalhães",
+        "Bartolomeu Dias",
+        "James Cook"
       ],
-      "icone": "eye"
+      "icone": "globe"
+    },
+    {
+      "name": "Fontes de energia",
+      "words": [
+        "Solar",
+        "Eólica",
+        "Hidrelétrica",
+        "Geotérmica"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Compositores clássicos",
+      "words": [
+        "Bach",
+        "Mozart",
+        "Beethoven",
+        "Chopin"
+      ],
+      "icone": "book"
     },
     {
       "name": "Personagens de The Office",
@@ -26,35 +46,15 @@
       "icone": "clapper"
     },
     {
-      "name": "Goleiros históricos",
+      "name": "Competições de clubes",
       "words": [
-        "Taffarel",
-        "Dida",
-        "Marcos",
-        "Rogério Ceni"
-      ],
-      "icone": "glove"
-    },
-    {
-      "name": "Atacantes históricos do Corinthians",
-      "words": [
-        "Cláudio Christóvam",
-        "Baltazar",
-        "Luizão",
-        "Jô"
+        "Libertadores",
+        "Sul-Americana",
+        "Champions League",
+        "Mundial de Clubes"
       ],
       "icone": "ball"
-    },
-    {
-      "name": "Filmes de animação da Pixar",
-      "words": [
-        "Ratatouille",
-        "WALL-E",
-        "Viva",
-        "Divertida Mente"
-      ],
-      "icone": "film"
     }
   ],
-  "hiddenCategories": 2
+  "hiddenCategories": 4
 }

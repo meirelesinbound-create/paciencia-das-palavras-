@@ -2,59 +2,59 @@
   "id": 21,
   "title": "Desafio 21",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 51,
+  "packName": "Conhecimentos gerais",
+  "moves": 48,
   "categories": [
     {
-      "name": "Filmes da franquia Matrix",
+      "name": "Biomas brasileiros",
       "words": [
-        "Matrix",
-        "Matrix Reloaded",
-        "Matrix Revolutions",
-        "Matrix Resurrections"
+        "Caatinga",
+        "Cerrado",
+        "Pantanal",
+        "Pampa"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Elementos químicos",
+      "words": [
+        "Gálio",
+        "Bromo",
+        "Cobalto",
+        "Xenônio"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Gêneros musicais brasileiros",
+      "words": [
+        "Choro",
+        "Maracatu",
+        "Frevo",
+        "Samba-reggae"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Filmes de animação da Pixar",
+      "words": [
+        "Ratatouille",
+        "WALL-E",
+        "Viva",
+        "Divertida Mente"
       ],
       "icone": "film"
     },
     {
-      "name": "Semifinalistas da Copa de 2022",
+      "name": "Grand Slams do tênis",
       "words": [
-        "Argentina",
-        "França",
-        "Croácia",
-        "Marrocos"
+        "Australian Open",
+        "Roland Garros",
+        "Wimbledon",
+        "US Open"
       ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Personagens de The Last of Us",
-      "words": [
-        "Joel Miller",
-        "Ellie Williams",
-        "Tommy Miller",
-        "Abby Anderson"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Frutas cítricas",
-      "words": [
-        "Limão",
-        "Laranja",
-        "Tangerina",
-        "Toranja"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Personagens de The Sopranos",
-      "words": [
-        "Tony Soprano",
-        "Carmela Soprano",
-        "Christopher Moltisanti",
-        "Paulie Gualtieri"
-      ],
-      "icone": "clapper"
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 1
+  "hiddenCategories": 3
 }

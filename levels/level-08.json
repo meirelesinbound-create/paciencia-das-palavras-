@@ -2,55 +2,59 @@
   "id": 8,
   "title": "Desafio 08",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 46,
+  "packName": "Conhecimentos gerais",
+  "moves": 50,
   "categories": [
     {
-      "name": "Fenômenos ópticos",
+      "name": "Revoluções históricas",
       "words": [
-        "Refração",
-        "Difração",
-        "Dispersão"
+        "Revolução Francesa",
+        "Revolução Haitiana",
+        "Revolução Russa",
+        "Revolução Industrial"
       ],
-      "icone": "eye"
+      "icone": "globe"
     },
     {
-      "name": "Personagens de The Office",
+      "name": "Termos da astronomia",
       "words": [
-        "Michael Scott",
-        "Dwight Schrute",
-        "Jim Halpert"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Goleiros históricos",
-      "words": [
-        "Taffarel",
-        "Dida",
-        "Marcos"
-      ],
-      "icone": "glove"
-    },
-    {
-      "name": "Movimentos literários",
-      "words": [
-        "Barroco",
-        "Arcadismo",
-        "Romantismo"
+        "Periélio",
+        "Afélio",
+        "Eclíptica",
+        "Zênite"
       ],
       "icone": "book"
     },
     {
-      "name": "Pintores impressionistas",
+      "name": "Correntes filosóficas",
       "words": [
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Edgar Degas",
-        "Camille Pissarro"
+        "Estoicismo",
+        "Epicurismo",
+        "Existencialismo",
+        "Niilismo"
       ],
-      "icone": "palette"
+      "icone": "book"
+    },
+    {
+      "name": "Filmes de Martin Scorsese",
+      "words": [
+        "Taxi Driver",
+        "Os Bons Companheiros",
+        "Os Infiltrados",
+        "O Irlandês"
+      ],
+      "icone": "film"
+    },
+    {
+      "name": "Modalidades com raquete",
+      "words": [
+        "Tênis",
+        "Badminton",
+        "Squash",
+        "Padel"
+      ],
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 1
+  "hiddenCategories": 2
 }

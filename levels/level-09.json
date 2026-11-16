@@ -2,55 +2,59 @@
   "id": 9,
   "title": "Desafio 09",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 46,
+  "packName": "Conhecimentos gerais",
+  "moves": 50,
   "categories": [
     {
-      "name": "Cordilheiras",
+      "name": "Oceanos",
       "words": [
-        "Andes",
-        "Himalaia",
-        "Alpes"
+        "Pacífico",
+        "Atlântico",
+        "Índico",
+        "Ártico"
       ],
       "icone": "globe"
     },
     {
-      "name": "Cinema brasileiro",
+      "name": "Missões espaciais",
       "words": [
-        "Central do Brasil",
-        "O Auto da Compadecida",
-        "Cidade de Deus"
+        "Apollo 11",
+        "Voyager 1",
+        "Curiosity",
+        "Perseverance"
       ],
-      "icone": "film"
+      "icone": "eye"
     },
     {
-      "name": "Personagens de The Simpsons",
+      "name": "Movimentos artísticos",
       "words": [
-        "Homer Simpson",
-        "Marge Simpson",
-        "Bart Simpson"
+        "Cubismo",
+        "Surrealismo",
+        "Expressionismo",
+        "Futurismo"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Personagens de Stranger Things",
+      "words": [
+        "Eleven",
+        "Dustin Henderson",
+        "Jim Hopper",
+        "Max Mayfield"
       ],
       "icone": "clapper"
     },
     {
-      "name": "Filmes de animação da Pixar",
+      "name": "Ligas de basquete",
       "words": [
-        "Ratatouille",
-        "WALL-E",
-        "Viva"
+        "NBA",
+        "NBB",
+        "EuroLeague",
+        "WNBA"
       ],
-      "icone": "film"
-    },
-    {
-      "name": "Tipos de nuvens",
-      "words": [
-        "Cirrus",
-        "Cumulus",
-        "Stratus",
-        "Cumulonimbus"
-      ],
-      "icone": "globe"
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 0
+  "hiddenCategories": 2
 }

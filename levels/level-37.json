@@ -1,60 +1,60 @@
 {
   "id": 37,
   "title": "Desafio 37",
-  "pack": "futebol",
-  "packName": "Futebol",
-  "moves": 44,
+  "pack": "geral",
+  "packName": "Conhecimentos gerais",
+  "moves": 46,
   "categories": [
     {
-      "name": "Cordilheiras",
+      "name": "Civilizações antigas",
       "words": [
-        "Andes",
-        "Himalaia",
-        "Alpes",
-        "Atlas"
+        "Egito Antigo",
+        "Mesopotâmia",
+        "Império Romano",
+        "Império Maia"
       ],
       "icone": "globe"
     },
     {
-      "name": "Cinema brasileiro",
+      "name": "Partes do átomo",
       "words": [
-        "Central do Brasil",
-        "O Auto da Compadecida",
-        "Cidade de Deus",
-        "Que Horas Ela Volta?"
+        "Próton",
+        "Nêutron",
+        "Elétron",
+        "Núcleo"
+      ],
+      "icone": "eye"
+    },
+    {
+      "name": "Peças de Shakespeare",
+      "words": [
+        "Hamlet",
+        "Macbeth",
+        "Otelo",
+        "Rei Lear"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Filmes de ficção científica",
+      "words": [
+        "Blade Runner",
+        "Gattaca",
+        "Distrito 9",
+        "Ex Machina"
       ],
       "icone": "film"
     },
     {
-      "name": "Personagens de The Simpsons",
+      "name": "Posições do futebol",
       "words": [
-        "Homer Simpson",
-        "Marge Simpson",
-        "Bart Simpson",
-        "Lisa Simpson"
+        "Goleiro",
+        "Zagueiro",
+        "Lateral",
+        "Volante"
       ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Seleções campeãs do mundo",
-      "words": [
-        "Brasil",
-        "Alemanha",
-        "Itália",
-        "Argentina"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Goleiros marcantes do Corinthians",
-      "words": [
-        "Cássio",
-        "Ronaldo Giovanelli",
-        "Dida",
-        "Gylmar"
-      ],
-      "icone": "glove"
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 1
+  "hiddenCategories": 4
 }

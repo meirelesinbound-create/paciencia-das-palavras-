@@ -2,18 +2,38 @@
   "id": 17,
   "title": "Desafio 17",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 52,
+  "packName": "Conhecimentos gerais",
+  "moves": 48,
   "categories": [
     {
-      "name": "Biomas mundiais",
+      "name": "Civilizações antigas",
       "words": [
-        "Tundra",
-        "Savana",
-        "Taiga",
-        "Deserto"
+        "Egito Antigo",
+        "Mesopotâmia",
+        "Império Romano",
+        "Império Maia"
       ],
       "icone": "globe"
+    },
+    {
+      "name": "Partes do átomo",
+      "words": [
+        "Próton",
+        "Nêutron",
+        "Elétron",
+        "Núcleo"
+      ],
+      "icone": "eye"
+    },
+    {
+      "name": "Peças de Shakespeare",
+      "words": [
+        "Hamlet",
+        "Macbeth",
+        "Otelo",
+        "Rei Lear"
+      ],
+      "icone": "book"
     },
     {
       "name": "Filmes de ficção científica",
@@ -26,35 +46,15 @@
       "icone": "film"
     },
     {
-      "name": "Personagens de Friends",
+      "name": "Posições do futebol",
       "words": [
-        "Rachel Green",
-        "Ross Geller",
-        "Phoebe Buffay",
-        "Chandler Bing"
+        "Goleiro",
+        "Zagueiro",
+        "Lateral",
+        "Volante"
       ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Grandes camisas 10",
-      "words": [
-        "Pelé",
-        "Zico",
-        "Maradona",
-        "Ronaldinho Gaúcho"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Peças de Shakespeare",
-      "words": [
-        "Hamlet",
-        "Macbeth",
-        "Otelo",
-        "Rei Lear"
-      ],
-      "icone": "clapper"
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 2
+  "hiddenCategories": 3
 }

@@ -2,55 +2,59 @@
   "id": 6,
   "title": "Desafio 06",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 47,
+  "packName": "Conhecimentos gerais",
+  "moves": 50,
   "categories": [
     {
-      "name": "Capitais sul-americanas",
+      "name": "Navegadores históricos",
       "words": [
-        "Buenos Aires",
-        "Lima",
-        "Quito",
-        "Santiago"
+        "Vasco da Gama",
+        "Fernão de Magalhães",
+        "Bartolomeu Dias",
+        "James Cook"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Fontes de energia",
+      "words": [
+        "Solar",
+        "Eólica",
+        "Hidrelétrica",
+        "Geotérmica"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Compositores clássicos",
+      "words": [
+        "Bach",
+        "Mozart",
+        "Beethoven",
+        "Chopin"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Personagens de The Sopranos",
+      "words": [
+        "Tony Soprano",
+        "Carmela Soprano",
+        "Christopher Moltisanti",
+        "Paulie Gualtieri"
       ],
       "icone": "clapper"
     },
     {
-      "name": "Títulos do Corinthians",
+      "name": "Competições de clubes",
       "words": [
-        "Libertadores 2012",
-        "Mundial 2000",
-        "Mundial 2012"
-      ],
-      "icone": "ball"
-    },
-    {
-      "name": "Filmes do universo Star Wars",
-      "words": [
-        "Uma Nova Esperança",
-        "O Império Contra-Ataca",
-        "O Retorno de Jedi"
-      ],
-      "icone": "film"
-    },
-    {
-      "name": "Personagens de Stranger Things",
-      "words": [
-        "Eleven",
-        "Dustin Henderson",
-        "Jim Hopper"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Estádios brasileiros",
-      "words": [
-        "Maracanã",
-        "Mineirão",
-        "Arena Fonte Nova"
+        "Libertadores",
+        "Sul-Americana",
+        "Champions League",
+        "Mundial de Clubes"
       ],
       "icone": "ball"
     }
   ],
-  "hiddenCategories": 1
+  "hiddenCategories": 2
 }

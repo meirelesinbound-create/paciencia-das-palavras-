@@ -1,9 +1,9 @@
 {
   "id": 34,
   "title": "Desafio 34",
-  "pack": "futebol",
-  "packName": "Futebol",
-  "moves": 45,
+  "pack": "geral",
+  "packName": "Conhecimentos gerais",
+  "moves": 46,
   "categories": [
     {
       "name": "Cordilheiras",
@@ -16,45 +16,45 @@
       "icone": "globe"
     },
     {
-      "name": "Goleiros marcantes do Corinthians",
+      "name": "Fenômenos ópticos",
       "words": [
-        "Cássio",
-        "Ronaldo Giovanelli",
-        "Dida",
-        "Gylmar"
+        "Refração",
+        "Difração",
+        "Dispersão",
+        "Polarização"
       ],
-      "icone": "glove"
+      "icone": "eye"
     },
     {
-      "name": "Cinema brasileiro",
+      "name": "Pintores impressionistas",
       "words": [
-        "Central do Brasil",
-        "O Auto da Compadecida",
-        "Cidade de Deus",
-        "Que Horas Ela Volta?"
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Edgar Degas",
+        "Camille Pissarro"
       ],
-      "icone": "film"
+      "icone": "book"
     },
     {
-      "name": "Personagens de The Simpsons",
+      "name": "Personagens de videogames",
       "words": [
-        "Homer Simpson",
-        "Marge Simpson",
-        "Bart Simpson",
-        "Lisa Simpson"
+        "Lara Croft",
+        "Sonic",
+        "Kratos",
+        "Master Chief"
       ],
       "icone": "clapper"
     },
     {
-      "name": "Seleções campeãs do mundo",
+      "name": "Títulos do Corinthians",
       "words": [
-        "Brasil",
-        "Alemanha",
-        "Itália",
-        "Argentina"
+        "Libertadores 2012",
+        "Mundial 2000",
+        "Mundial 2012",
+        "Brasileirão 2015"
       ],
-      "icone": "clapper"
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 2
+  "hiddenCategories": 4
 }

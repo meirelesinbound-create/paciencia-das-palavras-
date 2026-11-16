@@ -1,60 +1,60 @@
 {
   "id": 31,
   "title": "Desafio 31",
-  "pack": "series",
-  "packName": "Séries de TV",
+  "pack": "geral",
+  "packName": "Conhecimentos gerais",
   "moves": 46,
   "categories": [
     {
-      "name": "Termos da astronomia",
+      "name": "Biomas brasileiros",
       "words": [
-        "Periélio",
-        "Afélio",
-        "Eclíptica",
-        "Zênite"
+        "Caatinga",
+        "Cerrado",
+        "Pantanal",
+        "Pampa"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Elementos químicos",
+      "words": [
+        "Gálio",
+        "Bromo",
+        "Cobalto",
+        "Xenônio"
       ],
       "icone": "book"
     },
     {
-      "name": "Posições do futebol",
+      "name": "Gêneros musicais brasileiros",
       "words": [
-        "Goleiro",
-        "Zagueiro",
-        "Lateral",
-        "Volante"
+        "Choro",
+        "Maracatu",
+        "Frevo",
+        "Samba-reggae"
       ],
-      "icone": "ball"
+      "icone": "book"
     },
     {
-      "name": "Títulos do Corinthians",
+      "name": "Filmes de Star Wars",
       "words": [
-        "Libertadores 2012",
-        "Mundial 2000",
-        "Mundial 2012",
-        "Brasileirão 2015"
-      ],
-      "icone": "ball"
-    },
-    {
-      "name": "Filmes da franquia Alien",
-      "words": [
-        "Alien: O Oitavo Passageiro",
-        "Aliens",
-        "Alien 3",
-        "Prometheus"
+        "Uma Nova Esperança",
+        "O Império Contra-Ataca",
+        "O Retorno de Jedi",
+        "Rogue One"
       ],
       "icone": "film"
     },
     {
-      "name": "Personagens de Lost",
+      "name": "Grand Slams do tênis",
       "words": [
-        "Jack Shephard",
-        "Kate Austen",
-        "Sawyer",
-        "John Locke"
+        "Australian Open",
+        "Roland Garros",
+        "Wimbledon",
+        "US Open"
       ],
-      "icone": "clapper"
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 1
+  "hiddenCategories": 4
 }

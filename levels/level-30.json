@@ -1,60 +1,60 @@
 {
   "id": 30,
   "title": "Desafio 30",
-  "pack": "series",
-  "packName": "Séries de TV",
-  "moves": 47,
+  "pack": "geral",
+  "packName": "Conhecimentos gerais",
+  "moves": 46,
   "categories": [
     {
-      "name": "Fenômenos ópticos",
+      "name": "Patrimônios históricos",
       "words": [
-        "Refração",
-        "Difração",
-        "Dispersão",
-        "Polarização"
+        "Machu Picchu",
+        "Petra",
+        "Angkor Wat",
+        "Stonehenge"
       ],
-      "icone": "eye"
+      "icone": "globe"
     },
     {
-      "name": "Atacantes históricos do Corinthians",
+      "name": "Estados físicos da matéria",
       "words": [
-        "Cláudio Christóvam",
-        "Baltazar",
-        "Luizão",
-        "Jô"
+        "Sólido",
+        "Líquido",
+        "Gasoso",
+        "Plasma"
       ],
-      "icone": "ball"
+      "icone": "book"
     },
     {
-      "name": "Filmes de animação da Pixar",
+      "name": "Instrumentos de percussão",
       "words": [
-        "Ratatouille",
-        "WALL-E",
-        "Viva",
-        "Divertida Mente"
+        "Pandeiro",
+        "Atabaque",
+        "Agogô",
+        "Repinique"
       ],
-      "icone": "film"
+      "icone": "book"
     },
     {
-      "name": "Personagens de The Office",
+      "name": "Personagens de The Simpsons",
       "words": [
-        "Michael Scott",
-        "Dwight Schrute",
-        "Jim Halpert",
-        "Pam Beesly"
+        "Homer Simpson",
+        "Marge Simpson",
+        "Bart Simpson",
+        "Lisa Simpson"
       ],
       "icone": "clapper"
     },
     {
-      "name": "Goleiros históricos",
+      "name": "Campeões mundiais de Fórmula 1",
       "words": [
-        "Taffarel",
-        "Dida",
-        "Marcos",
-        "Rogério Ceni"
+        "Ayrton Senna",
+        "Michael Schumacher",
+        "Lewis Hamilton",
+        "Max Verstappen"
       ],
-      "icone": "glove"
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 2
+  "hiddenCategories": 4
 }

@@ -1,60 +1,60 @@
 {
   "id": 40,
   "title": "Desafio 40",
-  "pack": "corinthians",
-  "packName": "Corinthians",
-  "moves": 43,
+  "pack": "geral",
+  "packName": "Conhecimentos gerais",
+  "moves": 46,
   "categories": [
     {
-      "name": "Elementos químicos",
+      "name": "Patrimônios históricos",
       "words": [
-        "Gálio",
-        "Bromo",
-        "Cobalto",
-        "Xenônio"
+        "Machu Picchu",
+        "Petra",
+        "Angkor Wat",
+        "Stonehenge"
       ],
       "icone": "globe"
     },
     {
-      "name": "Personagens de The Last of Us",
+      "name": "Estados físicos da matéria",
       "words": [
-        "Joel Miller",
-        "Ellie Williams",
-        "Tommy Miller",
-        "Abby Anderson"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Fundamentos do futebol",
-      "words": [
-        "Drible",
-        "Cabeceio",
-        "Desarme",
-        "Cruzamento"
+        "Sólido",
+        "Líquido",
+        "Gasoso",
+        "Plasma"
       ],
       "icone": "book"
     },
     {
-      "name": "Ídolos do Corinthians",
+      "name": "Instrumentos de percussão",
       "words": [
-        "Sócrates",
-        "Rivellino",
-        "Marcelinho Carioca",
-        "Neto"
+        "Pandeiro",
+        "Atabaque",
+        "Agogô",
+        "Repinique"
       ],
-      "icone": "ball"
+      "icone": "book"
     },
     {
-      "name": "Filmes de Martin Scorsese",
+      "name": "Personagens de Friends",
       "words": [
-        "Taxi Driver",
-        "Os Bons Companheiros",
-        "Os Infiltrados",
-        "O Irlandês"
+        "Rachel Green",
+        "Ross Geller",
+        "Phoebe Buffay",
+        "Chandler Bing"
       ],
-      "icone": "film"
+      "icone": "clapper"
+    },
+    {
+      "name": "Campeões mundiais de Fórmula 1",
+      "words": [
+        "Ayrton Senna",
+        "Michael Schumacher",
+        "Lewis Hamilton",
+        "Max Verstappen"
+      ],
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 2
+  "hiddenCategories": 4
 }

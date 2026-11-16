@@ -2,53 +2,58 @@
   "id": 4,
   "title": "Desafio 04",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 48,
+  "packName": "Conhecimentos gerais",
+  "moves": 52,
   "categories": [
     {
-      "name": "Unidades de medida",
+      "name": "Cordilheiras",
       "words": [
-        "Pascal",
-        "Joule",
-        "Newton"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Personagens de Game of Thrones",
-      "words": [
-        "Jon Snow",
-        "Daenerys Targaryen",
-        "Tyrion Lannister"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Competições de clubes",
-      "words": [
-        "Libertadores",
-        "Sul-Americana",
-        "Champions League"
-      ],
-      "icone": "ball"
-    },
-    {
-      "name": "Tipos de rocha",
-      "words": [
-        "Ígnea",
-        "Sedimentar",
-        "Metamórfica"
+        "Andes",
+        "Himalaia",
+        "Alpes",
+        "Atlas"
       ],
       "icone": "globe"
     },
     {
-      "name": "Apelidos e símbolos da torcida",
+      "name": "Fenômenos ópticos",
       "words": [
-        "Fiel",
-        "Bando de Loucos",
-        "Gaviões da Fiel"
+        "Refração",
+        "Difração",
+        "Dispersão",
+        "Polarização"
+      ],
+      "icone": "eye"
+    },
+    {
+      "name": "Pintores impressionistas",
+      "words": [
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Edgar Degas",
+        "Camille Pissarro"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Personagens de Harry Potter",
+      "words": [
+        "Harry Potter",
+        "Hermione Granger",
+        "Ron Weasley",
+        "Albus Dumbledore"
       ],
       "icone": "clapper"
+    },
+    {
+      "name": "Goleiros históricos",
+      "words": [
+        "Taffarel",
+        "Dida",
+        "Marcos",
+        "Rogério Ceni"
+      ],
+      "icone": "ball"
     }
   ],
   "hiddenCategories": 1

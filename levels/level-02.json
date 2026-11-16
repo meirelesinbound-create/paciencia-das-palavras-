@@ -2,51 +2,56 @@
   "id": 2,
   "title": "Desafio 02",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 49,
+  "packName": "Conhecimentos gerais",
+  "moves": 52,
   "categories": [
     {
-      "name": "Movimentos literários",
+      "name": "Biomas mundiais",
       "words": [
-        "Barroco",
-        "Arcadismo",
-        "Romantismo"
+        "Tundra",
+        "Savana",
+        "Taiga",
+        "Floresta temperada"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Tipos de rocha",
+      "words": [
+        "Ígnea",
+        "Sedimentar",
+        "Metamórfica",
+        "Vulcânica"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Formas poéticas",
+      "words": [
+        "Soneto",
+        "Haicai",
+        "Cordel",
+        "Ode"
       ],
       "icone": "book"
     },
     {
-      "name": "Rivais paulistas",
+      "name": "Filmes do Studio Ghibli",
       "words": [
-        "Palmeiras",
-        "São Paulo",
-        "Santos"
+        "A Viagem de Chihiro",
+        "Meu Amigo Totoro",
+        "Princesa Mononoke",
+        "O Castelo Animado"
       ],
-      "icone": "ball"
+      "icone": "film"
     },
     {
-      "name": "Títulos do Corinthians",
+      "name": "Modalidades olímpicas de combate",
       "words": [
-        "Libertadores 2012",
-        "Mundial 2000",
-        "Mundial 2012"
-      ],
-      "icone": "ball"
-    },
-    {
-      "name": "Copas do Mundo",
-      "words": [
-        "México 1970",
-        "Espanha 1982",
-        "Estados Unidos 1994"
-      ],
-      "icone": "ball"
-    },
-    {
-      "name": "Técnicos campeões pelo Corinthians",
-      "words": [
-        "Oswaldo Brandão",
-        "Tite",
-        "Fábio Carille"
+        "Judô",
+        "Esgrima",
+        "Taekwondo",
+        "Boxe"
       ],
       "icone": "ball"
     }

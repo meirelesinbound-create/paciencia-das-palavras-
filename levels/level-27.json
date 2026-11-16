@@ -1,60 +1,60 @@
 {
   "id": 27,
   "title": "Desafio 27",
-  "pack": "cinema",
-  "packName": "Cinema",
-  "moves": 48,
+  "pack": "geral",
+  "packName": "Conhecimentos gerais",
+  "moves": 46,
   "categories": [
     {
-      "name": "Movimentos literários",
+      "name": "Civilizações antigas",
       "words": [
-        "Barroco",
-        "Arcadismo",
-        "Romantismo",
-        "Modernismo"
+        "Egito Antigo",
+        "Mesopotâmia",
+        "Império Romano",
+        "Império Maia"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Partes do átomo",
+      "words": [
+        "Próton",
+        "Nêutron",
+        "Elétron",
+        "Núcleo"
+      ],
+      "icone": "eye"
+    },
+    {
+      "name": "Peças de Shakespeare",
+      "words": [
+        "Hamlet",
+        "Macbeth",
+        "Otelo",
+        "Rei Lear"
       ],
       "icone": "book"
     },
     {
-      "name": "Clubes campeões da Libertadores",
+      "name": "Filmes da franquia Matrix",
       "words": [
-        "Boca Juniors",
-        "River Plate",
-        "Peñarol",
-        "Nacional"
-      ],
-      "icone": "ball"
-    },
-    {
-      "name": "Rivais paulistas",
-      "words": [
-        "Palmeiras",
-        "São Paulo",
-        "Santos",
-        "Portuguesa"
-      ],
-      "icone": "ball"
-    },
-    {
-      "name": "Filmes de terror",
-      "words": [
-        "Hereditário",
-        "O Iluminado",
-        "Corra!",
-        "A Bruxa"
+        "Matrix",
+        "Matrix Reloaded",
+        "Matrix Revolutions",
+        "Matrix Resurrections"
       ],
       "icone": "film"
     },
     {
-      "name": "Personagens de The Sopranos",
+      "name": "Posições do futebol",
       "words": [
-        "Tony Soprano",
-        "Carmela Soprano",
-        "Christopher Moltisanti",
-        "Paulie Gualtieri"
+        "Goleiro",
+        "Zagueiro",
+        "Lateral",
+        "Volante"
       ],
-      "icone": "clapper"
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 2
+  "hiddenCategories": 4
 }

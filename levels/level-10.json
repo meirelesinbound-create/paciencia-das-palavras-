@@ -2,55 +2,59 @@
   "id": 10,
   "title": "Desafio 10",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 45,
+  "packName": "Conhecimentos gerais",
+  "moves": 50,
   "categories": [
     {
-      "name": "Gêneros musicais brasileiros",
+      "name": "Patrimônios históricos",
       "words": [
-        "Choro",
-        "Maracatu",
-        "Frevo"
+        "Machu Picchu",
+        "Petra",
+        "Angkor Wat",
+        "Stonehenge"
       ],
       "icone": "globe"
     },
     {
-      "name": "Personagens da Democracia Corinthiana",
+      "name": "Estados físicos da matéria",
       "words": [
-        "Sócrates",
-        "Wladimir",
-        "Casagrande"
+        "Sólido",
+        "Líquido",
+        "Gasoso",
+        "Plasma"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Instrumentos de percussão",
+      "words": [
+        "Pandeiro",
+        "Atabaque",
+        "Agogô",
+        "Repinique"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Personagens de The Simpsons",
+      "words": [
+        "Homer Simpson",
+        "Marge Simpson",
+        "Bart Simpson",
+        "Lisa Simpson"
       ],
       "icone": "clapper"
     },
     {
-      "name": "Filmes vencedores da Palma de Ouro",
+      "name": "Campeões mundiais de Fórmula 1",
       "words": [
-        "Pulp Fiction",
-        "Parasita",
-        "Anatomia de uma Queda"
+        "Ayrton Senna",
+        "Michael Schumacher",
+        "Lewis Hamilton",
+        "Max Verstappen"
       ],
-      "icone": "film"
-    },
-    {
-      "name": "Cinema brasileiro",
-      "words": [
-        "Central do Brasil",
-        "O Auto da Compadecida",
-        "Cidade de Deus"
-      ],
-      "icone": "film"
-    },
-    {
-      "name": "Países nórdicos",
-      "words": [
-        "Noruega",
-        "Suécia",
-        "Dinamarca",
-        "Finlândia"
-      ],
-      "icone": "globe"
+      "icone": "ball"
     }
   ],
-  "hiddenCategories": 1
+  "hiddenCategories": 2
 }

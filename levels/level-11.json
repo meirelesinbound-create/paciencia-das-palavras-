@@ -2,55 +2,59 @@
   "id": 11,
   "title": "Desafio 11",
   "pack": "geral",
-  "packName": "Clássicos",
-  "moves": 47,
+  "packName": "Conhecimentos gerais",
+  "moves": 50,
   "categories": [
     {
-      "name": "Classes gramaticais",
+      "name": "Biomas brasileiros",
       "words": [
-        "Substantivo",
-        "Verbo",
-        "Adjetivo",
-        "Advérbio"
+        "Caatinga",
+        "Cerrado",
+        "Pantanal",
+        "Pampa"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Elementos químicos",
+      "words": [
+        "Gálio",
+        "Bromo",
+        "Cobalto",
+        "Xenônio"
       ],
       "icone": "book"
     },
     {
-      "name": "Goleiros históricos",
+      "name": "Gêneros musicais brasileiros",
       "words": [
-        "Taffarel",
-        "Dida",
-        "Marcos"
+        "Choro",
+        "Maracatu",
+        "Frevo",
+        "Samba-reggae"
       ],
-      "icone": "glove"
+      "icone": "book"
     },
     {
-      "name": "Atacantes históricos do Corinthians",
+      "name": "Filmes de Star Wars",
       "words": [
-        "Cláudio Christóvam",
-        "Baltazar",
-        "Luizão"
+        "Uma Nova Esperança",
+        "O Império Contra-Ataca",
+        "O Retorno de Jedi",
+        "Rogue One"
       ],
-      "icone": "ball"
+      "icone": "film"
     },
     {
-      "name": "Personagens de Breaking Bad",
+      "name": "Grand Slams do tênis",
       "words": [
-        "Walter White",
-        "Jesse Pinkman",
-        "Saul Goodman"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Competições de clubes",
-      "words": [
-        "Libertadores",
-        "Sul-Americana",
-        "Champions League"
+        "Australian Open",
+        "Roland Garros",
+        "Wimbledon",
+        "US Open"
       ],
       "icone": "ball"
     }
   ],
-  "hiddenCategories": 1
+  "hiddenCategories": 2
 }

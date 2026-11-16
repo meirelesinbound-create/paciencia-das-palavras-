@@ -2,58 +2,59 @@
   "id": 13,
   "title": "Desafio 13",
   "pack": "geral",
-  "packName": "Clássicos",
+  "packName": "Conhecimentos gerais",
   "moves": 50,
   "categories": [
     {
-      "name": "Missões espaciais",
+      "name": "Capitais sul-americanas",
       "words": [
-        "Apollo 11",
-        "Voyager 1",
-        "Curiosity",
-        "Perseverance"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Filmes vencedores da Palma de Ouro",
-      "words": [
-        "Pulp Fiction",
-        "Parasita",
-        "Anatomia de uma Queda",
-        "Triângulo da Tristeza"
-      ],
-      "icone": "film"
-    },
-    {
-      "name": "Personagens de Breaking Bad",
-      "words": [
-        "Walter White",
-        "Jesse Pinkman",
-        "Saul Goodman",
-        "Hank Schrader"
-      ],
-      "icone": "clapper"
-    },
-    {
-      "name": "Tipos de café",
-      "words": [
-        "Espresso",
-        "Cappuccino",
-        "Latte",
-        "Macchiato"
+        "Buenos Aires",
+        "Lima",
+        "Quito",
+        "Santiago"
       ],
       "icone": "globe"
     },
     {
-      "name": "Locais ligados ao Corinthians",
+      "name": "Tipos de nuvens",
       "words": [
-        "Neo Química Arena",
-        "Parque São Jorge",
-        "Fazendinha"
+        "Cirrus",
+        "Cumulus",
+        "Stratus",
+        "Cumulonimbus"
+      ],
+      "icone": "globe"
+    },
+    {
+      "name": "Escritores brasileiros",
+      "words": [
+        "Machado de Assis",
+        "Clarice Lispector",
+        "Jorge Amado",
+        "Carolina Maria de Jesus"
+      ],
+      "icone": "book"
+    },
+    {
+      "name": "Personagens de Game of Thrones",
+      "words": [
+        "Jon Snow",
+        "Daenerys Targaryen",
+        "Tyrion Lannister",
+        "Arya Stark"
+      ],
+      "icone": "clapper"
+    },
+    {
+      "name": "Copas do Mundo",
+      "words": [
+        "México 1970",
+        "Espanha 1982",
+        "Estados Unidos 1994",
+        "Coreia-Japão 2002"
       ],
       "icone": "ball"
     }
   ],
-  "hiddenCategories": 1
+  "hiddenCategories": 2
 }
